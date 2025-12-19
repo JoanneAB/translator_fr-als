@@ -1,0 +1,133 @@
+% ---------------------------------------------------------------------------------------------------------------
+\section{Evaluation}
+The goal of the evaluation process is to quantify the quality of the model for it to be as good as a 
+human-quality translation. The evaluation process includes an automatic step with the compuation of metrics 
+(\textit{e.g.} BLEU) and a human evaluation step on a subset of translations to check for accuracy and fluency. 
+
+% ---------------------------------------------------------------------------------------------------------------
+\subsection{Automatic metric}
+In order to measure the precision of the translation, the BLEU (Bilingual Evaluation Understudy) score is 
+computed after each epoch (see listing \ref{lst_bleu} for python function used to compute the BLEU score). 
+The BLEU score is well suited for evaluation of translation models, where precision (grammar, contextual 
+sentences...) is important. BLEU score measures how many words in the generated translation appear in the 
+reference text by used the tokenized version of the sentences. The score is scaled to be a percentage for better 
+readability. An interpretation of the BLEU score is proposed in table \ref{table_bleu}. Figure \ref{fig_bleu} 
+presents the BLEU score for each of the models presented in table \ref{table_models}.
+
+\begin{lstlisting}[language=Python, caption={Python's function used to compute the BLEU metrics at each iteration.}, captionpos=b, label={lst_bleu}]
+metric = evaluate.load("sacrebleu")
+
+def compute_metrics(eval_pred):
+    preds, labels = eval_pred
+    # HF may return a tuple; take first element
+    if isinstance(preds, (tuple, list)):
+      preds = preds[0]
+
+    # If logits slipped in (B, T, V), convert to token ids safely
+    if preds.ndim == 3:
+      preds = np.argmax(preds, axis=-1)
+
+    # Map ignore index to a real token id for decoding
+    pad_id = tokenizer.pad_token_id
+    preds  = np.where(preds != -100, preds, pad_id)
+    labels = np.where(labels != -100, labels, pad_id)
+
+    pred_seq  = tokenizer.batch_decode(preds,  skip_special_tokens=True)
+    label_seq = tokenizer.batch_decode(labels, skip_special_tokens=True)
+
+    decoded_preds, decoded_labels = postprocess_text(pred_seq, label_seq)
+    result = metric.compute(predictions=decoded_preds, references=decoded_labels)
+    result = {"bleu": result["score"]}
+    return result
+\end{lstlisting}
+
+\begin{table}[H]
+\centering \begin{tabular}{c|m{10cm}}
+$<10\%$   & Very poor\\
+$10-20\%$ & Hard to understand\\
+$20-40\%$ & Understandable, with minor errors\\
+$40-50\%$ & High quality\\
+$>50\%$   & Close to human quality, fluent translation
+\end{tabular}
+\caption{Proposed interpretation of the BLEU score.}
+\label{table_bleu}
+\end{table}
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.9]{figures/figure_bleu.pdf}
+ \caption{}
+ \label{fig_bleu}
+\end{figure}
+
+BLEU score of model 17 (figure \ref{fig_bleu}, light green curve) reach up to 53\% which is a very good score 
+that shows that the translation could be fluent and close to a human translation. The model 17 uses the 
+\texttt{Facebook/mbart-large-50-many-to-many-mmt} pre-trained model. Figure \ref{fig_pretrained} howerver showed 
+that this model would fail in robustly translating unknown words or sentences and was not considered as a good, 
+comprehensive model.\\
+
+Model 14 with a very small learning rate ($1e^{-6}$, see table \ref{table_models} for more details) do not show 
+any improvement of the BLEU metric with epoch (figure \ref{fig_bleu}, gray curve). The metric remains lower than 
+10\% which is considered as a very poor score. Figure \ref{fig_learningRate} indeed show no significant 
+improvement of the training and evaluation losses with training time for this model. This model is not learning 
+well enough. Similarly, model 5 with a larger (but still very small : $2e^{-5}$) learning rate show better 
+learning with iteration with an increasing of the BLEU score up to 20\% and smaller training and evaluation 
+losses. A BLEU score of 20\% could be considered as a poor and hard-to-understant translation.\\   
+
+Many models show a BLEU score tending to 45\% and could be classified, regarding this criteria, as a high-quality 
+translation model. Regarding the BLEU and training/evaluation loss metrics (figures \ref{fig_bleu} and 
+\ref{fig_weightDecay}), model 6 will be used for the second and last step of the evaluation process by humans.
+
+% ---------------------------------------------------------------------------------------------------------------
+\subsection{Human evaluation of the quality of the translation}
+A selection of dozens of words and dozens of sentences (from three to ten words per sentence) in French and their 
+corresponding translation in Alsatian have been compiled and distributed to some Alsatian-speaking persons. 
+Some words may have two to three possible Alsatian translation. Exemples of words and sentences are presented in 
+table \ref{table_sentences}. The full form can be viewed \href{https://docs.google.com/forms/d/1OL7qtntguZ22thrj8ia7hV9qc7mFFyPCJ_OTcBJy2GY}{in this link}. The participants where asked to rate the quality of the 
+translation with a score as described in table \ref{table_human_score}. 
+
+\begin{table}[H]
+\centering \begin{tabular}{rl}
+parler        $\rightarrow$ &Wrkung          \\
+manger        $\rightarrow$ &Schlackenkisser \\
+acheter       $\rightarrow$ &k\`auifa        \\
+Le chien      $\rightarrow$ &S Hund \\
+Un homme      $\rightarrow$ &Ein M\`ann \\
+On travaille. $\rightarrow$ &'s sch\`afft. \\
+Est-ce que \c{c}a va ?          $\rightarrow$ & Geht's ?\\
+Veux-tu manger ?                $\rightarrow$ & Wann d\"u assa ?\\
+Je cuisine de la choucroute.    $\rightarrow$ & Ech koch S\"urkr\"utt.\\
+Les Meyer ont une belle maison. $\rightarrow$ & D Meyer han a scheen H\"uss.
+\end{tabular}
+\caption{Sample exmaples of words and sentences distributed to test participants.}
+\label{table_sentences}
+\end{table}
+
+\begin{table}[H]
+\centering \begin{tabular}{c|m{10cm}}
+$0$ & It is not a good translation.\\
+$1$ & It is not a good translation but some words are fine.\\
+$2$ & It is understandable.\\
+$3$ & It is a good translation.\\
+\end{tabular}
+\caption{Proposed score to rate the quality of a translation by the test participants.}
+\label{table_human_score}
+\end{table}
+
+Figure \ref{fig_human} presents the results of the scoring from four persons. It shows that only 32\% of the 
+translations were considered as good translations while 54\% of the set could be considered as understandable. 
+One full quarter of the dataset are not understandable. 
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.85]{figures/figure_evaluation_human_circle.pdf}
+ \caption{Summary of the scores of the rating of 125 French-to-Alsatian entries by four participants.}
+ \label{fig_human}
+\end{figure}
+
+Participants said that it was difficult to read the Alsatian words and sentences because this language is a 
+spoken language and is rarely seen written. However, people said that speaking the words out loud did help making 
+the rating. In order to anticipate this issue, people were asked not to focus on grammatical and lexical 
+misspelling but on the general meaning of the translation and whether it was understandable.
+
+

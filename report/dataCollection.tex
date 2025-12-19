@@ -1,0 +1,72 @@
+% --------------------------------------------------------------------------------------------------
+\section{Data collection}
+Words and sentences in French and their translation in Alsatian have been downloaded from the Internet from 
+several sources. For each of the sources, a python script have been writen to extract and clean the data to 
+generate a database in the python's \texttt{datasets.Dataset} format.
+
+% --------------------------------------------------------------------------------------------------
+\subsection{www.alsa-immer.eu}
+The \texttt{www.alsa-immer.eu} website \citep{alsaImmer} have been thoroughly downloaded. The words and 
+sentences are already labelised using HTML tags \textit{e.g.} \texttt{<als>...</als>} and \texttt{<fr>...</fr>} 
+for Alsatian and French language respectively. The existing labelisation improves the efficiency of the data 
+selection. The resulting dataset consists of $1791$ sentences with a total of $13272$ Alsatian words and $15217$ 
+French words.
+
+% --------------------------------------------------------------------------------------------------
+\subsection{www.alsatext.eu}
+Parts of \texttt{www.alsatext.eu} website \citep{alsaText} have been downloaded for which words and sentenced are 
+labelised for language using HTML tags (\textit{e.g.} \texttt{<ex\_als>...</ex\_als>} and 
+\texttt{<ex\_fr>...</ex\_fr>} for Alsatian and French languages respectively). The resulting dataset consits of 
+7912 sentences with a total of 15839 Alsatian words and 17147 French words. 
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Alsatian - French lexicon}
+The lexicon provided by \citep{alignments} is a compilation of four lexicons sources from the French Alsace 
+region. It contains the French-Alsatian translation of 5036 words. 
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Global dataset}
+A total of 14739 sentences have been collected with a total of 34312 French words and 37400 Alsatian words. Figure 
+\ref{fig_hist_words} shows the distribution of number of words per sentence for the French and Alsatian 
+dataset. We see that most of the sentences have five to ten words, which corresponds to relatively short 
+sentences. 
+
+There are no labels defining the context, topic of the text... Systematic check with human eye is not applied.
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.9]{../alsacien/src/gmt/figures/hist_words.pdf}
+ \caption{Distribution of the number of words per sentence for the French and Alsatian datasets.}
+ \label{fig_hist_words}
+\end{figure}
+
+The dataset is divided into three independant sets for training, evaluation and testing the model. The ratio for 
+each set will be further discussed in this report. Listing \ref{lst_pretrained} presents the piece of code writen 
+to generate the dataset in the appropriate format.
+
+\begin{lstlisting}[language=Python, caption={Part of Python script to generate the dataset}, captionpos=b, label={lst_pretrained}]
+from sklearn.model_selection import train_test_split
+from datasets.dataset_dict import DatasetDict
+from datasets import Dataset
+
+from database_object import database # user-writtend class to read and store the dataset
+
+db = database()
+
+# Read and store the dataset from the several sources:
+db.get_data_alsaimmer()
+db.get_data_alsatext()
+db.get_data_motsAlsacienMulhouse()
+db.get_data_alignments()
+
+# Split the dataset into training/validation/testing sets:
+train, validtest = train_test_split(db.db    , test_size=0.6, random_state=0) # 60% training
+valid, test      = train_test_split(validtest, test_size=0.5, random_state=0) # 20%-20% valid, test
+
+# Create the dataset dict:
+d = {'train'     : Dataset.from_dict({'translation': train}),
+     'validation': Dataset.from_dict({'translation': valid}),
+     'test'      : Dataset.from_dict({'translation': test})
+     }
+d = DatasetDict(d)
+\end{lstlisting}

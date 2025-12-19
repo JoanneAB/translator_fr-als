@@ -1,0 +1,172 @@
+% --------------------------------------------------------------------------------------------------
+\section{Fine tuning}
+A pre-trained model is tuned and the model's parameters are adjusted to improve the translation from French to 
+Alsatian. The adjusted parameters are : ratios between training, evaluation and testing datasets, choice of 
+pre-trained model, learning rate, batch size and weight decay. Table \ref{table_models} presents a selection of 
+tested models and their corresponding parameters. Listing \ref{lst_training} presents the code used to generate a 
+model to translate text from French to Alsatian languages.
+
+\begin{table}[H]
+\centering \begin{tabular}{c|x{0.9cm}x{0.9cm}x{0.9cm}x{4.3cm}x{1.4cm}x{1cm}x{1.1cm}x{0.8cm}}
+        & Train set [\%] & Valid set [\%] & Test set [\%] & Pre-trained model & Learning rate & Batch size & Weight decay & Color\\ \hline \hline
+model 18 & 60 & 20 & 20 & \texttt{Google-T5/T5-small}      & 2e-4 & 16 & 0.01 & $\blacksquare$ \\
+model 16 & 60 & 20 & 20 & \texttt{Google-T5/T5-base}       & 2e-4 & 16 & 0.01 & $\colorA{\blacksquare}$ \\
+model 17 & 60 & 20 & 20 & \texttt{Facebook/mbart-large-50} & 2e-4 & 16 & 0.01 & $\colorB{\blacksquare}$ \\
+model 05 & 60 & 20 & 20 & \texttt{Google-T5/T5-base}       & 2e-5 &  8 & 0    & $\colorC{\blacksquare}$ \\
+model 08 & 80 & 10 & 10 & \texttt{Google-T5/T5-base}       & 2e-5 &  8 & 0    & $\colorD{\blacksquare}$ \\
+model 19 & 60 & 20 & 20 & \texttt{Google-T5/T5-base}       & 2e-4 &  8 & 0    & $\colorE{\blacksquare}$ \\
+model 06 & 60 & 20 & 20 & \texttt{Google-T5/T5-base}       & 2e-4 &  8 & 0.01 & $\colorF{\blacksquare}$ \\
+model 15 & 60 & 20 & 20 & \texttt{Google-T5/T5-base}       & 2e-4 &  8 & 0.05 & $\colorG{\blacksquare}$ \\
+model 14 & 60 & 20 & 20 & \texttt{Google-T5/T5-base}       & 1e-6 &  8 & 0    & $\colorH{\blacksquare}$ \\ 
+model 20 & 60 & 20 & 20 & \texttt{Google-T5/T5-base}       & 2e-4 & 32 & 0.01 & $\colorI{\blacksquare}$ 
+\end{tabular}
+\caption{Selection of models that are presented in this report with their corresponding model parameters. The color 
+represents the color used in the following figures for each model.}
+\label{table_models}
+\end{table}
+
+
+\begin{lstlisting}[language=Python, caption={Part of Python script to generate a translation model.}, captionpos=b, label={lst_training}]
+# Options for the training function:
+args = Seq2SeqTrainingArguments(
+    "my_model",
+    eval_strategy = "epoch",
+    save_strategy = "epoch",
+    learning_rate = 1e-6, # varying parameters (table 1)
+    per_device_train_batch_size = 8, # varying parameters (table 1)
+    per_device_eval_batch_size  = 8, # varying parameters (table 1)
+    save_steps       = 512, # save every 512 steps.
+    weight_decay     = 0, # varying parameters (table 1)
+    save_total_limit = 1,
+    num_train_epochs = 15,
+    predict_with_generate = True,
+    fp16                  = True, # True to speed up training on GPU
+    metric_for_best_model = 'eval_loss',
+    greater_is_better     = False,
+    load_best_model_at_end= True,
+    seed=1,
+  )
+
+data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
+
+trainer = Seq2SeqTrainer(model, args,
+    train_dataset    = tokenized_datasets["train"],
+    eval_dataset     = tokenized_datasets["validation"],
+    data_collator    = data_collator,
+    processing_class = tokenizer,
+    compute_metrics  = compute_metrics, # function for model evaluation
+)
+
+# model training:
+trainer.train()
+\end{lstlisting}
+
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Choice of pre-trained model}
+A pre-trained model is applied and trained with the new French-Alsatian dataset to allow translation from 
+French to Alsatian. The choice of pre-model plays a critical role in determining the performance of the 
+translation model. Several pre-trained models have been tested to identify the most suitable for this project. 
+Factors such as dataset size and computational resources were taken into account to determine the most effective 
+model.\\ 
+
+Thanks to its high number of included languages (200) and parameters (54.5 billions), the 
+\texttt{Facebook/NLLB-200} model (No Language Left Behind model \citep{nllb}) seems to be a good candidate for 
+this project. However, due to its large size and RAM restriction from Google Colab environment, this pre-trained 
+model could not be used.
+
+A second pre-trained model candidate is \texttt{Facebook/mBART} (Many-to-Many Multilingual Machine Translation 
+\citep{mbart}). This model is pre-trained and fined-tuned on 50 languages and more than 100 million parameters. 
+
+The third and last pre-trained model used in this project if the \texttt{Google-T5/T5-base} model 
+\citep{t5base}. This language model is pre-trained and fine-tuned on four languages and 220 million parameters 
+and could be a good compromise for efficiency and performance. To test performance and computational cost, 
+\texttt{Google-T5/T5-small} \citep{t5base} is also considered.\\ 
+
+Figure \ref{fig_pretrained} presents the training and evaluation loss for models the pre-trained models:  
+\texttt{Google-T5/T5-small} (table \ref{table_models}, model 18), \texttt{Google-T5/T5-base} (\ref{table_models}, model 
+16) and \texttt{Facebook/mbart-large-50-many-to-many-mmt} (table \ref{table_models}, model 17).
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.9]{figures/figure_pretrained.pdf}
+ \caption{Loss curves for training (solid lines) and evaluation (dashed lines) sets of model 18 (\texttt{Google-T5/T5-small}, black), model 16 (\texttt{Google-T5/T5-base}, red) and model 17 (\texttt{Facebook/mbart-large-50-many-to-many-mmt}, green). See table \ref{table_models} for more information on the model parameters.}
+ \label{fig_pretrained}
+\end{figure}
+
+Figure \ref{fig_pretrained} shows that whatever the pre-trained model, the evaluation loss curves are above the 
+training loss curves after few epochs. The models perform better on known data. Each and every model would fail in 
+predicting a robust translation for data on which they have not been trained on and that are unseen. Moreover, models 
+17 and 16 that used the \texttt{Facebook/mbart-large-50} and \texttt{Google-T5/T5-base} pre-trained model respectively, 
+show a widening of the gap between the training and evaluation loss curves. This indicates overfitting. These models 
+memorize the patterns in the training dataset and perform poorly at generalizing to unseen data during the evaluation 
+step.
+
+Pre-trained models \texttt{Facebook/mbart-large-50} (model 17) and \texttt{Google-T5/T5-base} (model 16) will no longer
+be considered as a good pre-trained model for this study. Indeed, pre-trained model \texttt{Google-T5/T5-base} show 
+very large evaluation and training loss values. Although the training loss is very small for the 
+\texttt{Facebook/mbart-large-50} pre-trained model, its inefficiency to provide a robust translation on unknown words 
+(large values of evaluation loss) excludes him as a robust candidate.
+
+% --------------------------------------------------------------------------------------------------
+\subsection{Choice of train/valid/test dataset ratio}
+Figure \ref{fig_datasets} presents the effect of changing the ratio between the training and evaluation sets. The 
+training set of model 5 contains 60\% of the total dataset while the training set of model 8 contains 80\% of the 
+total dataset. The remaining dataset is divided into two equal parts for evaluation and testing. 
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.9]{figures/figure_datasets.pdf}
+ \caption{Loss curves for training (solid lines) and evaluation (dashed lines) sets of model 5 (training set is 60\% of the dataset, dark blue) and model 8 (training set is 80\% of the dataset, light blue). See table \ref{table_models} for more information on the model parameters.}
+ \label{fig_datasets}
+\end{figure}
+
+Increasing the amount of training data does not improve the quality of the model. Model 8 is overfitting and can not 
+deliver a robust and accurate translation.
+
+\newpage
+% --------------------------------------------------------------------------------------------------
+\subsection{Choice of model training parameters}
+Batch size, weight decay and learning rate model parameters have been adjusted in order to find the model that produces 
+the more accurate and robust translation. Figures \ref{fig_batchSize}, \ref{fig_weightDecay} and \ref{fig_learningRate} 
+present models with varying batch size, weight decay and learning rate, respectively.
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.9]{figures/figure_batchSize.pdf}
+ \caption{Loss curves for training (solid lines) and evaluation (dashed lines) sets of model 16 (batch size of 16, red), model 6 (batch size of 8, yellow) and model 20 (batch size of 32, dark green). See table \ref{table_models} for more information on the model parameters.}
+ \label{fig_batchSize}
+\end{figure}
+
+The batch size is the number of training examples processed by the algorithm per step. Adjusting the batch size could 
+help finding the correct balance between speed of execution, memory requirements and stability of the model. 
+Nonetheless, one may note that the maximum batch size has been constrained to 32 due to RAM limitations in Google Colab 
+(platform where all the computation have been performed). Figure \ref{fig_batchSize} show that changing the value of 
+the batch size does not improve significantly the quality of the model. 
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.9]{figures/figure_weightDecay.pdf}
+ \caption{Loss curves for training (solid lines) and evaluation (dashed lines) sets of model 19 (weight decay of 0, pink), model 6 (weight decay of 0.01, yellow) and model 15 (weight decay of 0.05, green). See table \ref{table_models} for more information on the model parameters.}
+ \label{fig_weightDecay}
+\end{figure}
+
+The weight decay parameter is a regularization parameter to constrain the weight of the parameters and help prevent 
+overfitting. Figure \ref{fig_weightDecay} presents models with similar parameters but the weight decay. Results show 
+that models with small or no weight decay coefficient (0.01 for model 6 and 0 for model 19) show better results with 
+small training and evaluation loss values.
+
+\begin{figure}[H]
+ \centering
+ \includegraphics[scale=0.9]{figures/figure_learningRate.pdf}
+ \caption{Loss curves for training (solid lines) and evaluation (dashed lines) sets of model 14 (learning rate of $1e^{-6}$, gray), model 5 (learning rate of $2e^{-5}$, dark blue) and model 19 (learning rate of $2e^{-4}$, pink). See table \ref{table_models} for more information on the model parameters.}
+ \label{fig_learningRate}
+\end{figure}
+
+The learning rate controls the speed of learning. A too small learning rate could lead to slow and failing to converge 
+while a too large learning rate could lead to missing the soluting and failing to converge. Indeed, figure 
+\ref{fig_learningRate} shows that with a very small learning rate (1e-6), the model 14 fails to converge to an accurate 
+model. The model is learning a solution (the training and evaluation loss curves are decreasing) but the learning is 
+slow and the model still show high values of loss and is not accurage. A large learning rate for the model 19 (2e-4) 
+shows that the convergence to an accurate solution is fast (training loss is very small) but the solution is not robust 
+with training loss larger than evaluation losses. The model is over-fitting and would fail to translate unknown data.

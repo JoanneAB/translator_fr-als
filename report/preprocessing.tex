@@ -1,0 +1,32 @@
+% ---------------------------------------------------------------------------------------------------------------
+\section{Pre-processing the dataset}
+Each entry of the dataset is converted into tokens to transform the dataset from raw text to a numerical format 
+that is optimized for the modeling task. This process ensures consistent input formatting and enables the 
+translation algorithm to learn more effectively meaningful patterns.
+
+Various types of tokenizers can be used, each offering different strategies. In this project I considered the 
+tokenizers developed by Google (\texttt{google-t5}) or Meta (\texttt{Facebook/mbart-large-50-many-to-many-mmt}). 
+(see code presented in Listing \ref{lst_tokenize}). These models will be described in more details in the 
+following section.
+
+\begin{lstlisting}[language=Python, caption={Part of Python script to tokenize the dataset}, captionpos=b, label={lst_tokenize}]
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, DataCollatorForSeq2Seq, Seq2SeqTrainingArguments, Seq2SeqTrainer, pipeline
+from transformers import NllbTokenizer
+from transformers import AutoConfig
+
+# Google Tokenizer:
+checkpoint = "google-t5/t5-base"
+tokenizer = AutoTokenizer.from_pretrained(checkpoint)
+config = AutoConfig.from_pretrained(checkpoint)
+
+# Facebook tokenizer
+#checkpoint = "facebook/mbart-large-50-many-to-many-mmt"
+#tokenizer = NllbTokenizer.from_pretrained(checkpoint)
+
+# translate French to Alsatian:
+tokenizer.src_lang = "fr"
+tokenizer.tgt_lang = "als" 
+
+# Create the tokenized dataset:
+tokenized_datasets = d.map(encode, batched=True, fn_kwargs={"tokenizer":tokenizer})
+\end{lstlisting}
