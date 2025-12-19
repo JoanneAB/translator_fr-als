@@ -9,11 +9,11 @@ predict a stroke event for a patient. The model do however predicts a high rate 
 wich will lead to further clinical testing to patients that actually are not at risk of stroke. In 
 medical studies, such prediction is best. 
 
-A full report is availaible [report.pdf](https://github.com/JoanneAB/StrokePrevisionModel/blob/main/report/report.pdf).
+A full report is availaible [report.pdf](https://github.com/JoanneAB/translator_fr-als/blob/main/report/report.pdf).
 
 ## How to use it ?
 
-This study uses python libraries and can be run using the jupyter-notebook [project_stroke.ipynb](https://github.com/JoanneAB/Translator_fr-als/blob/main/main_translator_fr-als.ipynb). All datafile and local functions are available in this repository. 
+This study uses python libraries and can be run using the jupyter-notebook [main_translator_fr-als.ipynb](https://github.com/JoanneAB/translator_fr-als/blob/main/main_translator_fr-als.ipynb). All datafile and local functions are available in this repository. 
 
 ## Technology stack
 
