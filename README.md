@@ -20,6 +20,8 @@ This study uses python libraries and can be run using the jupyter-notebook [main
 The evaluation of some translations has been proposed to people using this form : [human_evaluation_form](https://docs.google.com/forms/d/1OL7qtntguZ22thrj8ia7hV9qc7mFFyPCJ_OTcBJy2GY/edit).
 Summary of the evaluation is presented in the table [output_human_evaluation_table](https://github.com/JoanneAB/translator_fr-als/blob/main/Evaluation%20de%20la%20traduction%20_Fran%C3%A7ais%20-_%20Alsacien_%20(r%C3%A9ponses).xlsx)
 
+The model is available in [model/t5-base_essai6_evaluation](https://github.com/JoanneAB/translator_fr-als/blob/main/model/t5-base_essai6_evaluation)
+
 ## Technology stack
 
 ### Data processing
