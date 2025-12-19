@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>A36_Autostross</nom_fic>
+        <creation>
+		<auteur>MiLib</auteur>
+		<date>12/06/2008</date>
+		<status>Brouillon. Pas encore complètement Orthal</status>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>A36 frànzeescha Autostroß</als>
+		<fr>Autoroute française A36</fr>
+	</elem>
+
+
+	<elem>
+		<table>
+			<caption>A36</caption>
+			<tr><td><elem><als>Ààfàng</als><fr>Début</fr></elem></td><td>Beaune</td></tr>
+			<tr><td><elem><als>And</als><fr>Fin</fr></elem></td><td><elem><als>Ottmerscha</als><fr>Ottmarsheim</fr></elem></td></tr>
+			<tr><td><elem><als>Länga</als><fr>Longueur</fr></elem></td><td>237 km</td></tr>
+			<tr><td><elem><als>Eräffnung</als><fr>Inauguration</fr></elem></td><td>1966</td></tr>
+			<tr><td><elem><als>Gheert ìn</als><fr>Gérée par</fr></elem></td><td>APRR</td></tr>
+			<tr><td><elem><als>Màut</als><fr>Péage</fr></elem></td><td><elem><als>ja</als><fr>oui</fr></elem></td></tr>
+		</table> 
+	</elem>
+
+
+
+
+	<elem>
+		<als>D A36 gheert ìn dr APRR zwìscha Beaune un Oscht vu Milhüüsa, un ìm Stààt zwìscha Oscht vu Milhüüsa und Ottmerscha.</als>
+		<fr>L'A36 est gérée par l'APRR entre Beaune et l'Est de Mulhouse, et appartient à l'état entre l'Est de Mulhouse et Ottmarsheim.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Uf Frànzeesch heißt's "La Comtoise", denn s fiahrt durch d Region Franche-Comté.</als>
+		<fr>En français, elle s'appelle "La Comtoise", parce qu'elle traverse la région Franche-Comté.</fr>
+	</elem>
+
+
+	<elem titre="h2">
+		<als>Verbìndung mìt àndra Hàuiptstroßa</als>
+		<fr>Connexion avec d'autres routes importantes</fr>
+	</elem>
+
+	<elem>
+		<als>Gega Dole lìnkt d A36 àn dr frànzeescha Autostroß A39.</als>
+		<fr>Aux alentours de Dole, l'A36 relie à l'autoroute française A39.</fr>
+	</elem>
+
+	<elem>
+		<als>Z Sàuisha, noch vu Milhüüsa, ìsch a Kritzung mìt dr frànzeescha A35 Autostroß.</als>
+		<fr>A Sausheim, près de Mulhouse, il y a un croisement avec l'autoroute française A35.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Noh Ottmerscha fiahrt d'A36 ìn Ditschlànd un verbìndet àn d ditcha A5 Autostroß, "HaFraBa" gnennt.</als>
+		<fr>Après Ottmarsheim, l'A36 mène en Allemagne et relie à l'autoroute allemande A5, nommée "Hafraba"</fr>
+	</elem>
+
+	<elem titre="h2">
+		<als>Üssfàhrta</als>
+		<fr>Sorties</fr>
+	</elem>
+
+
+
+
+
+
+
+	<elem>
+            <table>
+                <caption>A36</caption>
+
+<tr><td width="40"><elem><img_fic>album/Sortie.png</img_fic><als>Üssfàhrt</als><fr>Sortie</fr></elem></td><td width="180"><elem gras="1"><als>Rìchtung West -> Ost</als><fr>Sens Ouest -> Est</fr></elem></td><td width="40"><elem><img_fic>album/Sortie.png</img_fic><als>Üssfàhrt</als><fr>Sortie</fr></elem></td><td width="180"><elem gras="1"><als>Rìchtung Ost -> West</als><fr>Sens Est -> Ouest</fr></elem></td></tr>
+<tr><td><elem><als>1</als></elem></td>
+<td><elem><als>ST JEAN DE LOSNE</als></elem>
+<elem fin="br"><als>SEURRE</als></elem></td>
+<td><elem><als>1</als></elem></td><td><elem fin="br"><als>
+NUITS ST GEORGES</als></elem><elem fin="br"><als>
+ST JEAN DE LOSNE</als></elem><elem><als>
+SEURRE
+</als></elem></td></tr>
+<tr><td><elem><als>2</als></elem></td><td><elem fin="br"><als>
+GRAY</als></elem><elem><als>
+DOLE - AUTHUNE
+</als></elem></td><td><elem><als>2</als></elem></td><td><elem fin="br"><als>
+DOLE- CENTRE</als></elem><elem><als>
+DOLE - AUTHUNE
+</als></elem></td></tr>
+<tr><td><elem><als>2.1</als></elem></td>
+<td><elem fin="br"><als>ARC ET SENANS</als></elem><elem fin="br"><als>DAMPIERRE</als></elem>
+<elem><als>GENDREY</als></elem></td><td><elem><als>2.1
+</als></elem></td><td><elem fin="br"><als>
+ARC ET SENANS</als></elem><elem fin="br"><als>
+DAMPIERRE</als></elem><elem><als>
+GENDREY
+</als></elem></td></tr>
+<tr><td><elem><als>3
+</als></elem></td><td><elem fin="br"><als>LAUSANNE</als></elem><elem fin="br"><als>PONTARLIER</als></elem>
+<elem fin="br"><als>BESANÇON - CENTRE</als></elem>
+<elem><als>BESANÇON- PLANOISE
+</als></elem></td><td><elem><als>3
+</als></elem></td><td><elem fin="br"><als>
+GRAY</als></elem><elem><als>
+BESANÇON - PLANOISE
+</als></elem></td></tr>
+<tr><td><elem><als>
+4
+</als></elem></td><td><elem fin="br"><als>
+VESOUL</als></elem><elem><als>
+BESANÇON - ST CLAUDE
+</als></elem></td><td><elem><als>
+4
+</als></elem></td><td><elem fin="br"><als>
+LAUSANNE</als></elem><elem fin="br"><als>
+BESANÇON - CENTRE</als></elem><elem><als>
+BESANÇON - ST CLAUDE
+</als></elem></td></tr>
+<tr><td><elem><als>
+4.1
+</als></elem></td><td><elem fin="br"><als>
+BESANÇON - PALENTE</als></elem><elem fin="br"><als>
+ROULANS</als></elem><elem fin="br"><als>
+MARCHAUX
+</als></elem></td><td><elem><als>
+4.1
+</als></elem></td><td><elem fin="br"><als>
+BESANÇON - PALENTE</als></elem><elem fin="br"><als>
+ROULANS</als></elem><elem fin="br"><als>
+MARCHAUX
+</als></elem></td></tr>
+<tr><td><elem><als>
+5
+</als></elem></td><td><elem fin="br"><als>
+LURE</als></elem><elem><als>
+BAUME LES DAMES
+</als></elem></td><td><elem><als>
+5
+</als></elem></td><td><elem fin="br"><als>
+VALDAHON</als></elem><elem><als>
+BAUME LES DAMES
+</als></elem></td></tr>
+<tr><td><elem><als>
+6
+</als></elem></td><td><elem fin="br"><als>
+CLERVAL</als></elem><elem><als>
+L’ISLE S/ LE DOUBS
+</als></elem></td><td><elem><als>
+6
+</als></elem></td><td><elem fin="br"><als>
+CLERVAL</als></elem><elem><als>
+L’ISLE S/ LE DOUBS
+</als></elem></td></tr>
+<tr><td><elem><als>
+6.1
+</als></elem></td><td><elem fin="br"><als>
+PONT DE ROIDE</als></elem><elem fin="br"><als>
+BAVANS</als></elem><elem><als>
+VOUJEAUCOURT
+</als></elem></td><td><elem><als>
+6.1
+</als></elem></td><td><elem fin="br"><als>
+PONTARLIER</als></elem><elem><als>
+PONT DE ROIDE
+</als></elem></td></tr>
+<tr><td><elem><als>
+7
+</als></elem></td><td><elem fin="br"><als>
+AUDINCOURT</als></elem><elem fin="br"><als>
+VALENTIGNEY</als></elem><elem fin="br"><als>
+BAVANS</als></elem><elem fin="br"><als>
+VOUJEAUCOURT
+</als></elem></td><td><elem><als>
+7
+</als></elem></td><td><elem fin="br"><als>
+BESANÇON par RN</als></elem><elem color="white" cadre="green" fond="green" fin="br"><als>
+VALENTIGNEY</als></elem><elem fin="br"><als>
+BAVANS</als></elem><elem><als>
+VOUJEAUCOURT
+</als></elem></td></tr>
+<tr><td><elem><als>
+8
+</als></elem></td><td><elem color="white" cadre="green" fond="green"><als>
+MONTBÉLIARD
+</als></elem></td><td><elem><als>
+8
+</als></elem></td><td><elem color="white" cadre="green" fond="green"><als>
+MONTBÉLIARD
+</als></elem></td></tr>
+<tr><td><elem><als>
+9
+</als></elem></td><td><elem fin="br"><als>
+SOCHAUX</als></elem><elem fin="br"><als>
+EXINCOURT</als></elem><elem><als>
+ETUPES
+</als></elem></td><td><elem><als>
+9a
+</als></elem></td><td><elem fin="br"><als>
+EXINCOURT</als></elem><elem fin="br"><als>
+ETUPES</als></elem><elem fin="br"><als>
+AUDINCOURT
+</als></elem></td></tr>
+<tr><td><elem><als>
+ 
+</als></elem></td><td><elem><als>
+ 
+</als></elem></td><td><elem><als>
+9b
+</als></elem></td><td><elem><als>
+SOCHAUX
+</als></elem></td></tr>
+<tr><td><elem><als>
+10
+</als></elem></td><td><elem><als>
+GRAND CHARMONT
+</als></elem></td><td><elem><als>
+10
+</als></elem></td><td><elem><als>
+GRAND CHARMONT
+</als></elem></td></tr>
+<tr><td><elem><als>
+11
+</als></elem></td><td><elem fin="hr"><als>
+HÉRICOURT</als></elem><elem fin="br"><als>
+DELLE</als></elem><elem><als>
+DELÉMONT
+</als></elem></td><td><elem><als>
+11
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+VESOUL</als></elem><elem color="white" cadre="green" fond="green" fin="hr"><als>
+EPINAL</als></elem><elem fin="hr"><als>
+HERICOURT</als></elem><elem fin="br"><als>
+DELLE</als></elem><elem><als>
+DELÉMONT
+</als></elem></td></tr>
+<tr><td><elem><als>
+12
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+BELFORT – CENTRE</als></elem><elem fin="br"><als>
+BAVILLIERS</als></elem><elem fin="br"><als>
+DANJOUTIN</als></elem><elem fin="br"><als>
+BELFORT</als></elem><elem><als>
+- AUTRES QUARTIERS
+</als></elem></td><td><elem><als>
+12
+</als></elem></td><td><elem fin="br"><als>
+BELFORT</als></elem><elem fin="br"><als>
+- LA PÉPINIERE</als></elem><elem fin="br"><als>
+- LES RÉSIDENCES</als></elem><elem fin="br"><als>
+DANJOUTIN</als></elem><elem><als>
+BAVILLIERS
+</als></elem></td></tr>
+<tr><td><elem><als>
+13
+</als></elem></td><td><elem fin="br"><als>
+BELFORT</als></elem><elem><als>
+- GLACIS DU CHÂTEAU
+</als></elem></td><td><elem><als>
+13
+</als></elem></td><td><elem fin="br"><als>
+BELFORT</als></elem><elem><als>
+- GLACIS DU CHÂTEAU
+</als></elem></td></tr>
+<tr><td><elem><als>
+14
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+COLMAR</als></elem><elem color="white" cadre="green" fond="green" fin="br"><als>
+      par RN</als></elem><elem color="white" cadre="green" fond="green"><als>
+MULHOUSE
+</als></elem></td><td><elem><als>
+14
+</als></elem></td><td><elem color="white" cadre="green" fond="green"><als>
+BELFORT - CENTRE
+</als></elem></td></tr>
+<tr><td><elem><als>
+14.1
+</als></elem></td><td><elem><als>
+FONTAINE
+</als></elem></td><td><elem><als>
+14.1
+</als></elem></td><td><elem><als>
+FONTAINE
+</als></elem></td></tr>
+<tr><td><elem><als>
+15
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+COLMAR</als></elem><elem color="white" cadre="green" fond="green" fin="br"><als>
+GUEBWILLER</als></elem><elem fin="br"><als>
+THANN - CERNAY</als></elem><elem><als>
+ALTKIRCH
+</als></elem></td><td><elem><als>
+15
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+BELFORT par RN</als></elem><elem><als>
+MASEVAUX
+</als></elem></td></tr>
+<tr><td><elem><als>
+16a
+</als></elem></td><td><elem fin="br"><als>
+BRUNSTATT</als></elem><elem fin="br"><als>
+MULHOUSE
+- LES COTEAUX
+</als></elem></td><td><elem><als>
+16b
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+ÉPINAL</als></elem><elem fin="br"><als>
+THANN</als></elem><elem fin="br"><als>
+CERNAY</als></elem><elem><als>
+WITTELSHEIM
+</als></elem></td></tr>
+<tr><td><elem><als>
+16b
+</als></elem></td><td><elem fin="br"><als>
+LUTTERBACH</als></elem><elem><als>
+WITTELSHEIM
+</als></elem></td><td><elem><als>
+16a
+</als></elem></td><td><elem fin="br"><als>
+MULHOUSE</als></elem><elem fin="br"><als>
+- LES COTEAUX
+</als></elem></td></tr>
+<tr><td><elem><als>
+17
+</als></elem></td><td><elem fin="br"><als>
+PFASTATT</als></elem><elem fin="br"><als>
+MULHOUSE</als></elem><elem><als>
+- DORNACH
+</als></elem></td><td><elem><als>
+17
+</als></elem></td><td><elem fin="br"><als>
+LUTTERBACH</als></elem><elem fin="br"><als>
+PFASTATT</als></elem><elem><als>
+MULHOUSE - DORNACH
+</als></elem></td></tr>
+<tr><td><elem><als>
+18a
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+MULHOUSE - CENTRE</als></elem><elem fin="br"><als>
+- RIEDISHEIM</als></elem><elem><als>
+PARC DES EXPOSITIONS
+</als></elem></td><td><elem><als>
+ 
+</als></elem></td><td><elem><als>
+ 
+</als></elem></td></tr>
+<tr><td><elem><als>
+18b
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+GUEBWILLER</als></elem><elem fin="br"><als>
+WITTENHEIM</als></elem><elem fin="br"><als>
+KINGERSHEIM</als></elem><elem fin="br"><als>
+ILLZACH - CENTRE</als></elem><elem><als>
+BOURTZWILLER
+</als></elem></td><td><elem><als>
+18
+</als></elem></td><td><elem fin="br"><als>
+GUEBWILLER</als></elem><elem fin="br"><als>
+WITTENHEIM</als></elem><elem fin="br"><als>
+KINGERSHEIM</als></elem><elem fin="br"><als>
+ILLZACH - CENTRE</als></elem><elem><als>
+BOURTZWILLER
+</als></elem></td></tr>
+<tr><td><elem><als>
+ 
+</als></elem></td><td><elem><als>
+ 
+</als></elem></td><td><elem><als>
+19
+</als></elem></td><td><elem color="white" cadre="green" fond="green" fin="br"><als>
+MULHOUSE - CENTRE</als></elem><elem fin="br"><als>
+RIEDISHEIM</als></elem><elem fin="br"><als>
+PARC DES EXPOSITIONS
+</als></elem></td></tr>
+<tr><td><elem><als>
+20
+</als></elem></td><td><elem fin="br"><als>
+SAUSHEIM</als></elem><elem fin="br"><als>
+ILLZACH - MODENHEIM</als></elem><elem><als>
+ILE NAPOLÉON
+</als></elem></td><td><elem><als>
+20
+</als></elem></td><td><elem fin="br"><als>
+SAUSHEIM</als></elem><elem fin="br"><als>
+ILLZACH - MODENHEIM</als></elem><elem><als>
+ILE NAPOLEON
+</als></elem></td></tr>
+<tr><td><elem><als>
+21
+</als></elem></td><td><elem><als>
+USINE PEUGEOT-CITROËN
+</als></elem></td><td><elem><als>
+21
+</als></elem></td><td><elem><als>
+USINE PEUGEOT-CITROËN
+</als></elem></td></tr>
+<tr><td><elem><als>
+22
+</als></elem></td><td><elem><als>
+OTTMARSHEIM
+</als></elem></td><td><elem><als>
+22
+</als></elem></td><td><elem><als>
+OTTMARSHEIM
+</als></elem></td></tr>
+
+
+
+
+
+            </table> 
+	</elem>
+
+
+
+
+
+</article>

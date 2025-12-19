@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+
+<kurs>
+	<nom_fic>S_Johr_dura</nom_fic>
+	<theme>S Johr dura</theme>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>02/08/2014</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+
+
+	<elem>
+		<id>Johr_</id>
+		<als>D Taga namma ìm Friahjohr uf: sa wara länger, 's wìrd ìmmer speeter Nàcht.</als>
+		<fr>Les jours augmentent au printemps : ils deviennent plus longs, la nuit tombe de plus en plus tard.</fr>
+		<de>Die Tagen nehmen im Frühling auf: sie werden länger, es wird immer später Nacht.</de>
+		<en>Days increase in the spring: they become longer, night comes later.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>D Nachta namma àb: sa wara ìmmer kìrzer.</als>
+		<fr>Les nuits diminuent : elles deviennent de plus en plus courtes.</fr>
+		<de>Die Nächte nehmen ab: sie werden immer kürzer.</de>
+		<en>Nights decrease: they become shorter.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>Dr Summer fàngt àm 21. Juni àà.</als>
+		<fr>L'été commence le 21 juin.</fr>
+		<de>Der Sommer fängt am 21. Juni an.</de>
+		<en>Summer begins on June 21.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>Do gìtt's d längschta Taga un d kìrzschta Nachta.</als>
+		<fr>Là il y a les jours les plus longs et les nuits les plus courtes.</fr>
+		<de>Da gibt es die längsten Tage und die kürzesten Nächte.</de>
+		<en>Then there are the longest days and shortest nights.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+
+
+
+
+	<elem>
+		<id>Johr_</id>
+		<als>D Taga namma ìm Spotjohr àb: sa wara kìrzer, 's wìrd ìmmer friahier Nàcht.</als>
+		<fr>Les jours diminuent en automne : ils deviennent plus courts, la nuit tombe de plus en plus tôt.</fr>
+		<de>Die Tage nehmen im Herbst ab: sie werden kürzer, es wird immer früher Nacht.</de>
+		<en>The days decrease in the fall: they become shorter, night comes earlier.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>D Nachta namma uf: sa wara ìmmer länger.</als>
+		<fr>Les nuits rallongent : elles deviennent de plus en plus longues.</fr>
+		<de>Die Nächte nehmen auf: sie werden immer länger.</de>
+		<en>Nights increase: they become longer.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>Dr Wìnter fàngt àm 21. Dezamber àà.</als>
+		<fr>L'hiver commence le 21 décembre.</fr>
+		<de>Der Winter fängt am 21. Dezember an.</de>
+		<en>Winter begins on December 21.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>Do gìtt's d kìrzschta Taga un d längschta Nachta.</als>
+		<fr>Là il y a les jours les plus courts et les nuits les plus longues.</fr>
+		<de>Da gibt es die kürzesten Tage und die längsten Nächte.</de>
+		<en>Then there are the shortest days and the longest nights.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+
+
+
+	
+	
+	<elem>
+		<id>Johr_</id>
+		<als>So làuift's ìm Elsàss.</als>
+		<fr>Ca fonctionne ainsi en Alsace.</fr>
+		<de>So läuft es im Elsass.</de>
+		<en>So it works in Alsace.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>Ìn Auschtràlia, zum Beispiel, ìsch's Gegateil.</als>
+		<fr>En Australie, par exemple, c'est le contraire.</fr>
+		<de>In Australien, zum Beispiel, ist es das Gegenteil.</de>
+		<en>In Australia, for example, it is the opposite.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>Ìm Nordpole düürt dr Tàg 6 Monet, un dr Rascht vum Johr ìsch's Nàcht.</als>
+		<fr>Au pôle nord, le jour dure 6 mois et le reste de l'année il fait nuit.</fr>
+		<de>Im Nordpole dauert der Tag 6 Monaten, und der Rest des Jahres ist es Nacht.</de>
+		<en>At the North Pole, the day lasts 6 months and the rest of the year it is night.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Johr_</id>
+		<als>Do düürt a Tàg vìel länger às ìm Elsàss!</als>
+		<fr>Là un jour dure beaucoup plus longtemps qu'en Alsace !</fr>
+		<de>Da dauert ein Tag viel länger als im Elsass!</de>
+		<en>There a day lasts much longer than in Alsace!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+
+
+
+
+<elem>
+<txt>Ce cours présente les adjectifs qualificatifs avec leurs superlatifs.
+</txt>
+</elem>
+
+
+
+</kurs>
+

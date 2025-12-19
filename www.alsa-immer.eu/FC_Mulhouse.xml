@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>FC_Mulhouse</nom_fic>
+        <creation>
+		<auteur>MiLib</auteur>
+		<date>31/05/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>FC Mulhouse</als>
+		<fr>FC Mulhouse</fr>
+		<de>FC Mülhausen</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://upload.wikimedia.org/wikipedia/als/8/8c/FC_Mulhouse.png</img_fic>
+		<als>Logo vum FCM</als>
+		<fr>logo du FCM</fr>
+		<de>Logo vom FCM</de>
+	</elem>
+
+	<elem>
+		<als>Dr FCM ìsch zitter 1893 dr Füeßbàllverein vu Milhüsa, ìm Elsàss.</als>
+		<fr>Le FCM est depuis 1893 le club de foot de Mulhouse, en Alsace.</fr>
+		<de>Der FCM (Football Club de Mulhouse) ist seit 1893 der Fußballverein von Mülhausen, im Elsass.</de>
+	</elem>
+
+	<elem>
+		<als>'s ìsch der zweit eltschta Füeßbàllclub ìm Frànkrìch.</als>
+		<fr>C'est le deuxième plus ancien club de foot en France.</fr>
+		<de>Es ist der zweite älteste Fußballverein im Frankreich.</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Gschìcht</als>
+		<fr>Histoire</fr>
+		<de>Geschichte</de>
+	</elem>
+
+	<elem puce="disc">
+		<elem>
+			<als>1893: zwei junga Anglander, wo Chemie z'Milhüsa studiara, begrìnda a Füeßbàllverein.</als>
+			<fr>1893 : deux jeunes Anglais, étudiants en chimie à Mulhouse, fondent un club de foot.</fr>
+			<de>1893: zwei junge Engländer, die Chemie in Mülhausen studieren, begründen ein Fußballverein.</de>
+		</elem>
+
+		<elem>
+			<als>Ìn dara Zit ìsch 's Elsàss ditsch; dr Verein hàt àlso gheißa: Fußball Club von Mülhausen (FCM). Dr erscht Präsidant vum FCM ìsch dr Emile Reis gsìì.</als>
+			<fr>A cette époque l'Alsace est allemande ; le club s'appelle donc, en allemand : Fußball Club von Mülhausen (FCM). Le premier président du FCM a été Emile Reis.</fr>
+			<de>In dieser Zeit ist das Elsass deutsch; der Verein hat also geheißen: Fußball Club von Mülhausen (FCM). Der erst Präsident vom FCM war Emile Reis.</de>
+		</elem>
+	</elem>
+
+	<elem puce="disc">
+		<als>1901: Fuaßbàller vum Club "Young Boys Mülhausen" kämma derzüe.</als>
+		<fr>1901 : des footballeurs du club "Young Boys Mülhausen" rejoignent le FCM.</fr>
+		<de>1901: Fußballer vom Verein "Young Boys Mülhausen" kommen dazu.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1906: dr FCM fàngt ìm "Stade Vélodrome" vu Milhüsa àà z'spìela.</als>
+		<fr>1906 : le FCM commence à jouer au "Stade Vélodrome" de Mulhouse.</fr>
+		<de>1906: der FCM fangt in "Stade Vélodrome" von Mülhausen an zu spielen.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1910: Dr Joachim Bloch wìrd Präsidant wum FCM. Ar blibt's bis 1938.</als>
+		<fr>1910 : Joachim Bloch devient président du FCM. Il le restera jusqu'en 1938.</fr>
+		<de>1910: Der Joachim Bloch wird Präsident vom FCM. Er bleibt es bis 1938.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1918: àm And vum erschta Waltkriag wìrd 's Elsass wìder frànzeesch. Dr FCM wàndelt ìn dr "Stade de Bourtzwiller".</als>
+		<fr>1918 : à la fin de la première guerre mondiale, l'Alsace redevient française. Et le FCM déménage au "Stade de Bourtzwiller".</fr>
+		<de>1918: am Ende vom ersten Weltkrieg wird das Elsass wieder Französisch. Der FCM zieht um in den "Stade de Bourtzwiller".</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1932-33: dr FCM nìmmt Teil àm erschta "Championnat de France D1". Ar erriicht d 10. Plàtz.</als>
+		<fr>1932-33 : le FCM participe au premier "Championnat de France D1". Il atteint le 10ème rang.</fr>
+		<de>1932-33: der FCM nimmt Teil am ersten "Championnat de France D1". Er erreicht den 10. Platz.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1940: ìm zweita Wàltkriag wìrd's Elsass wìder ditsch. Dr FCM heißt wìder "FC Mülhausen 1893". Dr Club màcht mìt ìn der ditscha "Gauliga Elsass".</als>
+		<fr>1940 : à la deuxième guerre mondiale, l'Alsace redevient allemande. Le FCM s'appelle de nouveau "FC Mülhausen 1893". Le club participe à la "Gauliga Elsass".</fr>
+		<de>1940: im zweiten Weltkrieg wird das Elsass wieder deutsch. Der FCM heißt wieder "FC Mülhausen 1893". Der Verein nimmt Teil an die deutsche "Gauliga Elsass".</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1944-45: àm And vum zweita Wàltkrieg kààt dr FCM nìt mìtmàcha àm "Gauliga Elsass", waga da Befreiungskampf. Nochhar wìrd dr FCM wìder frànzeesch.</als>
+		<fr>1944-45 : à la fin de la deuxième guerre mondiale, le FCM ne peut pas participer à la "Gauliga Elsass", à cause des combats pour la libération. Ensuite le FCM redevient français.</fr>
+		<de>1944-45: am Ende des zweiten Weltkriegs kann der FCM nicht mitmachen am "Gauliga Elsass", wegen die Befreiungskämpfen. Nachher wird der FCM wieder französisch.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1979: dr FCM spìelt jetzt ìm "Stade de l'Ill".</als>
+		<fr>1979 : le FCM joue maintenant au "Stade de l'Ill".</fr>
+		<de>1979: der FCM spielt jetzt im "Stade de l'Ill".</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1981-82: dr FCM stiigt ìn d D1.</als>
+		<fr>1981-82 : le FCM monte en D1.</fr>
+		<de>1981-82: der FCM steigt in D1.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1989-90: dr FCM geht àwa ìn d D2.</als>
+		<fr>1989-90 : le FCM descend en D2.</fr>
+		<de>1989-90: der FCM sinkt in D2.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1997-98: dr FCM geht àwa ìn d Nàtionàl Liga.</als>
+		<fr>1997-98 : le FCM descend en National.</fr>
+		<de>1997-89: der FCM sinkt in die National Liga.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>20. Mai 1999: dr FCM verliart si Profistatus.</als>
+		<fr>20 mai 1999 : le FCM perd son statut pro.</fr>
+		<de>20. Mai 1999: der FCM verliert sein Profistatus.</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Präsidanta</als>
+		<fr>Présidents</fr>
+		<de>Präsidenten</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>1893 : dr Emile Reis</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>1910: dr Joachim Bloch wìrd Präsidant wum FCM. Ar blibt's bis 1938.</als>
+		<fr>1910 : Joachim Bloch devient président du FCM. Il le restera jusqu'en 1938.</fr>
+		<de>1910: der Joachim Bloch wird Präsident vom FCM. Er bleibt es bis 1938.</de>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>1988-90  Didier Notheaux</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>1990-92  Robert Dewilder</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>1992-95  Bernard Genghini</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>1995-96  Christian Sarramagna</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>1996-97  Christian Sarramagna</als>
+	</elem>
+
+	<elem puce="disc">
+		<als> Gilles Bourges (11.96)</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>1997-98  Gilles Bourges</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Lamine N'Diaye (04.98)</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Eugène Battmann (12.98)</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>1999-01  Bruno Scipion</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>2001-02  Damien Ott</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>2002-03  Jacky Lémée</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Jean-Paul Pfertzel (05.03)</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>2003-04  Maurice Danelon</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>2004-2008  Damien Ott</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>2008-  Laurent Croci</als>
+	</elem>
+
+
+
+
+
+	<elem titre="h2">
+		<als>Beriahmta Spìeler</als>
+		<fr>Joueurs célèbres</fr>
+		<de>Berühmte Spieler</de>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>Salah Assad</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Maurice Banide</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Paul Bloch</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Ali Bouafia</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Edmund Conen</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Stanislas Curyl</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Raymond Domenech</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Bernard Genghini</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Jean-Noël Huck</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Jean-Marc Guillou</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Manfred Kaltz</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Marcel Kauffmann</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Marc Keller</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Kees Kist</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>August Klingler</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Terje Kojedal </als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Pierre Korb </als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Willibald Kress</als>
+	</elem>
+
+	<elem puce="disc">
+		<als> Eddie Krncevic</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Lucien Laurent</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Rudison Ferreira</als>
+	</elem>
+
+	<elem puce="disc">
+		<als> Faouzi Mansouri</als>
+	</elem>
+
+	<elem puce="disc">
+		<als> Ernst Otterbach</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Abedi Pelé </als>
+	</elem>
+
+	<elem puce="disc">
+		<als>André Rey </als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Daniel Sanchez </als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Didier Six</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Yannick Stopyra </als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Franz Weselik </als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Nestor Subiat</als>
+	</elem>
+
+
+
+
+
+
+
+	<elem titre="h2">
+		<als>Fans</als>
+		<fr>Fans</fr>
+	</elem>
+
+
+	<elem>
+		<als>Zitter d Johra 1980 hàt's a bàr Fan Club gaa.</als>
+		<fr>Depuis les années 80, il y a eu plusieurs fan clubs.</fr>
+		<de>Seit die Jahren 1980 hat es mehrere Fan Club gegeben.</de>
+	</elem>
+
+	<elem>
+		<als>Dàto gìbt's zwei Fan Club: "Brigade Ultra 1988" un "Sud Alsace Fans".</als>
+		<fr>Actuellement il y a deux fan clubs : "Brigade Ultra 1988" et "Sud Alsace Fans".</fr>
+		<de>Heutzutage gibt es zwei Fan Club: "Brigade Ultra 1988" und "Sud Alsace Fans".</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Sa gheera derzüe, sìn ìmmer derbi fer süpportiara un sìnga.</als>
+		<fr>Ils sont incontournables, et sont toujours prêts à supporter et chanter.</fr>
+		<de>Sie gehören dazu, sind immer dabei um zu unterstützen und singen.</de>
+	</elem>
+
+
+	<elem fin="br">
+		<img_fic>album/FCM_Fans.jpg</img_fic>
+		<als>Fans</als>
+		<img_h>260</img_h>
+	</elem>
+
+
+
+	<elem>
+		<als>Ìn 1982, wo dr FCM ìn d D1 Liga stiigt, sìngt dr "Rino Rivers Group" a Schlàger wo dr Hymn vum FCM wìrd: </als>
+		<fr>En 1982, quand le FCM monte en D1, le "Rino Rivers Group" chante un tube qui devient l'hymne du FCM : </fr>
+		<de>In 1982, als der FCM in die D1 Liga steigt, singt der "Rino Rivers Group" ein Schläger der der Hymne vom FCM wird: </de>
+	</elem>
+
+	<elem fin="br">
+		<als>Allez Mulhouse</als>
+		<link>http://www.bide-et-musique.com/song/9431.html</link>
+	</elem>
+
+  <elem>
+    <table>
+      <tr>
+        <td>
+
+	<elem italiq="1" fin="br">
+		<als>Allez,allez Mulhouse allez</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Jetzt geht's los, denn unter uns, ìhr sìn jetz d Beschta</als>
+		<fr>Maintenant c'est parti, car entre nous, vous êtes maintenant les meilleurs</fr>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Allez,allez Mulhouse allez</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Jetz geht's los, denn mìt ìhr, ìsch ìmmer Lawa</als>
+		<fr>Maintenant c'est parti, car avec vous, c'est toujours animé</fr>
+	</elem>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+	<elem italiq="1" fin="br">
+		<als>Les supporters sont installés</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Et le match va commencer</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>A chaque fois au stade de l'Ill c'est la fête</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Depuis longtemps on en rêvait</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Bravo Dédé tu as gagné</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Aujourd'hui Mulhouse a sa grande équipe</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Attention les visiteurs il va y avoir du sport</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Les bleus et blancs vont vous montrer</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Qu'ils sont plus forts</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Onze joueurs sur le terrain</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Des milliers sur les gradins</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Allez Mulhouse on les aura,tu gagneras</als>
+	</elem>
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+	<elem italiq="1" fin="br">
+		<als>Allez,allez Mulhouse allez</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Jetzt geht's los, denn unter uns, ìhr sìn jetz d Beschta</als>
+		<fr>Maintenant c'est parti, car entre nous, vous êtes maintenant les meilleurs</fr>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Allez,allez Mulhouse allez</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Jetzt geht's los, denn mìt ìhr, ìsch ìmmer Lawa</als>
+		<fr>Maintenant c'est parti, car avec vous, c'est toujours animé</fr>
+	</elem>
+
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+
+	<elem italiq="1" fin="br">
+		<als>On n'cache pas notre ambition</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>C'est la première division</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Nous aussi on aura nos étoiles</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Impossible n'est pas français</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>C'est comme si on y était</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Au F.C.M on a soif de victoires</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Allez Mulhouse montre leur</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ce que tu as dans le coeur</als>
+	</elem>
+
+
+	<elem italiq="1" fin="br">
+		<als>Envoie tes boulets de canon</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Et sois champion</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Onze joueurs sur le terrain</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Des milliers sur les gradins</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Allez Mulhouse on les aura,tu gagneras</als>
+	</elem>
+
+
+        </td>
+      </tr>
+      <tr>
+        <td>
+
+
+	<elem italiq="1" fin="br">
+		<als>Allez,allez Mulhouse allez</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Jetz geht's los, denn unter uns, ìhr sìn jetzt d Beschta</als>
+		<fr>Maintenant c'est parti, car entre nous, vous êtes maintenant les meilleurs</fr>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Allez,allez Mulhouse allez</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Jetzt geht's los, denn mìt ìhr, ìsch ìmmer Lawa</als>
+		<fr>Maintenant c'est parti, car avec vous, c'est toujours animé</fr>
+	</elem>
+        </td>
+      </tr>
+    </table>
+  </elem>
+
+
+
+
+
+
+
+
+
+	<elem titre="h2">
+		<als>Links</als>
+		<fr>Liens</fr>
+	</elem>
+
+
+	<elem fin="br">
+		<link>http://www.fcmulhouse.com/</link>
+		<als>Offizieller Site vum FCM</als>
+		<fr>Site officiel du FCM</fr>
+	</elem>
+
+	<elem fin="br">
+		<link>http://bu88.free.fr/</link>
+		<als>Site vu dr BRIGADE ULTRA</als>
+		<fr>Site de la BRIGADE ULTRA</fr>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.alsacetv.net/index.php?id=REP196&amp;cat=Tous#REP196</link>
+		<als>Video ewer s Gsàng "Allez Mulhouse allez"</als>
+		<fr>Vidéo sur la chanson "Allez Mulhouse allez"</fr>
+	</elem>
+
+
+	<elem fin="br">
+		<img_fic>album/FCM_Match.jpg</img_fic>
+		<als>Match</als>
+	</elem>
+
+
+
+
+</article>

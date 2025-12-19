@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>S_Liacht_repariara</nom_fic>
+<theme>S Liacht repàriara</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>23/09/2014</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+ 
+ 
+ 
+<elem>
+<id>Liacht_</id>
+<als>Lüeg, Joseph, s Liacht juckt!</als>
+<fr>Regarde, Joseph, la lumière clignote !</fr>
+<de>Schau, Joseph, das Licht blinkt!</de>
+<en>Look, Joseph, the light is flashing!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Jo... läsch s Liacht üs, noh juckt's nìmm!</als>
+<fr>Oui, bon... éteins la lumière, alors elle ne clignotera plus !</fr>
+<de>Na ja... Schalte das Licht aus, dann blinkt es nicht mehr!</de>
+<en>Well... switch off the light, so it won’t flash any longer!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Sàgg jetz kè Dummheita!Lüeg ehnder wàs mìt dara Làmpa Los ìsch!</als>
+<fr>Ne dis (maintenant) pas de bêtises ! Regarde plutôt ce qui se passe avec cette lampe !</fr>
+<de>Sage jetzt keine Dummheiten! Schau eher was mit dieser Lampe los ist!</de>
+<en>Don’t say stupid things now! You’d rather look what’s going on with this lamp!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Jo... Hol mìr a Schamala.</als>
+<fr>Oui bon... Cherche-moi le tabouret.</fr>
+<de>Na ja... Hol mir den Hocker.</de>
+<en>Well... Go and get me the stool.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Do ìsch s Schamala. Gàng druf, wahrend àss i's hébb.</als>
+<fr>Voici le tabouret. Monte dessus, pendant que je le tiens.</fr>
+<de>Hier ist der Hocker.  Gehe darauf, während ich es halte.</de>
+<en>Here is the stool.  Go on it, while I hold it.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Loss's doch: 's hébt allei!</als>
+<fr>Laisse donc : il tient tout seul !</fr>
+<de>Lass es doch: es hält allein!</de>
+<en>Well, let it: it holds on its own!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Bìsch jetz nìt grobb, ìch wìll dìr jo numma halfa...</als>
+<fr>Ne sois (maintenant) pas grossier, je veux (donc) seulement t’aider...</fr>
+<de>Sei doch jetzt nicht so grob, ich will dir ja nur helfen...</de>
+<en>Don't be so rude (now), I just want to help you...</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Jo, merci... Lang mìr jetz a Strüüwaziager.</als>
+<fr>Oui bon, merci... Passe-moi maintenant un tournevis.</fr>
+<de>Na ja, danke... Gib mir jetzt einen Schraubenzieher.</de>
+<en>Well, thank you... Now give me a screwdriver.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Pàss uf, mìt em Strom!</als>
+<fr>Fais attention, avec l’électricité !</fr>
+<de>Pass auf, mit dem Strom!</de>
+<en>Be careful, with the electricity!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Jo, hàsch Racht. Gàng dr Strom ge àbstella.</als>
+<fr>Oui bon, tu as raison. Va couper le courant.</fr>
+<de>Na ja, du hast Recht. Gehe den Strom abzustellen.</de>
+<en>Well, you're right. Go and switch off the electricity.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Lisala (a Rung speeter) :Ar ìsch àb. Sàgg mìr, wenn da noch ebbis brüüchsch.</als>
+<fr>Lisala (un moment plus tard) :Il est coupé. Dis-moi, si tu as encore besoin de quelque chose.</fr>
+<de>Lisala (nach einer Weile):Er ist ab.Sage mir, wenn du noch etwas brauchst.</de>
+<en>Lisala (after a moment):It is off.Tell me, if you still need something.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Hol a Tàschalàmpa un zìnd mìr uffa.</als>
+<fr>Cherche une lampe de poche et éclaire vers le haut.</fr>
+<de>Suche eine Taschenlampe und erleuchte nach oben.</de>
+<en>Get a flashlight and enlighten upwards.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>So hàsch wìder Liacht. Sìesch ebbis?</als>
+<fr>Ainsi tu as de nouveau de la lumière. Est-ce que tu vois quelque chose ?</fr>
+<de>So hast du wieder Licht. Siehst du etwas?</de>
+<en>So you have light again. Do you see anything?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Jo... Do ìsch a Strüüwa wo noddelt. Ìch wìll sa wìder ààziaga... Oh! Jetz ìsch sa àwaghèit! Lüeg äb dü sa fìndsch!</als>
+<fr>Ouais... Là il y a une vis qui est mal fixée. Je vais la resserrer... Oh ! Maintenant elle est tombée ! Regarde si tu la trouves !</fr>
+<de>Na ja... Hier ist eine lockere Schraube. Ich werde sie wieder anziehen... Oh! Jetzt ist sie gefallen! Schau, ob du sie findest!</de>
+<en>Well... Here there is a loose screw. I'm going to tighten it...  Oh! Now it fell! Look if you find it!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Ìch sìeh sa niana...</als>
+<fr>Je ne la vois nulle part...</fr>
+<de>Ich sehe sie nirgendwo...</de>
+<en>I see it nowhere...</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Lüeg hàlt besser! Un dummel di: mìr wìrd's dìrmlig do owa.</als>
+<fr>Regarde mieux, alors ! Et dépêche-toi : j’attrape le tournis, là-haut.</fr>
+<de>Schau dann besser! Und beeil dich: mir wird es schwindlig dort oben.</de>
+<en>Look better! And hurry up: I get dizzy up there.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Liacht_</id>
+<als>Eh dernoh, kumm àwa un süech sa mìt mìr. Z'hàlb zweit fìnda mìr sa schnaller.</als>
+<fr>Eh bien alors, descends et cherche-la avec moi. A deux nous la trouverons plus vite.</fr>
+<de>Eh dann, komm runter und suche sie mit mir. Zu zwei finden wir sie schneller.</de>
+<en>Then well, come down and search it with me. We both will find it faster.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+ 
+ 
+ 
+<elem>
+<txt>Ce cours présente les phrases impératives.
+</txt>
+</elem>
+ 
+ 
+ 
+</kurs>

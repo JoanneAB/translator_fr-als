@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Was_sin_Elsasser</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>22/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Wàs sìn Elsasser?</als>
+		<fr>Que sont les alsaciens ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wàs sìn Elsasser?</als>
+		<fr>Que sont les alsaciens ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Sìn Elsasser Ditscha?</als>
+		<fr>Les Alsaciens sont-ils des Allemands ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Nej, Elsasser tüen vìel besser assa àss Ditscha ;-)</als>
+		<fr>Non, les Alsaciens mangent bien mieux que les Allemands ;-)</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Sìn Elsasser Frànzosa?</als>
+		<fr>Les Alsaciens sont-ils des Français ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ja, scho. Àwer a Elsasser versteht ìmmer besser elsassisch àss a walscher Frànzoser.</als>
+		<fr>Oui, forcément. Mais un Alsacien comprend toujours mieux le dialecte alsacien qu'un Français de l'intérieur.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Sìn Elsasser wia Bretons oder Corses?</als>
+		<fr>Les Alsaciens sont-ils comme les Bretons ou les Corses? </fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìm a Sìnn, a betsi. Àwer nur d Elsasser sìn stolz ìwer ìhra Region un gann sìch zwàr Miahj fer ìmmer prima Frànzeesch z'reda.</als>
+		<fr>Dans un sens, un peu. Mais seuls les Alsaciens sont fiers de leur région et se donnent cependant du mal pour toujours parfaitement parler français.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Elsasser sìn eifàch Elsasser, nìt?</als>
+		<fr>Les Alsaciens sont simplement des Alsaciens, non ?</fr>
+	</elem>
+
+
+
+	<elem>
+		<als>D Walt chàngschiart, s Elsàss chàngschiart...</als>
+		<fr>Le monde change, l'Alsace change...</fr>
+	</elem>
+
+	<elem>
+		<als>Friahjer hàt ma dr Dialekt gredt, hìt kààt ma-n-a schriiwa...</als>
+		<fr>Autrefois on parlait le dialecte, aujourd'hui on peut l'écrire...</fr>
+	</elem>
+
+	<elem>
+		<als>Màcha àlla wia's àm beschta geht, un 's wìrd scho ebbis drüs gaa!</als>
+		<fr>Faites tous du mieux que vous pouvez, et il en sortira bien quelque chose !</fr>
+	</elem>
+
+
+
+
+</article>

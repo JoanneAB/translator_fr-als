@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Kugelhopf</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>24/10/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Kugelhopf</als>
+	</elem>
+
+	<elem titre="h2">
+		<als>Wàs ma brüücht</als>
+		<fr>Ce dont on a besoin</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>500 g Mahl</als>
+		<fr>500 g de farine</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>100 g Zucker</als>
+		<fr>100 g de sucre</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>10 g Sàlz</als>
+		<fr>10 g de sel</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>2 Eier</als>
+		<fr>2 oeufs</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>150 ml Mìlch</als>
+		<fr>150 ml de lait</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>40 g Biarhewa</als>
+		<fr>40 g  de levure de bière</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>120 g Butter</als>
+		<fr>120 g de beurre</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>150 g Meertriiwala</als>
+		<fr>150 g de raisins secs</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Màndla</als>
+		<fr>des amandes</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6370Kugelhopf_War.JPG</img_fic>
+		<als>d Wàr</als>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Rezapt</als>
+		<fr>Recette</fr>
+	</elem>
+
+	<elem>
+		<als>Umanànder màcha : Mahl, Zucker, Sàlz, Eier, d Bierhewa ìn dr Mìlch, küüm leih.</als>
+		<fr>Mélanger : la farine, le sucre, le sel, les oeufs, la levure de bière diluée dans le lait, à peine tiède.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>(Àchtung : d Mìlch sott jo nìt züe wàrm see, sunscht geht d Hewa kàpütt !)</als>
+		<fr>(Attention : le lait ne doit surtout pas être trop chaud, sinon la levure meurt !)</fr>
+	</elem>
+
+	<elem>
+		<als>Wenn àlles güet umanànder ìsch, màcht ma dr Butter drà.</als>
+		<fr>Quand tout est bien mélangé, on ajoute le beurre.</fr>
+	</elem>
+
+	<elem>
+		<als>(Dr Butter müeß nìt kàlt see, ìnter weiech.)</als>
+		<fr>(Le beurre ne doit pas être froid, plutôt mou.)</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wìder güet umanànder màcha.</als>
+		<fr>De nouveau bien mélanger.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>D Meertriiwala derzüe màcha un riahra.</als>
+		<fr>Ajouter les raisins secs et pétrir.</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6382Kugelhopf_Teig.JPG</img_fic>
+		<als>dr Teig</als>
+	</elem>
+
+
+
+	<elem>
+		<als>A Kugelhupfmodel mìt Butter ischmeera</als>
+		<fr>Enduire de beurre un moule à Kougelhopf</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>un Màndla drii lìega.</als>
+		<fr>et y placer des amandes au fond.</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6381Kugelhopf_Model.JPG</img_fic>
+		<als>dr Model</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Teig ìm Model inaschìtta.</als>
+		<fr>Mettre la pâte dans le moule.</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6383Kugelhopf_Teig_im_Model.JPG</img_fic>
+		<als>dr Teig ìm Model</als>
+	</elem>
+
+	<elem>
+		<als>Ungfahr 10 Stund loo hàwa (oder weniger, wenn er schnaller uffa geht)</als>
+		<fr>Laisser lever environ 10 heures (ou moins, s'il monte plus vite)</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>ìn'ma Ort wo's ehnder wàrm ìsch un ohna Durzug.</als>
+		<fr>dans un endroit plutôt chaud et sans courants d'air.</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6395Kugelhopf_dowa.JPG</img_fic>
+		<als>dr Kugelhopf dowa</als>
+	</elem>
+
+	<elem>
+		<als>Dr Bàchofa vorhar àmàcha mìt 180°C</als>
+		<fr>Préchauffer le four à 180°C</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>un 40 Minuta loo bàcha.</als>
+		<fr>puis laisser cuire 40 minutes.</fr>
+	</elem>
+
+	<elem>
+		<img_fic>album/100_6398Kugelhopf_bacha.JPG</img_fic>
+		<als>dr Kugelhopf bàcha</als>
+	</elem>
+
+	<elem>
+		<als> </als>
+	</elem>
+
+	<elem>
+		<img_fic>album/100_6407Kugelhopf_uf_dr_Platta.JPG</img_fic>
+		<als>uf dr Plàtta</als>
+	</elem>
+
+	<elem>
+		<als> </als>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6415Kugelhopf_Tranche.JPG</img_fic>
+		<als>zum Assa</als>
+	</elem>
+
+
+</article>

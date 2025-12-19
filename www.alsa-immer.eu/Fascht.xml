@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+
+<kurs>
+	<nom_fic>Fascht</nom_fic>
+	<theme>Fascht</theme>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>19/06/2014</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Dr Thomas hàt boll Geburtstàg.</als>
+		<fr>Thomas a bientôt son anniversaire.</fr>
+		<de>Thomas hat bald Geburtstag.</de>
+		<en>Thomas soon has his birthday.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Mìr wann saller Tàg a groß Fascht màcha.</als>
+		<fr>Nous voulons ce jour-là faire une grande fête.</fr>
+		<de>Wir wollen diesen Tag ein großes Fest machen.</de>
+		<en>We want to make that day a great party.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Mìr fiira dàs ìm Dorfhüss.</als>
+		<fr>Nous fêterons ça dans la salle polyvalente du village.</fr>
+		<de>Wir werden das im Dorfhaus feiern.</de>
+		<en>We will celebrate that in the meeting house of the village.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Mìr mian dr Sààl rìschta.</als>
+		<fr>Nous devons préparer la salle.</fr>
+		<de>Wir müssen den Saal vorbereiten.</de>
+		<en>We have to prepare the hall.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Zwei wucha speeter...</als>
+		<fr>Deux semaines plus tard...</fr>
+		<de>Zwei Wochen später...</de>
+		<en>Tho weeks later...</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Hìtt ìsch ìm Thomas si Geburtstàg.</als>
+		<fr>Aujourd'hui, c'est l'anniversaire de Thomas.</fr>
+		<de>Heute ist Thomases Geburtstag.</de>
+		<en>Today is Thomas's birthday.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Vìel Frìnd sìn kumma. Uf em Tìsch stehn Küecha, Flascha un Gleeser.</als>
+		<fr>Beaucoup d'amis sont venus. Sur la table il y a des gâteaux, des bouteiles et des verres.</fr>
+		<de>Viel Freunde sind gekommen. Auf dem Tisch stehen Kuchen, Flaschen un Gläser.</de>
+		<en>Many people have come. On the table there are cakes, bottles and glasses.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>S Lisala sajt: Ìch bìn gescht ànagànga, ìch hà dr Sààl grìschta.</als>
+		<fr>Lisala dit: J'y suis allée hier, j'ai préparé la salle.</fr>
+		<de>Lisala sagt: Ich bin gestern hingegangen, ich habe den Saal vorbereitet.</de>
+		<en>Lisala says: I went there yesterday, I prapared the room yesterday.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Àwer mina Màmma ìsch vorhar aui scho kumma gsìì.</als>
+		<fr>Mais ma mère était aussi déjà venue avant.</fr>
+		<de>Aber meine Mutter war vorher auch schon gekommen.</de>
+		<en>But my mother had already come before.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Sa hàt d Wààr scho brocht ghàà.</als>
+		<fr>Elle avait déjà apporté le nécessaire.</fr>
+		<de>Sie hatte die War schon gebracht.</de>
+		<en>She had already brought the necessary.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>No hà-n-i nìmm vìel Àrwet ghàà.</als>
+		<fr>Alors je n'avais plus beaucoup de travail.</fr>
+		<de>Dann hatte ich nicht mehr viel Arbeit.</de>
+		<en>Then I did no more have much work.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Dr Joseph Àh, güet! Mìr profitiara jetz vum Fascht.</als>
+		<fr>Joseph Ah, bien ! Nous profitons maintenant de la fête.</fr>
+		<de>Joseph Ah, gut! Wir genießen jetzt das Fest.</de>
+		<en>Joseph Ah, well! Now we enjoy the party.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Mìr assa un trìnka.</als>
+		<fr>Nous mangeons et buvons.</fr>
+		<de>Wir essen und trinken.</de>
+		<en>We are eating and drinking.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>S Lisala Ja, un mìr màcha dr Sààl drackig!</als>
+		<fr>Lisala Oui, et nous salissons la salle !</fr>
+		<de>Lisala Ja, und wir verschmutzen den Saal!</de>
+		<en>Lisala Yes, and we make the room dirty!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Dr Joseph Àrm Lisala!Wìrrsch morn vìel Àrwet hàà, fer dàs àlles ufputza!</als>
+		<fr>Joseph Pauvre Lisala !Tu auras beaucoup de travail demain, pour nettoyer tout ça !</fr>
+		<de>Joseph Arme Lisala! Du wirst morgen viel Arbeit haben, um das alles aufzuputzen!</de>
+		<en>Joseph Poor Lisala! You will have a lot of work tomorrow, in order to clean all this!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>Ìch hìlf dìr, mìr màcha's mìtnànder!</als>
+		<fr>Je t'aiderai, nous le ferons ensemble !</fr>
+		<de>Ich werde dir helfen, wir machen es miteinander!</de>
+		<en>I'll help you, we will do it together!</en>
+		<img></img>
+		<audio/>
+		<expl>Futur.
+Exprimé en alsacien par un présent, dans ce cas.</expl>
+	</elem>
+
+	<elem>
+		<id>Fascht_</id>
+		<als>S Lisala Nèi, denn mina Màmma wìrd wohrschins scho friahj àlles ufgrüümt hàà!</als>
+		<fr>Lisala Non, parce que ma mère aura probablement déjà tout rangé tôt !</fr>
+		<de>Lisala Nein, denn meina Mutter wird wahrscheinlich schon früh alles aufgeräumt haben!</de>
+		<en>Lisala No, because my mother will probably early have already cleaned up everything!</en>
+		<img></img>
+		<audio/>
+		<expl>Futur antérieur :
+on se situe dans le futur et on parle d'une action qui sera passée.</expl>
+	</elem>
+
+
+
+
+
+<elem>
+<txt>Ce cours présente les principaux temps, en grammaire : passé, présent, futur...
+Ils ressemblent aux temps du français, mais avec quelques différences : l'imparfait n'existe pas (seulement le passé simple), le futur peut facilement être exprimé par une phrase au présent.
+</txt>
+</elem>
+
+
+
+</kurs>
+

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Elsasser_Service</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>26/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Elsassischa Gschìr (service alsacien)</als>
+	</elem>
+
+	<elem>
+		<als>Ìn jedera Fàmìlia (...fàscht jedera Fàmìlia) ìsch a "Elsasser Service".</als>
+		<fr>Dans chaque famille (...presque chaque famille) il y a un "service alsacien".</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dàs ìsch Gschìr mìt Bìlder vum Loux, Bìlder ìwer s Elsàss vu friahier.</als>
+		<fr>C'est de la vaisselle avec des illustrations de Loux, des illustrations sur l'Alsace d'autrefois.</fr>
+	</elem>
+
+	<elem>
+		<als>Àn da Sundigassa... ìn dr Fàmìlia... ìn da tràditionnella Wìrtschàfta... do hàt ma àls Stundawiisa làng die Bìlder kenna àlüega.</als>
+		<fr>Lors des repas du dimanche... en famille... dans les restaurants traditionnels... là on peut pendant des heures regarder ces images.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Sogàr üssawandig känna lehra.</als>
+		<fr>Et même les apprendre par coeur.</fr>
+	</elem>
+
+	<elem>
+		<als>Dr Moler ìsch dr Henri Loux.</als>
+		<fr>Le dessinateur est Henri Loux.</fr>
+	</elem>
+
+	<elem>
+		<als>D Bìlder sìn Szena vun'ra scheena Vergàngaheit, ìn da Falder, ìn da Därfer.</als>
+		<fr>Les images sont des scènes d'un joli passé, dans les champs, dans les villages.</fr>
+	</elem>
+
+	<elem>
+		<als>'s gìbt a Unterschìd mìt da beriemta Bìlder vum Hànsi:</als>
+		<fr>Il y a une différence avec les célèbres images de Hansi :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als> ìm Loux sina Bìlder sìn nìt so symbolisch oder pàtriotisch.</als>
+		<fr>les images de Loux ne sont pas aussi symboliques ou patriotiques.</fr>
+	</elem>
+
+	<elem>
+		<als>D Kollektion heißt "Obernai", 's ìsch produziert durch d "Faïencerie de Sarreguemines", ìn Lothrìnga.</als>
+		<fr>La collection s'appelle "Obernai", elle est produite par la "Faïencerie de Sarreguemines", en Lorraine.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Nawa da Taller gìbt s àui Tassala, Plàtta (lànga und runda), Hafala, Suppaschìssel...</als>
+		<fr>A côté des assiettes il y a aussi des tasses, des plats (longs et ronds), des pots, des soupières...</fr>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.sessenheim.net/h.Loux.htm</link>
+		<als>Site ìwer dr Henri Loux</als>
+		<fr>Site sur Henri Loux</fr>
+	</elem>
+
+	<elem fin="br">
+		<link>http://home.datacomm.ch/selsass/Loux.htm</link>
+		<als>http://home.datacomm.ch/selsass/Loux.htm</als>
+	</elem>
+
+
+
+</article>

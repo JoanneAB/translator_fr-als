@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Hansala_klei</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>04/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Hànsala klei</als>
+		<fr>Petit Jean</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Hànsala klei geht allei</als>
+		<fr>Petit Jean part tout seul</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>ìn die witta Wald hinein</als>
+		<fr>dans le vaste monde</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Stock un Hüet gehn ìhm güet</als>
+		<fr>Bâton et chapeau lui vont bien</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìsch gànz wohl gemüet</als>
+		<fr>Il est rempli de courage</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Àwer Màmma griant so sehr</als>
+		<fr>Mais Maman pleure tellement</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wial sa hàt kè Hànsala mehr</als>
+		<fr>Parce qu'elle n'a plus son petit Jean</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>"Lieb Màmma, ìch bì do" hopsa hopsasa</als>
+		<fr>"Chère Maman, me revoilà" hopsa hopsassa</fr>
+	</elem>
+
+
+	<elem fin="br">
+		<link>Musik.htm#H%C3%A0nsala klei</link>
+		<als>Nota un Müsik</als>
+		<fr>Notes et musique</fr>
+	</elem>
+
+
+</article>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>D_Eier</nom_fic>
+<theme>D Eier</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>22/11/2014</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+
+
+
+<elem>
+<id>D_Eier_</id>
+<als>S Lisala hàt kè Eier meh.</als>
+<fr>Lisala n'a plus d'oeufs.</fr>
+<de>Lisala hat keine Eier mehr.</de>
+<en>Lisala has no more eggs.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>As hàt ìm Hiahnerstàll kenna gfunda.</als>
+<fr>Elle n'en a pas trouvé dans le poulailler.</fr>
+<de>Sie hat im Hühnerstall keinen gefunden.</de>
+<en>She hasn't found any in the henhouse.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>As schìckt dr Joseph zum Büür: ar soll därt Eier ge hola.</als>
+<fr>Elle envoie Joseph chez le paysan : il doit aller là-bas chercher des oeufs.</fr>
+<de>Sie schickt Joseph zum Bauer: er soll dort Eier holen.</de>
+<en>She sends Joseph to the farmer: he should go there get eggs.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Ma kààt bim Büür Eier, Butter un Mìlch kàuifa.</als>
+<fr>On peut acheter chez le paysan des oeufs, du beurre et du lait.</fr>
+<de>Man kann beim Bauer Eier, Butter und Milch kaufen.</de>
+<en>One can buy eggs, butter and milk by the farmer.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Dr Büür kààt hìtt kè Eier ìm Joseph verkàuifa, denn ar hàt aui kenna meh.</als>
+<fr>Le paysan ne peut pas vendre d'oeufs à Joseph aujourd'hui, car il n'en a plus non plus.</fr>
+<de>Der Bauer kann heute keine Eier Joseph verkaufen, denn er hat auch keine mehr.</de>
+<en>The farmer can't sell any eggs to Joseph today, because he also hasn't got any more.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Dr Joseph geht zum Bäck.</als>
+<fr>Joseph va chez le boulanger.</fr>
+<de>Joseph geht zum Bäcker.</de>
+<en>Joseph goes to the baker.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Ar kàuift Brot bim Bäck, un ar frogt dr Bäck äb'r Eier verkàuift.</als>
+<fr>Il achète du pain chez le boulanger, et il demande au boulanger s'il vend des oeufs.</fr>
+<de>Er kauft Brot bei Bäcker, und er fragt, ob er Eier verkauft.</de>
+<en>He buys bread by the baker, and he asks if he sells eggs.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Dr Bäck verkàuift àwer kè Eier.</als>
+<fr>Mais le boulanger ne vend pas d'oeufs.</fr>
+<de>Aber der Bäcker verkauft keine Eier.</de>
+<en>But the baker doesn't sell any eggs.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Ar schìckt dr Joseph ìns Gschaft.</als>
+<fr>Il envoie Joseph au magasin.</fr>
+<de>Er schickt Joseph in den Laden.</de>
+<en>He sends Joseph to the store.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Dr Joseph geht ìns Gschaft.</als>
+<fr>Joseph va au magasin.</fr>
+<de>Joseph geht in den Laden.</de>
+<en>Joseph goes to the store.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Ma fìndet àlles ìm Gschaft.</als>
+<fr>On trouve tout dans le magasin.</fr>
+<de>Man findet alles im Laden.</de>
+<en>One can find everything in the store.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Dr Joseph kàuift Eier un Wii, ìm Gschaft.</als>
+<fr>Joseph achète des oeufs et du vin, au magasin.</fr>
+<de>Joseph kauft Eier und Wein im Laden.</de>
+<en>Joseph buys eggs and wine at the store.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Dr Joseph geht andlig heim.</als>
+<fr>Joseph rentre enfin à la maison.</fr>
+<de>Joseph geht endlich nach Hause.</de>
+<en>At last Joseph goes home.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>S Lisala wàrtet uf ìhn, dheim.</als>
+<fr>Lisala l'attend, à la maison.</fr>
+<de>Lisala wartet auf ihn, zu Hause.</de>
+<en>Lisala is waiting for him, at home.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Ìch hà gmeint, dü gehsch zum Büür un kummscht glich zruck!| Hàsch bi ìhm a Schäppala trunka?</als>
+<fr>Je croyais que tu vas chez le paysan et que tu rentres immédiatement!| Tu as bu un verre chez lui?</fr>
+<de>Ich dachte, du gehst zum Bauer und kommst gleich zurück!| Hast du ein Schoppen mit ihm getrunken?</de>
+<en>I thought you go to the farmer and that you come back immediately!| Did you have a drink with him?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Nei. Ìch hà bim Büür kè Eier gfunda.| Noh bì-n-i zum Bäck un noch ìns Gschaft gànga.| Sè, do sìn dina Eier.</als>
+<fr>Non. Je n'ai pas trouvé d'oeufs chez le paysan.| Alors je suis allé chez le boulanger et encore au magasin.| Tiens, voici tes oeufs.</fr>
+<de>Nein. Ich habe beim Bauer keine Eier gefunden.| Dann bin ich zum Bäcker und noch in den Laden gegangen.| Hier sind deine Eier.</de>
+<en>No. I didn't find any eggs by the farmer.| So I went to the baker and also to the store.| Here are your eggs.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>D_Eier_</id>
+<als>Merci Joseph!| Àwer ìch bì derwillscht zu dr Noochbra gànga, un sìe hàt mìr Eier gaa.| Dr Küecha bàcht jetz ìm Ofa...</als>
+<fr>Merci Joseph!| Mais je suis entre-temps allée chez la voisine, et elle m'a donné des oeufs.| Le gâteau cuit maintenant dans le four.</fr>
+<de>Danke Joseph |! Aber ich bin daweil zu der Nachbarin gegangen, und sie hat mir Eier gegeben.| Der Kuchen bäckt jetzt im Ofen.</de>
+<en>Thank you Joseph! | But I meanwhile went to the neighbour, and she gave me some eggs.| The cake is now baking in the oven.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<txt>Ce cours présente les prépositions de lieu.
+</txt>
+</elem>
+ 
+ 
+ 
+</kurs>

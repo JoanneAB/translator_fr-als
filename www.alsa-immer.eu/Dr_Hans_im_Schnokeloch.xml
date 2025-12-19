@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Dr_Hans_im_Schnokeloch</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>03/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Dr Hàns ìm Schnokaloch</als>
+		<fr>Jean dans le trou à moustiques</fr>
+		<de>Der Hans im Schnakenloch</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch hàt àlles was'r wìll</als>
+		<fr>Jean dans le trou à moustiques, il a tout ce qu'il veut</fr>
+		<de>Der Hans im Schnakenloch hat alles was er will</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un wàs'r hàt, dàs wìll'r nìt</als>
+		<fr>Et ce qu'il a, il n'en veut pas</fr>
+		<de>Und was er hat, das will er nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un was'r wìll, dàs hàt'r nìt</als>
+		<fr>Et ce qu'il veut, il ne l'a pas</fr>
+		<de>Und was er will, das hat er nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch hàt àlles wàs'r wìll</als>
+		<fr>Jean dans le trou à moustiques, il a tout ce qu'il veut</fr>
+		<de>Der Hans im Schnakenloch hat alles was er will</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DrHansImSchnokeloch_1.mp3</link>
+		<als>1. Stroph losa</als>
+		<fr>Ecouter la strophe 1</fr>
+		<de>1. Strophe losen</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch sajt àlles wàs'r wìll</als>
+		<fr>Jean dans le trou à moustiques, il dit tout ce qu'il veut</fr>ì
+		<de>Der Hans im Schnakenloch sagt alles was er will</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un was'r sajt, dàs dankt'r nìt</als>
+		<fr>Et ce qu'il dit, il ne le pense pas</fr>
+		<de>Und was er sagt, das denkt er nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un was'r dankt, dàs sajt'r nìt</als>
+		<fr>Et ce qu'il pense, il ne le dit pas</fr>
+		<de>Und was er denkt, das sagt er nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch sajt àlles wàs'r wìll</als>
+		<fr>Jean dans le trou à moustiques, il dit tout ce qu'il veut</fr>
+		<de>Der Hans im Schnakenloch sagt alles was er will</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DrHansImSchnokeloch_2.mp3</link>
+		<als>2. Stroph losa</als>
+		<fr>Ecouter la strophe 2</fr>
+		<de>2. Strophe losen</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch kàt àlles wàs'r wìll</als>
+		<fr>Jean dans le trou à moustiques, peut faire tout ce qu'il veut</fr>
+		<de>Der Hans im Schnakenloch kann alles was er will</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un was'r kàt, dàs màcht'r nìt</als>
+		<fr>Et ce qu'il peut faire, il ne le fait pas</fr>
+		<de>Und was er kann, das macht er nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un was'r màcht, gerot ìm nìt</als>
+		<fr>Et ce qu'il fait, ne lui réussit pas</fr>
+		<de>Und was er macht, gelingt ihm nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch kàt àlles wàs'r wìll</als>
+		<fr>Jean dans le trou à moustiques, peut faire tout ce qu'il veut</fr>
+		<de>Der Hans im Schnakenloch kann alles was er will</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DrHansImSchnokeloch_3.mp3</link>
+		<als>3. Stroph losa</als>
+		<fr>Ecouter la strophe 3</fr>
+		<de>3. Strophe losen</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch düet àlles was'r wìll</als>
+		<fr>Jean dans le trou à moustiques, il fait tout ce qu'il veut</fr>
+		<de>Der Hans im Schnakenloch tut alles was er will</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un was'r düet, dàs soll'r nìt</als>
+		<fr>Et ce qu'il fait, il ne le devrait pas</fr>
+		<de>Und was er tut, das soll er nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un was'r soll, dàs düet'r nìt</als>
+		<fr>Et ce qu'il devrait, il ne le fait pas</fr>
+		<de>Und was er soll, das tut er nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch düet àlles was'r wìll</als>
+		<fr>Jean dans le trou à moustiques, il fait tout ce qu'il veut</fr>
+		<de>Der Hans im Schnakenloch tut alles was er will</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DrHansImSchnokeloch_4.mp3</link>
+		<als>4. Stroph losa</als>
+		<fr>Ecouter la strophe 4</fr>
+		<de>4. Strophe losen</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch geht àhna wo-n'r wìll</als>
+		<fr>Jean dans le trou à moustiques, il va là où il veut</fr>
+		<de>Der Hans im Schnokeloch geht hin wo er will</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un wo-n'r ìsch, do blibt'r nìt</als>
+		<fr>Et où il est, il n'y reste pas</fr>
+		<de>Und wo er ist, da bleibt er nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un wo-n'r blibt, do gfàllt's ìhm nìt</als>
+		<fr>Et où il reste, ça ne lui plaît pas</fr>
+		<de>Und wo er bleibt, da gefällt es ihm nicht</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Hàns ìm Schnokaloch geht àna wo-n'r wìll</als>
+		<fr>Jean dans le trou à moustiques, il va là où il veut</fr>
+		<de>Der Hans im Schnakenloch geht hin wo er will</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DrHansImSchnokeloch_5.mp3</link>
+		<als>5. Stroph losa</als>
+		<fr>Ecouter la strophe 5</fr>
+		<de>5. Strophe losen</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<link>http://www.greatsong.net/PAROLES-BREDELERS,DR-HANSM-SCHNOKELOCH,101811963.html</link>
+		<als>Gsunga vu da Bredelers</als>
+		<fr>Chanté par les Bredelers</fr>
+		<de>Gesungen von die Bredelers</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://portal-lem.com/fr/langues/alsacien/donnees_essentielles.html</link>
+		<als>Referanz-Sita mìt da Wärter</als>
+		<fr>Page de référence avec les paroles</fr>
+		<de>Referenz-Seite mit den Wörtern</de>
+	</elem>
+
+	<elem fin="br"/>
+
+
+	<elem fin="br">
+		<img_fic>album/Nota_Dr_Hans_Im_Schnockeloch.bmp</img_fic>
+	</elem>
+
+
+	<elem fin="br">
+		<link>Musik.htm#Dr H%C3%A0ns %C3%ACm Schnokeloch</link>
+		<als>Nota un Müsik</als>
+		<fr>Notes et musique</fr>
+		<de>Noten und Musik</de>
+	</elem>
+
+
+	<elem fin="br">
+		<link>http://www.librairiedialogues.fr/livre/1916019-mille-ans-d-histoires-de-legendes-et-de-tradit--auguste-stoeber-traduit-de-l-allemand-par-mich--cayelles-editions</link>
+		<als>'s ìsch a Gedìcht vum Adolphe Stöber.</als>
+		<fr>C'est une poésie d'Adolphe Stoeber.</fr>
+		<de>Es ist ein Gedicht vom Adolphe Stöber.</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://books.google.fr/books?id=bz9BAAAAYAAJ&amp;pg=PA491&amp;dq=Hans+im+Schnokeloch&amp;hl=fr&amp;sa=X&amp;ei=iAH5ToGfL5GAhQfvhPC1AQ&amp;ved=0CEQQ6AEwAw#v=onepage&amp;q=Hans%20im%20Schnokeloch&amp;f=false</link>
+		<als>Elsässisches Sagenbuch, uf Google Books. Sitta 491.</als>
+		<fr>Elsässisches Sagenbuch, sur Google Books. Page 491.</fr>
+		<de>Elsässisches Sagenbuch, auf Google Books. Seite 491.</de>
+	</elem>
+
+
+Date : environ 1825
+
+</article>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>As_isch_amol_a_Mann_gsii</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>30/08/2010</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>As ìsch amol a Mànn gsìì</als>
+		<fr>Il était une fois un homme</fr>
+		<de>Es war einmal ein Mann</de>
+	</elem>
+
+	<elem fin="br">
+		<als>As ìsch amol a Mànn gsìì</als>
+		<fr>Il était une fois un homme</fr>
+		<de>Es war einmal ein Mann</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Da hàt a hohler Zàhn ghàà</als>
+		<fr>Il avait une dent creuse</fr>
+		<de>Er hatte ein hohler Zahn</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Ìn dam hohla Zàhn ìsch a Briaf gsìì</als>
+		<fr>Dans cette dent creuse il y avait une lettre</fr>
+		<de>In diesem hohlen Zahn war ein Brief</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Un ìn dam Briaf ìsch gstànda:</als>
+		<fr>Et dans cette lettre il était marqué :</fr>
+		<de>Und in diesem Brief stand:</de>
+	</elem>
+
+	<elem fin="br"/>
+
+  <elem>
+    <table border="4">
+      <tr>
+        <td>
+
+	<elem fin="br">
+		<als>As ìsch amol a Mànn gsìì</als>
+		<fr>Il était une fois un homme</fr>
+		<de>Es war einmal ein Mann</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Da hàt a honler Zàhn ghàà</als>
+		<fr>Il avait une dent creuse</fr>
+		<de>Er hatte ein hohlen Zahn</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Ìn dam hohla Zàhn ìsch a Briaf gsìì</als>
+		<fr>Dans cette dent creuse il y avait une lettre</fr>
+		<de>In diesem hohlen Zahn war ein Brief</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Un ìn dam Briaf ìsch gstànda:</als>
+		<fr>Et dans cette lettre il était marqué :</fr>
+		<de>Und in diesem Brief stand:</de>
+	</elem>
+
+
+
+	<elem fin="br"/>
+
+
+
+  <elem>
+    <table border="8">
+      <tr>
+        <td>
+
+	<elem taille="2" fin="br">
+		<als>As ìsch amol a Mànn gsìì</als>
+		<fr>Il était une fois un homme</fr>
+		<de>Es war einmal ein Mann</de>
+	</elem>
+
+	<elem taille="2" fin="br">
+		<als>Da hàt a honler Zàhn ghàà</als>
+		<fr>Il avait une dent creuse</fr>
+		<de>Er hatte ein honlen Zahn</de>
+	</elem>
+
+
+	<elem taille="2" fin="br">
+		<als>Ìn dam hohla Zàhn ìsch a Briaf gsìì</als>
+		<fr>Dans cette dent creuse il y avait une lettre</fr>
+		<de>In diesem hohlen Zahn war ein Brief</de>
+	</elem>
+
+
+	<elem taille="2" fin="br">
+		<als>Un ìn dam Briaf ìsch gstànda:</als>
+		<fr>Et dans cette lettre il était marqué :</fr>
+		<de>Und in diesem Brief stand:</de>
+	</elem>
+
+
+	<elem fin="br"/>
+
+  	<elem>
+    	<table border="16">
+      	<tr>
+        	<td>
+		<elem taille="1" fin="br">
+			<als>As ìsch amol a Mànn gsìì</als>
+			<fr>Il était une fois un homme</fr>
+			<de>Es war einmal ein Mann</de>
+		</elem>
+
+		<elem taille="1" fin="br">
+			<als>Da hàt a hohler Zàhn ghàà</als>
+			<fr>Il avait une dent creuse</fr>
+			<de>Er hatte ein hohlen Zahn</de>
+		</elem>
+
+
+		<elem taille="1" fin="br">
+			<als>Ìn dam hohla Zàhn ìsch a Briaf gsìì</als>
+			<fr>Dans cette dent creuse il y avait une lettre</fr>
+			<de>In diesem honlen Zahn war ein Brief</de>
+		</elem>
+
+
+		<elem taille="1" fin="br">
+			<als>Un ìn dam Briaf ìsch gstànda:</als>
+			<fr>Et dans cette lettre il était marqué :</fr>
+			<de>Und in diesem Brief stand:</de>
+		</elem>
+
+
+
+
+
+
+
+
+	<elem fin="br"/>
+
+  	<elem>
+    	<table border="20">
+      	<tr>
+        	<td>
+		<elem taille="1" fin="br">
+			<als>...... ...</als>
+		</elem>
+
+		<elem taille="1" fin="br">
+			<als>.... ....</als>
+		</elem>
+
+
+		<elem taille="1" fin="br">
+			<als>..... .... ..</als>
+		</elem>
+
+
+		<elem taille="1" fin="br">
+			<als>...........</als>
+		</elem>
+       	</td>
+      	</tr>
+    	</table>
+  	</elem>
+
+
+
+
+
+
+       	</td>
+      	</tr>
+    	</table>
+  	</elem>
+
+
+        </td>
+      </tr>
+    </table>
+  </elem>
+
+
+
+
+
+
+
+
+        </td>
+      </tr>
+    </table>
+  </elem>
+
+
+
+</article>

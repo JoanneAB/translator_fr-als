@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Liad_Oschterhas</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>09/07/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>S Liad vum Oosterhàs</als>
+		<fr>La chanson du lièvre de Pâques</fr>
+		<de>Das Lied des Osterhasens</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Osterhàs sìtzt ìm Wàld</als>
+		<fr>Le lièvre de Pâques est assis dans la forêt</fr>
+		<de>Osterhase sitzt im Wald</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un sajt jetzt ìsch's nìmma meh kàlt</als>
+		<fr>Et dit maintenant il ne fait plus froid</fr>
+		<de>Und sagt jetzt ist es nicht mehr kalt</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Jetzt wìll ìch schnall ge sprìnga</als>
+		<fr>Maintenant je veux vite aller sauter</fr>
+		<de>Jetzt will ich schnell springen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>In da Kìnder Eiala brìnga.</als>
+		<fr>Apporter aux enfants des petits oeufs.</fr>
+		<de>Den Kindern Eierchen bringen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Awer numma wer folga ghàà hàt</als>
+		<fr>Mais seulement qui a obéi</fr>
+		<de>Aber nur wer gefolgt hat</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Kàt vu dana Eiala hà.</als>
+		<fr>Peux recevoir de ces oeufs.</fr>
+		<de>Kann von diesen Eierchen haben.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Mina Màmma hàt mìr gsajt</als>
+		<fr>Ma Maman m'a dit</fr>
+		<de>Meine Mama hat mir gesagt</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Osterhasala hàt ìns Naschtala glegt</als>
+		<fr>Le lièvre de Pâques a pondu dans son petit nid</fr>
+		<de>Osterhäschen hat ins Näschstchen gelegt</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Scheni Gàgala blau wiss rot</als>
+		<fr>De jolis petits oeufs bleus blancs rouges</fr>
+		<de>Schöne Eichen blau weiß rot</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un dia assa mìr mìt Sàlz un Brot.</als>
+		<fr>Et on va les manger avec du sel et du pain.</fr>
+		<de>Und diese essen wir mit Salz und Brot.</de>
+	</elem>
+
+
+</article>

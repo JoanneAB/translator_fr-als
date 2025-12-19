@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Was_trinkt_ma_im_Elsass</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>29/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Wàs trìnkt ma ìm Elsàss?</als>
+		<fr>Que boit-on en Alsace ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìm Elsàss trìnkt ma : (meischta Traditionnella Beispìeler)</als>
+		<fr>En Alsace on boit : (exemples les plus traditionnels)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>wisser Wii : Riesling, Gewìrztraminer, Sylvàner, Muscat d'Alsace, Pinot Blanc, Pinot Gris (Tokay), Pinot noir, Edelzwìcker, Crémant...</als>
+		<fr>Du vin blanc : Riesling, Gewürztraminer, Sylvaner, Muscat d'Alsace, Pinot Blanc, Pinot Gris (Tokay), Pinot noir, Edelzwicker, Crémant...</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Biär : Météor, Kronenbourg, Adelshoffen, Mützig, Kanterbrau, L'Alsacienne sans culotte...</als>
+		<fr>De la bière : Météor, Kronenbourg, Adelshoffen, Mützig, Kanterbrau, L'Alsacienne sans culotte...</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Wàsser : Carola, Lisbeth, Wàttwìller, Celtic...</als>
+		<fr>De l'eau : Carola, Lisbeth, Wattwiller, Celtic...</fr>
+	</elem>
+
+	<elem puce="disc">
+		<elem>
+			<link>Nèiar_Siasser.htm</link>
+			<als>Nèier Siasser</als>
+			<fr>Du vin nouveau</fr>
+		</elem>
+
+		<elem>
+			<als>, </als>
+		</elem>
+
+		<elem>
+			<link>Elsass_Cola.htm</link>
+			<als>Elsass Cola</als>
+			<fr>de l'Elsass Cola</fr>
+		</elem>
+	</elem>
+
+	<elem puce="disc">
+		<als>Kàfe : Warca, Sati...</als>
+		<fr>Du café : Warca, Sati...</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Schnàps : Kirsch, Mirabella, Zwatschga, Behra...</als>
+		<fr>De l'eau de vie : cerise, mirabelle, prune, poire...</fr>
+	</elem>
+
+
+
+
+</article>

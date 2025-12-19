@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V1_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>E_Friehjohr_fer_unseri_Sproch</nom_fic>
+    <creation>
+	    <auteur>MiLib</auteur>
+	    <date>13/01/2009</date>
+      <status>ok</status>
+    </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>E Friehjohr fer unseri Sproch</als>
+		<fr>Un printemps pour notre langue</fr>
+		<de>Ein Frühling für unsere Sprache</de>
+	</elem>
+
+	<elem>
+		<als>"E Friehjohr fer unseri Sproch" ìsch a Operàtion wo jedes Friahjohr stàtt fìndet, ìm Elsàss.</als>
+		<fr>"Un printemps pour notre langue" est une opération qui a lieu à chaque printemps, en Alsace.</fr>
+		<de>"Ein Frühling für unsere Sprache" ist eine Operation, die jeden Frühling statt findet, im Elsass.</de>
+	</elem>
+
+	<elem>
+		<als>A gànza Wucha làng gìtt's kültürella Ereignissa fer d Unterstìtzung vum elsassischer Dialekt.</als>
+		<fr>Pendant toute une semaine, il y a des événements culturels pour le maintien du dialecte alsacien.</fr>
+		<de>Eine ganze Woche lang gibt es kulturellen Ereignissen für die Unterstützung vom elsassischen Dialekt.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un noh dara Wucha kàt's noch witerscht geh, ìm gànza Friahjohr.</als>
+		<fr>Et après cette semaine ça peut encore continuer, pendant tout le printemps.</fr>
+		<de>Und nach diese Woche kann es noch weiter gehen, im ganzen Frühling.</de>
+	</elem>
+
+
+	<elem fin="br">
+		<img_fic>album/logo-friehjohr.PNG</img_fic>
+		<als>Logo</als>
+		<fr>Logo de l'opération</fr>
+	</elem>
+
+
+	<elem fin="br"/>
+
+
+	<elem>
+		<als>2001 ìsch s "Europäische Johr vu da Sprocha" gsìì.</als>
+		<fr>2001 a été "l'année européenne des langues".</fr>
+		<de>2001 war die "Europäische Jahre der Sprachen".</de>
+	</elem>
+
+	<elem>
+		<als>Àn dara Glagaheit hàt d Zitung "L'Ami du Peuple hebdo" (dr Volksfrìnd) s Verein ufbàuia: "E Friehjohr fer unseri Sproch".</als>
+		<fr>A cette occasion, le journal "L'Ami du Peuple hebdo" a créé l'association : "Un printemps pour notre langue".</fr>
+		<de>An dieser Gelegenheit hat die Zeitung "L'Ami du Peuple hebdo" (der Volksfreund) der Verein aufgebauen: "Ein Frühling für unsere Sprache".</de>
+	</elem>
+
+	<elem>
+		<als>Zitter 2002 gìtt's àn jedem Friahjohr Faschter un verschìedena Manifestationa um dam Thema: "Mìr reda Elsassisch".</als>
+		<fr>Depuis 2002 il y a à chaque printemps des fêtes et diverses manifestations sur le thème : "Nous parlons alsacien".</fr>
+		<de>Seit 2002 gibt es an jedem Frühling Feste und verschiedene Ereignisse um diesem Thema: "Wir reden Elsässisch".</de>
+	</elem>
+
+	<elem>
+		<als>Ma fìndet do verschìedena Ereignissa: Théàterstìck, Gsàng, Kùnferanz, sogàr Mass ìn dr Kìrch... nàtirlig ìmmer uf Elsassisch.</als>
+		<fr>On y trouve divers événements : des pièces de théâtre, des chants, des conférences, même des messes à l'église... naturellement toujours en alsacien.</fr>
+		<de>Man findet da verschiedene Ereignissen: Theaterstücken, Gesänge, Konferenzen, sogar Messen in der Kirche... natürlich immer auf Elsässisch.</de>
+	</elem>
+
+	<elem>
+		<als>Dàs ìsch gfiahrt durch d OLCA un "E Friehjohr fer unseri Sproch".</als>
+		<fr>C'est mené par l'OLCA et l'association "Un printemps pour notre langue".</fr>
+		<de>Das ist geführt durch die OLCA (Office pour la Langue et la Culture d'Alsace) und "Ein Frühling für unsere Sprache".</de>
+	</elem>
+
+	<elem>
+		<als>Dr Symbol vu dara Operàtion ìsch a Schwalwala, d "Friehjohrsschwälmele".</als>
+		<fr>Le symbole de cette opération est une hirondelle, l'"hirondelle du printemps".</fr>
+		<de>Der Symbol dieser Operation ist eine Schwälbchen, die "Frühlingsschwälbchen".</de>
+	</elem>
+	
+	
+	<elem titre="h2">
+		<als>Dr Sìnn vu dam Friahjohr</als>
+		<fr>Le sens de ce printemps</fr>
+		<de>Der Sinn von diesem Frühling</de>
+	</elem>
+
+
+	<elem>
+		<als>Dr elsassischer Dialekt wìrd noch vu 600 000 Persona gredt, àwer 's ìsch trotzdam a Sproch ìn Gfohr: ìm Elsàss hàt sa scho vìel àbgnumma gega d frànzeescha Sproch.</als>
+		<fr>Le dialecte alsacien est encore parlé par 600 000 personnes, mais c'est tout de même une langue menacée : en Alsace elle a déjà beaucoup baissé par rapport à la langue française.</fr>
+		<de>Der elsässischer Dialekt wird noch von 600 000 Personen gesprochen, aber es ist trotzdem eine Sprache in Gefahr: Im Elsass hat sie schon viel abgenommen gegen die französische Sprache.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wagadam gìtt's a Erwàchung vum Dialekt, fer'na wìder mehr reda un lehra, un retta vor ebb'r verlora geht.</als>
+		<fr>Pour cette raison il y a un réveil du dialecte, pour à nouveau plus le parler et l'apprendre, et le sauver avant qu'il ne soit perdu.</fr>
+		<de>Deswegen gibt es eine Erwachung vom Dialekt, um ihn wieder mehr zu reden und lernen, und retten vor dass er verloren geht.</de>
+	</elem>
+
+
+	<elem>
+		<als>D Litt wo ebis bsunders fer d Unterstìtzung vum Dialekt gmàcht han, känna a Priis bikumma (wo aui a "Schwälmele" ìsch).</als>
+		<fr>Les gens qui ont fait quelque chose de particulier pour la promotion du dialecte peuvent recevoir un prix (qui est aussi une hirondelle).</fr>
+		<de>Die Leute die etwas Besonderes für die Unterstützung des Dialekts getan haben, können ein Preis bekommen (den auch eine "Schwälbchen" ist).</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Mìtglìeder vum Verein "E Friehjohr fer unseri Sproch":</als>
+		<fr>Membres de l'association "Un printemps pour notre langue" :</fr>
+		<de>Mitglieder vom Verein "Ein Frühling für unsere Sprache":</de>
+	</elem>

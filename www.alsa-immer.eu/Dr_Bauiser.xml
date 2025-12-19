@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Dr_Bauiser</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>01/11/2008</date>
+            <status></status>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Dr Bàuiser</als>
+		<fr>Le chapardeur</fr>
+		<de>Der Bauser</de>
+	</elem>
+
+
+	<elem color="maroon" fin="br">
+		<als>Ìch hàn a liab Katzala</als>
+		<fr>J'ai un adorable petit chat</fr>
+		<de>Ich habe ein liebes Kätzchen</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>awer 's tüet vìel ààstella.</als>
+		<fr>mais il fait beaucoup de bêtises.</fr>
+		<de>aber sie stellt viel an.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem color="maroon" italiq="1" fin="br">
+		<als>Wìssa-n-ìhr?...</als>
+		<fr>Savez-vous ?...</fr>
+		<de>Wissen Sie?...</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>D Kàtza vu da moderna Zitta</als>
+		<fr>Les chats des temps modernes</fr>
+		<de>Die Katzen der modernen Zeiten</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>fànga kè Miis un Veegala meh.</als>
+		<fr>n'attrapent plus de souris et d'oiseaux.</fr>
+		<de>fangen keine Mäuse und Vögelchen mehr.</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>Sa frassa Kroquettla,</als>
+		<fr>Ils mangent des croquettes,</fr>
+		<de>Sie fressen Krockettchen,</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>wo regelmaßig ìn dr Taller kheja</als>
+		<fr>qui tombent régulièrement dans l'assiette</fr>
+		<de>die regelmäßig in den Teller fallen</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>... wenn mìt Glìck d Menscha dràdanka noh z fìlla!</als>
+		<fr>... quand par chance les humains pensent à la remplir !</fr>
+		<de>...wenn mit Glück die Menschen nachdenken nach zu füllen!</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>Dia han's noch scheener, d Menscha:</als>
+		<fr>Ils ont encore une plus belle vie, les humains :</fr>
+		<de>Die haben es noch schöner, die Menschen:</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>sa därfa vum Tìsch dràbb assa!</als>
+		<fr>ils ont le droit de manger sur la table !</fr>
+		<de>sie dürfen vom Tisch darab essen!</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem color="maroon" italiq="1" fin="br">
+		<als>Dr Tìsch...</als>
+		<fr>La table...</fr>
+		<de>Der Tisch...</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>Uf em Tìsch ìsch àlles besser</als>
+		<fr>Sur la table tout est meilleur</fr>
+		<de>Auf dem Tisch ist alles besser</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>numma müeß ma ufpàssa</als>
+		<fr>seulement il faut faire attention</fr>
+		<de>nur muss man aufpassen</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>denn d Menscha sahn nìt garn s Katzala uf em Tìsch</als>
+		<fr>car les humains n'aiment pas voir le petit chat sur la table</fr>
+		<de>denn die Menschen sehen nicht gern das Kätzchen auf dem Tisch</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>un sa tüen sìch ìmmer so schnall ufrega.</als>
+		<fr>et ils s'énervent toujours si vite.</fr>
+		<de>und sie regen sich immer so schnell auf.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem color="maroon" fin="br">
+		<als>S Lawa vun'ma Bàuiser ìsch nìt eifàch</als>
+		<fr>La vie d'un chapardeur n'est pas simple</fr>
+		<de>Das Leben von einem Bauser ist nicht einfach</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>wenn ma a klei Katzala ìsch</als>
+		<fr>quand on est un petit chat</fr>
+		<de>wenn man ein kleines Kätzchen ist</de>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>wo hartzlosa Menscha hàt.</als>
+		<fr>qui a des humains sans coeur.</fr>
+		<de>das herzlosen Menschen hat.</de>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<img_fic>album/100_1621chat.JPG</img_fic>
+	</elem>
+
+
+
+</article>

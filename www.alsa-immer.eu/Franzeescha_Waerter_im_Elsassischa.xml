@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Franzeescha_Werter_im_Elsassischa</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>31/05/2008</date>
+       <status>Exemples et traductions en français à ajouter !</status>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Frànzeescha Wärter ìm Elsassischa</als>
+		<fr>Mots français dans l'alsacien</fr>
+	</elem>
+
+	<elem>
+		<als>Wenn Elsàsser ìhra Dialekt reda, nutza sa vìel frànzeescha Wärter, mettla ìm Elsassisch.</als>
+		<fr>Quand les Alsaciens parlent leur dialecte, ils utilisent beaucoup de mots français, en pein milieu de l'alsacien.</fr>
+	</elem>
+
+	<elem>
+		<als>(Zum Beispiel: "ìch gàng uf d Kàssa a nèiar chéquier ge hola". Oder erger: "ìch hàn a rendez-vous fer a prêt immobilier".)</als>
+		<fr>(Par exemple : "je vais à la caisse chercher un nouveau "chéquier". Ou pire : j'ai un "rendez-vous" pour un "prêt immobilier".)</fr>
+	</elem>
+
+	<elem>
+		<als>'s ìsch meischtens a Schwächa vu der Sproch: ma ìsch's nìmm so gweehnt, Elsassich z'heera und reeda ; no kumma eim d frànzeescha Wärter schnaller ii.</als>
+		<fr>C'est avant tout une faiblesse de la langue : on n'est plus tellement habitué à entendre et parler l'alsacien ; alors les mots français viennent plus vite à l'esprit.</fr>
+	</elem>
+
+	<elem>
+		<als>Awer 's gìbt noch a bsunderer Fàll, wo mehr ufmerksàm ìsch.</als>
+		<fr>Mais il y a aussi un cas particulier, qui est plus remarquable.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Teil frànzeescha Wärter ghera zitter sehr làng zum elsassischa Dialekt.</als>
+		<fr>Certains mots français appartiennent depuis très longtemps au dialecte alsacien.</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/barabli.png</img_fic>
+		<als>de Bàrabli (vum Germain Muller)</als>
+		<fr>le Parapluie (cabaret de Germain Muller).</fr>
+	</elem>
+
+	<elem titre="h2">
+		<als>Gschìcht</als>
+		<fr>Histoire</fr>
+	</elem>
+
+	<elem>
+		<als>Àm Ààfàng vum Johrhundert 1900, wo fàscht noch kè Elsàsser Frànzeesch hàt känna, hàt's ìm elsassischa Dialekt scho a pààr frànzeescha Wärter gaa.</als>
+		<fr>Au début du 2àème siècle, quand presque aucun Alsacien ne connaissait le français, il y avait déjà dans le dialecte alsacien quelques mots français.</fr>
+	</elem>
+
+	<elem>
+		<als>Niama hàt sallamols gwìsst àss dia Wärter vum Frànzeescha kämma.</als>
+		<fr>Personne ne savait en ce temps-là que ces mots venaient du français.</fr>
+	</elem>
+
+	<elem>
+		<als>D Litt sìn ìwerràscht gsìì wenn sa d frànzeescha Sproch entdeckt han: sa han dernoh erscht igsah wia dia Wärter ufmerksàm sìn.</als>
+		<fr>Les gens ont été étonnés quand ils ont découvert la langue française : ils ont alors seulement réalisé comme ces mots étaient remarquables.</fr>
+	</elem>
+
+	<elem>
+		<als>Mankmol ìsch's gàr nìt uffàllend gsìì, denn d Üssproch hàt sìch känna vìel andra mìt der Zitt, ìm Mül vu da Elsasser (zum Beispiel: "une tranche de jambon" ìsch worra: "a Trànscha Schàmbung").</als>
+		<fr>Parfois ce n'était pas du tout évident, car la prononciation a pu beaucoup changer avec le temps, dans la bouche des Alsaciens (par exemple : "une tranche de jambon" est devenu : "a Trànscha Schàmbung").</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dia Wärter folga d elsàssischa Regel vu der Gràmmàtik (zum Beispiel: "ìch hàn a Laderschipla gschwàsiert" ìsch uf Frànzeesch : j’ai choisi une petite jupe en cuir).</als>
+		<fr>Ces mots suivent les règles alsaciennes de la grammaire (par exemple : "ìch hàn a Laderschipla gschwàsiert" est en français : j’ai choisi une petite jupe en cuir).</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Zwìscha 1870 un s And vum erschta Waltkrieg hàt ma pràktisch kei frànzeesch meh gredt ìm elsassischa Sprochrum.</als>
+		<fr>Entre 1870 et la fin de la première guerre mondiale on n'a pratiquement plus parlé le français dans le domaine linguistique alsacien.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Also dia àlta frànzeescha Wärter kämma vu der Perioda vor 1870.</als>
+		<fr>Donc ces anciens mots français proviennent de la période avant 1870.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Deil Litt hann sìch salamols àmüsiert fer dia bsundra Wärter ufschriwa ; do ìsch eina vu dana Lischta:</als>
+		<fr>Certaines personnes se sont à ce moment-là amusées à inscrire ces mots particuliers ; voici une de ces listes :</fr>
+	</elem>
+
+	<elem fin="br">
+            <table>
+                <caption>Person</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>cavalier, cavalière</td><td>Cavalier</td><td>Tänzer</td><td><elem><als>Dr Jules ìsch mi Cavalier àm Bàl</als><fr>Jules est mon cavalier au bal.</fr></elem></td></tr>
+<tr><td>client</td><td>Client</td><td>Kunde</td><td><elem><als>Da Gschaftsmànn hàt jetzt a Client verlora !</als><fr>Ce commerçant a maintenant perdu un client !</fr></elem></td></tr>
+<tr><td>conscrit</td><td>Conscrit</td><td>Rekrut</td><td><elem><als>Ar geht mìt da Conscrit dàs Johr</als><fr>Il va avec les constrits cette années</fr></elem></td></tr>
+<tr><td>cousin</td><td>Kusin</td><td>Vetter</td><td><elem><als>Àlla Kusin sìn iglàda</als><fr>Tous les cousins sont invités</fr></elem></td></tr>
+<tr><td>crapule</td><td>Krapül</td><td>Schuft</td><td><elem><als>Ìn dara Stroß wohnt nur Krapül</als><fr>Dans cette rue n'habite que de la crapule</fr></elem></td></tr>
+<tr><td>gourmand</td><td>Gourmand</td><td>Fresser</td><td><elem><als>Mi Suhn ìsch a Gourmand</als><fr>Mon fils est un gourmand !</fr></elem></td></tr>
+<tr><td>guignol</td><td>Guignol</td><td>Hanswurst</td><td><elem><als>Dàs Kìnd ìsch a Guignol !</als><fr>Cet enfant est un guignol !</fr></elem></td></tr>
+<tr><td>madame</td><td>Madam</td><td>Frau</td><td><elem><als>a scheena Màdàm</als><fr>une belle madame</fr></elem></td></tr>
+<tr><td>mademoiselle</td><td>Mamsell</td><td>Fräulein</td><td><elem><als>a schena Mamsell</als><fr>une belle mademoiselle</fr></elem></td></tr>
+<tr><td>marraine</td><td>Marraine</td><td>Patin</td><td><elem><als>D Marraine wìrd iglàda</als><fr>La marraine est invitée</fr></elem></td></tr>
+<tr><td>monsieur</td><td>Monsieur</td><td>Herr</td><td><elem><als>A Grüeß ìm Monsieur Meyer !</als><fr>Le bonjour à Monsieur Meyer !</fr></elem></td></tr>
+<tr><td>mouchard</td><td>Mouchard</td><td>Angeber</td><td><elem><als>Ar hàt uns verrota, wia-n-a Mouchard</als><fr>Il nous a trahis, comme un mouchard</fr></elem></td></tr>
+<tr><td>paillasse</td><td>Pàillàss</td><td>Clown</td><td><elem><als>Dr Pàillàss màcht àlla Kìnder làcha</als><fr>Le clown paillasse fait rire tous les enfants</fr></elem></td></tr>
+<tr><td>parrain</td><td>Parrain</td><td>Pate</td><td><elem><als>Dr Parrain wìrd iglàda</als><fr>Le parrain est invité</fr></elem></td></tr>
+<tr><td>polichinelle</td><td>Polichinelle</td><td>Hanswurst</td><td><elem><als>S Biawala spìelt garn mìt sim Polichinelle</als><fr>Le petit garçon aime jouer avec son polichinelle</fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Hoor</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>chignon</td><td>Chignon</td><td>Haarknoten</td><td><elem><als>mìtm a Chignon ìsch ma scheen gstrahlt</als><fr>avec un chignon on est bien coiffé</fr></elem></td></tr>
+<tr><td>favori</td><td>Favori</td><td>Backenbart</td><td><elem><als>Dr Elvis Presley hàt großa Favoris trajt</als><fr>Elvis Presley protait de grands favoris</fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Sàcha</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>abat-jour</td><td>Abaschur</td><td>Lampenschirm</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>acajou</td><td>Acaschu</td><td>Mahagoni</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>agrafe</td><td>Agrafe</td><td>Spange</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>annuaire</td><td>Annuaire</td><td>Telefonbuch</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bâche</td><td>Bâche</td><td>Plane</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bagage</td><td>Bagasch</td><td>Reisegepäck</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>biberon</td><td>Biberon</td><td>Saugflasche</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bidon</td><td>Bidon</td><td>Kanne</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>billet</td><td>Billet</td><td>Fahrkarte</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bon</td><td>Bon</td><td>Schein</td><td><elem><als>Ìch hàn a Bon gwunna fer a Reis umasunscht</als><fr></fr></elem></td></tr>
+<tr><td>bonbonne</td><td>Bonbonne</td><td>Korbflasche</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bonde</td><td>Bonde</td><td>Spund</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bordure</td><td>Bordüre</td><td>Rahmen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bouchon</td><td>Buschung</td><td>Zapfen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bougie</td><td>Buschi</td><td>Kerze</td><td><elem><als>a Buschi lo brenna</als><fr></fr></elem></td></tr>
+<tr><td>bouquet</td><td>Bouquet</td><td>Strauß</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bracelet</td><td>Bracelet</td><td>Armband</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>briquet</td><td>Briquet</td><td>Feuerzeug</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>cache-pot</td><td>Cache-pot</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>ceinture</td><td>Ceinture</td><td>Gürtel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>charge</td><td>Charge</td><td>Last</td><td><elem><als>a schwara Charge</als><fr></fr></elem></td></tr>
+<tr><td>coffre-fort</td><td>Coffre-fort</td><td>Geldschrank</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>collier</td><td>Collier</td><td>Halsband</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>couvert</td><td>Couvert</td><td>Gedeck</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>crayon</td><td>Crayon</td><td>Bleistift</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>eau de Cologne</td><td>Eau-de-Cologne</td><td>kölnisch Wasser</td><td><elem><als>mìt Eau-de-Cologne der Recka iriwa</als><fr></fr></elem></td></tr>
+<tr><td>enveloppe</td><td>Enveloppe</td><td>Hülle</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>épuisette</td><td>Epuisette</td><td>Gangnetz</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>filet</td><td>Filet</td><td>Lendenstück</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>gamelle</td><td>Gamelle</td><td>Kochgeschirr</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>hotte</td><td>Hotte</td><td>Tragkorb</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>housse</td><td>Housse</td><td>Überzug</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>insigne</td><td>Insigne</td><td>Abzeichen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>jumelle</td><td>Schumelle</td><td>Fernglas</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>lamelle</td><td>Lamelle</td><td>Blättchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>manège</td><td>Manesch</td><td>Karussel</td><td><elem><als>Kìnder ritta gàrn uffem Manesch</als><fr></fr></elem></td></tr>
+<tr><td>martinet</td><td>Martinet</td><td>Klopfpeitsche</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>médaille</td><td>Medaille</td><td>Medaille</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>monte-charge</td><td>Monte-charge</td><td>Lastenaufzug</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>nacre</td><td>Nacre</td><td>Perlmutter</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>parapluie</td><td>Barabli</td><td>Regenschirm</td><td><elem><als>Nìmm a Bàrapli, s'ràgnet</als><fr></fr></elem></td></tr>
+<tr><td>parasol</td><td>Parasol</td><td>Sonnenschirm</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>pelote</td><td>Pelote</td><td>Knäuel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>plumeau</td><td>Plumeau</td><td>Federwisch</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>porte-cigare</td><td>Porte-Cigare</td><td>Zigarrentasche</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>portefeuille</td><td>Portefeuille</td><td>Brieftasche</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>porte-monnaie</td><td>Borbonnai</td><td>Geldbeutel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>pot de chambre</td><td>Potschamber</td><td></td><td><elem><als>Ìch müeß der Potschamber lahra</als><fr></fr></elem></td></tr>
+<tr><td>poudre</td><td>Puder</td><td>Pulver</td><td><elem><als>Pudermìlech</als><fr></fr></elem></td></tr>
+<tr><td>punaise</td><td>Punaise</td><td>Wanze</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>quenouille</td><td>Quenouille</td><td>Spinnrocken</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>râpe</td><td>Rapa</td><td>Reibe</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>réservoir</td><td>Reservoir</td><td>Behälter</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>réticule</td><td>Reticüle</td><td>Handtäschchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>sacoche</td><td>Sacoche</td><td>Satteltasche</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>saladier</td><td>Saladier</td><td>Salatschüssel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>sautoir</td><td>Sautoir</td><td>Halskette</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>store</td><td>Store</td><td>Rollvorhang</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>timbre</td><td>Timbre</td><td>Briefmarke</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>toupet</td><td>Toupet</td><td>Haarschopf</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>tranche</td><td>Trànscha</td><td>Schnitte</td><td><elem><als>a Trànscha Spack</als><fr></fr></elem></td></tr>
+<tr><td>triage</td><td>Triage</td><td>Auswahl</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>trottoir</td><td>Trottoir</td><td>Bürgersteig</td><td><elem><als>Làuif uffem Trottoir, nìt ìn der Stroß !</als><fr></fr></elem></td></tr>
+<tr><td>un reçu</td><td>a reçu</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>vernis</td><td>Vernis</td><td>Lack</td><td><elem><als></als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Warkzig</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>bascule</td><td>Bascüle</td><td>Schaukel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bâti</td><td>Bati</td><td>Gestell</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bielle</td><td>Bielle</td><td>Pleuelstange</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bobine</td><td>Bobine</td><td>Spule</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>boulon</td><td>Boulon</td><td>Bolzen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bride</td><td>Brise</td><td>Zügel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>chassis</td><td>Chassis</td><td>Rahmen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>cheville</td><td>Cheville</td><td>Pflock</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>cône</td><td>Cone</td><td>Kegel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>coussinet</td><td>Coussinet</td><td>Lagerschale</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>filière</td><td>Filiere</td><td>Gewindeeisen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>levier</td><td>Levier</td><td>Hebel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>manette</td><td>Manette</td><td>Handhebel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>manivelle</td><td>Manivelle</td><td>Kurbel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>passe-partout</td><td>Passe-partout</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>piton</td><td>Piston</td><td>Ringschraube</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>poulie</td><td>Püli</td><td>Rolle</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>rondelle</td><td>Rundel</td><td>Scheibe</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>transmission</td><td>Transmission</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>vilebrequin</td><td>Vilebrequin</td><td>Bohrwinde</td><td><elem><als></als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Plunder</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>boléro</td><td>Bolero</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>bottines</td><td>Bottines</td><td>Halbstiefel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>cache-nez</td><td>Kaschne</td><td>Halstuch</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>capote</td><td>Capote</td><td>Feldmantel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>casque</td><td>Casque</td><td>Helm</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>chaussettes</td><td>Schossett</td><td>Socke</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>corset</td><td>Korse</td><td>Schnurbrüsr</td><td><elem><als>S'trajt a Korse fer finer üssah</als><fr></fr></elem></td></tr>
+<tr><td>foulard</td><td>Fular</td><td>Halstuch</td><td><elem><als>a Fular àbìnda</als><fr></fr></elem></td></tr>
+<tr><td>galoches</td><td>Galosch</td><td>Holzsohlenschuh</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>gibecière</td><td>Gibecière</td><td>Jagdtasche</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>giberne</td><td>Schibara</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>gilet</td><td>Schile</td><td>Weste</td><td><elem><als>a wàrmer Schile</als><fr></fr></elem></td></tr>
+<tr><td>guêtres</td><td>Guêtres</td><td>Gamasche</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>jaquette</td><td>Schacket</td><td></td><td><elem><als>a Laderschacket</als><fr></fr></elem></td></tr>
+<tr><td>jarretelles</td><td>Schartell</td><td>Strumpfband</td><td><elem><als>Mina Strìmpf hìwa mìt Schartell</als><fr></fr></elem></td></tr>
+<tr><td>jupe</td><td>Schüp</td><td>Rock</td><td><elem><als>a langa Schüp</als><fr></fr></elem></td></tr>
+<tr><td>pardessus</td><td>Pardessü</td><td>Uberzieher</td><td><elem><als>a lànger Pardessü</als><fr></fr></elem></td></tr>
+<tr><td>pochette</td><td>Pochette</td><td>Täschchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>robe de chambre</td><td>Robdeschamber</td><td>Morgenrock</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>soquettes</td><td>Socket</td><td>kleine Socke</td><td><elem><als>wissa Socket àlìega, àm Suntig</als><fr></fr></elem></td>Metrre des soquettes blanches, le dimanche</tr>
+<tr><td>valise</td><td>Waliss</td><td>Handkoffer</td><td><elem><als>a bìlliga Waliss üs Pàpadeckel</als><fr></fr></elem></td></tr>
+<tr><td>voile</td><td>Voile</td><td>Schleier</td><td><elem><als>A wisser Voile brücht ma àn a Hochzit</als><fr></fr></elem></td></tr>
+<tr><td>voilette</td><td>Voilette</td><td>Hutschleier</td><td><elem><als>Gega d Sunna lìegt ma a Hüet mìt Voilette àà</als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Reisa</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>ambulance</td><td>Ambülance</td><td>Krankenwagen</td><td><elem><als>A Ambulance hàt mi ìns Spital gfiert</als><fr></fr></elem></td></tr>
+<tr><td>coupé</td><td>Coupé</td><td></td><td><elem><als>Mi nei Auto esch a Coupé</als><fr></fr></elem></td></tr>
+<tr><td>guidon</td><td>Guidon</td><td>Lenkstange</td><td><elem><als>Dr Guidon hebt nìmm güet àm Velo</als><fr></fr></elem></td></tr>
+<tr><td>ridelle</td><td>Ridelle</td><td>Wagenleiter</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>roue-libre</td><td>Roue-libre</td><td>Freilauf</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>tramway</td><td>Tramway</td><td>Straßenbahn</td><td><elem><als>dr milhüser Tramway</als><fr></fr></elem></td></tr>
+<tr><td>vélo</td><td>Velo</td><td>Fahrrad</td><td><elem><als>Ar ìsch mìt dem Velo gheit</als><fr></fr></elem></td></tr>
+<tr><td>volant</td><td>Volant</td><td>Steuer</td><td><elem><als>Heb güet der Volant !</als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Meewel</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>canapé</td><td>Kànape</td><td>Couch</td><td><elem><als>Uffem Kànape àblìega</als><fr></fr></elem></td></tr>
+<tr><td>chaise-longue</td><td>Chaise-longue</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>dressoir</td><td>Dressoir</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>étagère</td><td>Etagère</td><td>Wandbrett</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>fauteuil</td><td>Fauteuil</td><td>Sessel</td><td><elem><als>ìm Großvater si Fauteuil</als><fr></fr></elem></td></tr>
+<tr><td>pupitre</td><td>Püpitre</td><td>Schreibpilt</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>sommier</td><td>Sommier</td><td>Auflagematratze</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>tabouret</td><td>Tabouret</td><td>Schemel</td><td><elem><als></als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Hüss</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>atelier</td><td>Atelier</td><td>Werkstatt</td><td><elem><als>Ar schàft ìm Atelier</als><fr></fr></elem></td></tr>
+<tr><td>bassin</td><td>Bassin</td><td>Becken</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>boutique</td><td>Bütik</td><td>Werkstatt</td><td><elem><als>Dr Schriiner schaft ìn sina Bütik</als><fr></fr></elem></td></tr>
+<tr><td>cabinet</td><td>Kabinä</td><td>Toilette</td><td><elem><als>uf's Kabinä geh</als><fr></fr></elem></td></tr>
+<tr><td>cirque</td><td>Cirque</td><td>Zirkus</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>cité</td><td>Cité</td><td>Arbeitersiedlung</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>devanture</td><td>Devantüre</td><td>Schaufenster</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>gare</td><td>Gare</td><td>Bahnhof</td><td><elem><als>Ìch kumm vu dr Gare</als><fr></fr></elem></td></tr>
+<tr><td>mansarde</td><td>Mansarda</td><td>Dachstube</td><td><elem><als>Ar wohnt ìn a Mansarda</als><fr></fr></elem></td></tr>
+<tr><td>passerelle</td><td>Passerelle</td><td>Fußgängerbrücke</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>perron</td><td>Perron</td><td>Vortreppe</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>plafond</td><td>Plafond</td><td>Decke</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>quartier</td><td>Quartier</td><td>Viertel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>remise</td><td>Remise</td><td>Schuppen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>serre</td><td>Sera</td><td>Treibhaus</td><td><elem><als></als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+
+	<elem fin="br">
+            <table>
+                <caption>Blüema</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>coquelicot</td><td>Coquelicot</td><td>Klatschrose</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>laurier</td><td>Laurier</td><td>Lorbeer</td><td><elem><als>a Blät Laurier</als><fr></fr></elem></td></tr>
+<tr><td>marguerite</td><td>Marguerite</td><td>Gänseblümchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>pensée</td><td>Pensee</td><td>Stiefmütterchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Berüef</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>acteur</td><td>Acteur</td><td>Schauspieler</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>adjoint</td><td>Adschua</td><td>Stellvertreter</td><td><elem><als>Dr Adschua schàft mìt dem Maire</als><fr></fr></elem></td></tr>
+<tr><td>braconnier</td><td>Braconnier</td><td>Wilddieb</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>caissier</td><td>Caissier</td><td>Kassierer</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>chauffeur</td><td>Chauffeur</td><td>Fahrer</td><td><elem><als>Dr Chauffeur wàrtet scho ìm Autobus</als><fr></fr></elem></td></tr>
+<tr><td>clerc</td><td>Clerc</td><td>Kleriker</td><td><elem><als>Ar ìsch Clerc bim a Notàr</als><fr></fr></elem></td></tr>
+<tr><td>coiffeur, coiffeuse</td><td>Coiffeur, Coiffeuse</td><td>Friseur, Friseuse</td><td><elem><als>Da Coiffeur strahlt eim güet</als><fr></fr></elem></td></tr>
+<tr><td>commis</td><td>Commis</td><td>Angestellter</td><td><elem><als>Dr Commis màcht Lìferunga fer si Patron</als><fr></fr></elem></td></tr>
+<tr><td>dentiste</td><td>Dentiste</td><td>Zahnarzt</td><td><elem><als>Ìch müeß a Zàhn lo üsrissa bim Dentiste</als><fr></fr></elem></td></tr>
+<tr><td>douanier</td><td>Douanier</td><td>Zollbeamter</td><td><elem><als>D Douanier süecha Ebber</als><fr></fr></elem></td></tr>
+<tr><td>épicier</td><td>Epicier</td><td>Krämer</td><td><elem><als>Bi dam Epicier fìndet ma Àlles izkaufa</als><fr></fr></elem></td></tr>
+<tr><td>facteur</td><td>Facteur</td><td>Briefträger</td><td><elem><als>Wàs hàt dr Facteur brocht hìt ?</als><fr></fr></elem></td></tr>
+<tr><td>femme de chambre</td><td></td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>fripier</td><td>Fripier</td><td>Trödler</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>garçon</td><td>Garçon</td><td>Ober</td><td><elem><als>Garçon, ìch wott noch a Glàs Wii !</als><fr></fr></elem></td></tr>
+<tr><td>garde-chasse</td><td>Garde-chasse</td><td>Jagdhüter</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>graveur</td><td>Graveur</td><td>Schnittkünstler</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>greffier</td><td>Greffier</td><td>Gerischtschreiber</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>huissier</td><td>Huissier</td><td>Gerichtsdiener</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>maire</td><td>Maire</td><td>Bürgermeister</td><td><elem><als>Dr Herr Maire màcht vìel fer s Dorf</als><fr></fr></elem></td></tr>
+<tr><td>mairie</td><td>Mairie</td><td>Rathaus</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>maitresse</td><td>Maitresse</td><td>Lehrerin</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>mécanicien</td><td>Mecanicien</td><td>Mechaniker</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>ménage</td><td>Menasch</td><td>Haushalt</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>pâtissier</td><td>Patissier</td><td>Feinbäcker</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>planton</td><td>Planton</td><td>Ordonnanz</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>pompier</td><td>Pumpie</td><td>Feuerwehrmann</td><td><elem><als>D Pumpie kämma s Fiir ku läscha</als><fr></fr></elem></td></tr>
+<tr><td>portier</td><td>Portier</td><td>Pförtner</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>proviseur</td><td>Proviseur</td><td>Oberstudiendirektor</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>tripier</td><td>Tripier</td><td>Darmhändler</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>valet de chambre</td><td></td><td>Kammerdiener</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>volontaire</td><td>Volontaire</td><td>Freiwilliger</td><td><elem><als>Ma süecht Volontaire fer àm Suntig z'schàffa</als><fr></fr></elem></td></tr>
+<tr><td>voyageur</td><td>Voyageur</td><td>Reisender</td><td><elem><als>Àlla Voyageur mian üssem Zug üsstiiga</als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Koscht</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>absinthe</td><td>Absinthe</td><td></td><td><elem><als>Absinthe trìnka seig nìt gsund</als><fr></fr></elem></td></tr>
+<tr><td>bain-marie (belle-marie)</td><td>Belmarie</td><td>Wasserbad</td><td><elem><als>lo kocha ìm Belmarie</als><fr></fr></elem></td></tr>
+<tr><td>canard</td><td>Canard</td><td></td><td><elem><als>A Canard ìsch a Zucker ìm Alkool tunkt</als><fr></fr></elem></td></tr>
+<tr><td>cervelas</td><td>Cervelas</td><td>Schlackwurst</td><td><elem><als>dìck wia-n-a Cervala</als><fr></fr></elem></td></tr>
+<tr><td>champignons</td><td>Champignon</td><td>Pilz</td><td><elem><als>Fleisch mìt a Champignonsoßa</als><fr></fr></elem></td></tr>
+<tr><td>chapelure</td><td>Chapelür</td><td>Semmelmehl</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>charcuterie</td><td>Charcüterie</td><td>Wurstwaren</td><td><elem><als>Ìm Elsass ìsst ma garn Charcüterie</als><fr></fr></elem></td></tr>
+<tr><td>chique</td><td>Chique</td><td>Priem</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>confiture</td><td>Kumfitür</td><td>Marmelade</td><td><elem><als>a Flàda Kumfitür</als><fr></fr></elem></td></tr>
+<tr><td>cornichon</td><td>Cornichon</td><td>Gurke</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>côtelette</td><td>Kotelett</td><td>Rippchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>court-bouillon</td><td>Kurbouillon</td><td></td><td><elem><als>lo kocha ìm Kurbouillon</als><fr></fr></elem></td></tr>
+<tr><td>crème fouettée</td><td>Crem Fuattee</td><td></td><td><elem><als>Ardbeera sìn güet mìt Crem Fuattee</als><fr></fr></elem></td></tr>
+<tr><td>croquette</td><td>Croquette</td><td>Klößchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>dent-de-loup</td><td>Dàdlu</td><td></td><td><elem><als>Dàdlu sìn Breedla wo àn Schankala gliicha</als><fr></fr></elem></td></tr>
+<tr><td>dessert</td><td>Dessert</td><td>Nachtisch</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>fécule</td><td>Fecüle</td><td>Stärkemehl</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>fondant</td><td>Fondant</td><td>schmelzend</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>gaufrettes</td><td>Gaufrettes</td><td>Waffelchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>glace</td><td>Glace</td><td>Eis</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>jambon</td><td>Schàmbung</td><td>Schinken</td><td><elem><als>a Trànscha Schàmbung</als><fr></fr></elem></td></tr>
+<tr><td>macarons</td><td>Makron</td><td>Makrone</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>mélange</td><td>Melansch</td><td>Gemisch</td><td><elem><als>Dr Metgzer verkàuift güeta Melansch Wìrscht</als><fr></fr></elem></td></tr>
+<tr><td>pisseenlit</td><td>Pissenli</td><td>Löwenzahn</td><td><elem><als>a Pissenlitsàlàt</als><fr></fr></elem></td></tr>
+<tr><td>pot-au-feu</td><td>Pot-au-feu</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>quenelles</td><td>Knell</td><td>Fleischklößchen</td><td><elem><als>a Suppa mìt Knell</als><fr></fr></elem></td></tr>
+<tr><td>vermicelle</td><td>Vermicelle</td><td>Fadennudel</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>vin chaud</td><td>Winscho</td><td>Glühwein</td><td><elem><als>Àm Wianachta trìnkt ma Winscho</als><fr></fr></elem></td></tr>
+<tr><td>vinaigrette</td><td>Vinaigrette</td><td>Essigsoße</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>vol-au-vent</td><td>Vol-au-vent</td><td></td><td><elem><als>Àls Vorgàng gìtt's Vol-au-vent</als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+
+	<elem fin="br">
+            <table>
+                <caption>Nahiarèi</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>baleine</td><td>Baleine</td><td>Stange</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>canevas</td><td>Canevas</td><td>Stickgaze</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>coutil</td><td>Kutil</td><td>Zwillich</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>crochet</td><td>Crochet</td><td>Haken</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>décolleté</td><td>Décolleté</td><td>Brustausschnitt</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>deux-pièces</td><td>Deux-pièces</td><td>zweiteiliger Anzug</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>empiècement</td><td>Empiècement</td><td>Einsatzstück</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>faux-cul</td><td>Faux-cul</td><td></td><td><elem><als>Friahier han d Fràuia Faux-cul trajt, fer breiter üssah</als><fr></fr></elem></td></tr>
+<tr><td>galon</td><td>Galon</td><td>Borte</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>jour</td><td>Schur</td><td>Offnung</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>liseré</td><td>Liseré</td><td>Litze</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>molleton</td><td>Molleton</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>pince</td><td>Pince</td><td></td><td><elem><als>Mìt Pince kàt ma a Rock inamma</als><fr></fr></elem></td></tr>
+<tr><td>plastron</td><td>Plastron</td><td>Vorhemd</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>revers</td><td>Revers</td><td>Aufschlag</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>taffetas</td><td>Taffetas</td><td>Taffet</td><td><elem><als></als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+
+	<elem fin="br">
+            <table>
+                <caption>Müsik</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>bugle</td><td>Bügel</td><td>flügelhorn</td><td><elem><als>Bügel ìsch ànderscht àss Trumpeta</als><fr></fr></elem></td></tr>
+<tr><td>clairon</td><td>Clairon</td><td>Horn</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>cor</td><td>Cor</td><td>Horn</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>piston</td><td>Piston</td><td>Kolben</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>répétition</td><td>Repetition</td><td>Probe</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>tambour</td><td>Tambour</td><td>Trommel</td><td><elem><als></als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Tiar</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>furet</td><td>Füret</td><td>Frettchen</td><td><elem><als></als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+
+	<elem fin="br">
+            <table>
+                <caption>Verschìeda</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>abonnement</td><td>Abonnement</td><td>Dauerbezug</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>carré</td><td>Carré</td><td>Quadrat</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>concours</td><td>Concours</td><td>Wettbewerb</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>contribution</td><td>Contribution</td><td>Steuer</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>corvée</td><td>Korwe</td><td></td><td><elem><als>Dàs ìsh a Korve wo ma wìrklig nìt garn màcht !</als><fr></fr></elem></td></tr>
+<tr><td>courage</td><td>Kurasch</td><td>Mut</td><td><elem><als>Müesch Kurasch hàà !</als><fr></fr></elem></td></tr>
+<tr><td>dispute</td><td>Dispute</td><td>Streit</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>faillite</td><td>Faillit</td><td>Bankrott</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>idée</td><td>Idee</td><td>Idee</td><td><elem><als>a güeta Idee</als><fr></fr></elem></td></tr>
+<tr><td>malheur</td><td>Malheur</td><td>Unglück</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>manières</td><td>Màniera</td><td>Umstände</td><td><elem><als>Ar hàt scheena Màniera</als><fr></fr></elem></td></tr>
+<tr><td>misère</td><td>Misseer</td><td>Elend</td><td><elem><als>Ar hàt vìel Misseer ìn sim Lawa ghàà</als><fr></fr></elem></td></tr>
+<tr><td>octroi</td><td>Octroi</td><td>Stadtzoll</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>posture</td><td>Pàschtür</td><td>Gestallt, Aussehen</td><td><elem><als>Dia Fràui hàt a scheena Pàschtür</als><fr></fr></elem></td></tr>
+<tr><td>service</td><td>Serwiss</td><td>Dienstpflischt</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>sous-chef</td><td>sous-chef</td><td></td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>succès</td><td>Sükse</td><td>Erfolg</td><td><elem><als>Hàsch Sükse mìt da Maidla</als><fr></fr></elem></td></tr>
+<tr><td>tournée</td><td>Turnee</td><td>Geschäftsreise</td><td><elem><als>Dr Lehrbüe geht uf Turnee</als><fr></fr></elem></td></tr>
+<tr><td>visite</td><td>Wissit</td><td>Besuch</td><td><elem><als>Mer kumma a kleina Wissit ku màcha</als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+
+	<elem fin="br">
+            <table>
+                <caption>Usdruck</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>à la chienne</td><td>à la chienne</td><td></td><td><elem><als>"Sa hàt d Hoor lo schnida "à la chienne""</als><fr></fr></elem></td></tr>
+<tr><td>à part</td><td>àpàrt</td><td></td><td><elem><als>Wàs nìt derzüe kumt leen mr àpàrt</als><fr></fr></elem></td></tr>
+<tr><td>adieu</td><td>àdie</td><td>lebewohl !</td><td><elem><als>Àdie, mìr sahn is wìder Morn!</als><fr></fr></elem></td></tr>
+<tr><td>anté-christ</td><td>Andakchrescht</td><td></td><td><elem><als>A Andakrìscht ìsch gega d Religion</als><fr></fr></elem></td></tr>
+<tr><td>au loup</td><td>au loup</td><td></td><td><elem><als>"Ma sott nìt "au loup" schreia wenn's nìt schlìmm ìsch"</als><fr></fr></elem></td></tr>
+<tr><td>bonjour</td><td>buschur</td><td>guten Tag !</td><td><elem><als>Buschur, wia geht's ?</als><fr></fr></elem></td></tr>
+<tr><td>bonsoir</td><td>Bonsoir</td><td>guten Abend !</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>charivari</td><td>Charivari</td><td>Katzenmusik</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>compliment</td><td>Kumplimant</td><td></td><td><elem><als>Kumplimant! Bìsch scheen!</als><fr></fr></elem></td></tr>
+<tr><td>enfin</td><td>enfin</td><td></td><td><elem><als>Enfin, redde m'r nìmm dervu...</als><fr></fr></elem></td></tr>
+<tr><td>excusez</td><td>esküse</td><td>Entschuldigung!</td><td><elem><als>Esküse, ìch ha dàs nìt gmeint</als><fr></fr></elem></td></tr>
+<tr><td>la lune</td><td>Lalüne</td><td>Mond</td><td><elem><als>Dr Lalüne ìsch gànz rund hìnecht</als><fr></fr></elem></td></tr>
+<tr><td>merci</td><td>merci</td><td>danke!</td><td><elem><als>Merci vìelmols!</als><fr></fr></elem></td></tr>
+<tr><td>pardon</td><td>pardon</td><td>entschuldigung !</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>salut</td><td>salü</td><td></td><td><elem><als>salü binànder!</als><fr></fr></elem></td></tr>
+<tr><td>service</td><td>serwiss</td><td>Nichts zu danken !</td><td><elem><als>Merci! - Serwiss!</als><fr></fr></elem></td></tr>
+<tr><td>tantôt</td><td>dato</td><td>Heutzutage</td><td><elem><als>Dàto ìsch àlles modern</als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Adjektiv</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>alerte</td><td>àleert</td><td>munter</td><td><elem><als>Wenn ma jung ìsch, ìsch ma noch àleert</als><fr></fr></elem></td></tr>
+<tr><td>capable</td><td>Kàpàbel</td><td>geeignet</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>courageux</td><td>kuraschiart</td><td>mutig</td><td><elem><als>S'ìch a kuraschiarter Büe</als><fr></fr></elem></td></tr>
+<tr><td>difficile</td><td>diffisiil</td><td></td><td><elem><als>Ar ìsch diffisiil ìm Assa</als><fr></fr></elem></td></tr>
+<tr><td>fixe</td><td>Fix</td><td>fest</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>jaloux</td><td>Schalu</td><td>eifersüchtig</td><td><elem><als>Ar ìsch schalu ìwer sim Brüeder</als><fr></fr></elem></td></tr>
+<tr><td>juste</td><td>Schust</td><td>knapp</td><td><elem><als>Mìt dr Verspätung ìsch d Zitt knàpp worra</als><fr></fr></elem></td></tr>
+<tr><td>leste</td><td>leste</td><td>flink</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>maboul</td><td>mabul</td><td>verrückt</td><td><elem><als>Bìsch dü mabul?!</als><fr></fr></elem></td></tr>
+<tr><td>malin</td><td>malin</td><td>schlau</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>misérable</td><td>miseràwel</td><td>elend</td><td><elem><als>'s hàt miseràwel üsgsaa</als><fr></fr></elem></td></tr>
+<tr><td>noble</td><td>Nowel</td><td>adlig</td><td><elem><als>S'ìsch nowel in dam Hus</als><fr></fr></elem></td></tr>
+<tr><td>sérieux</td><td>Seriös</td><td>ernst</td><td><elem><als>a seriös Maidla</als><fr></fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+            <table>
+                <caption>Verb</caption>
+<tr><th>Frànzeesch Wort</th><th>Elsassisch Wort</th><th>Ditsch Wort</th><th>Beispiel</th></tr>
+<tr><td>amuser</td><td>amusiera</td><td>belustigen</td><td><elem><als>Amüsiara-n-i güet!</als><fr>Amusez-vous bien !</fr></elem></td></tr>
+<tr><td>chagriner</td><td>chagriniera</td><td>betrüben</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>changer</td><td>changiera</td><td>ändern</td><td><elem><als>Àlles chàngiart, mìt dr Zitt</als><fr>Tout change, avec le temps</fr></elem></td></tr>
+<tr><td>chicaner</td><td>chicaniera</td><td>meckern</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>choisir</td><td>chwasiera</td><td>auswählen</td><td><elem><als>Han ìhr a Menü gschwàsiart?</als><fr>Avez-vous choisi un menu ?</fr></elem></td></tr>
+<tr><td>embêter</td><td>àmbetiera</td><td>ärgern</td><td><elem><als>Müesch dr Hund nìt àmbetiara!</als><fr>Tu ne dois pas embêter le chien !</fr></elem></td></tr>
+<tr><td>empêcher</td><td>empechiera</td><td>verhindern</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>flatter</td><td>flattiara</td><td>schmeicheln</td><td><elem><als>D Kàtz tüet garn flàttiara</als><fr>Le chat aime amadouer</fr></elem></td></tr>
+<tr><td>garnir</td><td>garniera</td><td>verzieren</td><td><elem><als></als><fr></fr></elem></td></tr>
+<tr><td>gêner</td><td>scheniera</td><td>stören</td><td><elem><als>Scheniar di numma nìt!</als><fr>Ne te gêne surtout pas !</fr></elem></td></tr>
+<tr><td>profiter</td><td>profitiera</td><td>ausnutzen</td><td><elem><als>Mìr profitiara vum scheen Watter</als><fr>Nous profitons du beau temps</fr></elem></td></tr>
+<tr><td>tromper</td><td>trumpiara</td><td>täuschen</td><td><elem><als>S'ìsch latz: ìch hà mi trumpiart</als><fr>C'est faux : je me suis trompé</fr></elem></td></tr>
+            </table> 
+	</elem>
+
+
+	<elem fin="br">
+		<img_fic>album/mots_francais_dessins.png</img_fic>
+		<als>A echta àlta Lischta</als>
+		<fr>Une liste authentique et ancienne</fr>
+		<img_h>600</img_h>
+	</elem>
+
+
+	<elem fin="br">
+		<link>Mots_francais_dans_le_dialecte_alsacien.htm</link>
+		<als>Mots_francais_dans_le_dialecte_alsacien.htm</als>
+	</elem>
+
+
+
+
+</article>

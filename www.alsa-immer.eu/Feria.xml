@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>Feria</nom_fic>
+<theme>Feria</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>27/09/2014</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+ 
+ 
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Jetz sìn mìr ìn Feria! Wann mìr aneima ge reisa?</als>
+<fr>Maintenant nous sommes en vacances ! Voulons-nous aller quelque part en voyage ?</fr>
+<de>Jetzt sind wir in Urlaub! Wollen wir irgendwo reisen gehen?</de>
+<en>Now we are on holidays! Shall we go and travel anywhere?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Jo... aneima ìm Elsàss, meinsch?</als>
+<fr>Ouais... quelque part en Alsace, tu penses ?</fr>
+<de>Ja... irgendwo im Elsass, meinst du?</de>
+<en>Well... anywhere in Alsace, you mean?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Aneima ìn dr witta Walt, mein i!</als>
+<fr>Quelque part dans le vaste monde, je pense !</fr>
+<de>Irgendwo in der weiten Welt, meine ich!</de>
+<en>Somewhere in the wide world, I mean!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ditschlànd ìsch a scheen Lànd. Wann mìr ìns Ditschlànd geh?</als>
+<fr>L’Allemagne est un beau pays. Voulons-nous aller en Allemagne ?</fr>
+<de>Deutschland ist ein schönes Land. Wollen wir in Deutschland gehen?</de>
+<en>Germany is a beautiful country. Shall we go to Germany?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Hàsch jetz dü kè àndra Idee?!</als>
+<fr>Tu n’as maintenant pas d’autre idée ?!</fr>
+<de>Hast du jetzt keine andere Idee?!</de>
+<en>Don’t you have any other idea, now?!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Oder ìn d Schwitz? D Schwitz ìsch aui a scheen Lànd. Wann mìr ìn d Schwitz geh?</als>
+<fr>Ou en Suisse ? La Suisse est aussi un beau pays. Voulons-nous aller en Suisse ?</fr>
+<de>Oder in die Schweiz? Die Schweiz ist auch ein schönes Land. Wollen wir in die Schweiz gehen?</de>
+<en>Or to Switzerland? Switzerland is also a beautiful country. Shall we go to Switzerland?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ìch mächt uf Itàlia geh. Ìch giang garn uf Venedig, därt ìsch's romàntisch.</als>
+<fr>Je voudrais aller en Italie. J’irais volontiers à Venise, là-bas c’est romantique.</fr>
+<de>Ich möchte nach Italien gehen. Ich würde gern nach Venedig gehen, dort ist es romantisch.</de>
+<en>I would like to go to Italy. I would like to go to Venice, it is romantic there.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Nei, mìr känna nìt uf Itàlia geh.</als>
+<fr>Non, nous ne pouvons pas aller en Italie.</fr>
+<de>Nein, wir können nicht nach Italien gehen.</de>
+<en>No, we cannot go to Italy.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Wurum nìt?</als>
+<fr>Pourquoi pas ?</fr>
+<de>Warum nicht?</de>
+<en>Why not?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Mìr känna nìt Italianisch. Mìr känna därt nìt reda.</als>
+<fr>Nous ne connaissons pas l’italien. Nous ne pouvons pas parler là-bas.</fr>
+<de>Wir können kein Italienisch. Wir können dort nicht reden.</de>
+<en>We cannot speak Italian. We cannot speak there.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Noh geh'mìr uf Rimini. Z'Rimini gìtt's elsassischa Tourìschta; mìt dana kààsch dü reda. Un wenn mìr z'Rimini sìn, sìn mìr ìn Itàlia.</als>
+<fr>Alors nous allons à Rimini. A Rimini il y a des touristes alsaciens ; avec ceux-là tu pourras parler. Et si nous sommes à Rimini, nous sommes en Italie.</fr>
+<de>Dann gehen wir nach Rimini. In Rimini gibt es elsässische Touristen; mit denen kannst du reden. Und wenn wir in Rimini sind, sind wir in Italien.</de>
+<en>Then we go to Rimini. In Rimini there are Alsatian tourists; with those ones you can talk. And if we are in Rimini, then we are in Italy.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+ 
+ 
+<elem>
+<txt>Ce cours présente les prépositions, de lieu notamment.
+</txt>
+</elem>
+ 
+ 
+ 
+</kurs>

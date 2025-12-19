@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Triphonie</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>26/07/2009</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Triphonie</als>
+	</elem>
+
+	<elem>
+		<als>Triphonie nennt ma s Prìnzip vu dr Drèisprorigkeit:</als>
+		<fr>On appelle triphonie le principe du trilinguisme : </fr>
+		<de>Triphonie nennt man das Prinzip von der Dreisprachigkeit:</de>
+	</elem>
+
+	<elem fin="br">
+		<als> Elsassisch, Frànzeesch, Hochditsch.</als>
+		<fr> alsacien, français, allemand.</fr>
+		<de> Elsässisch, Französisch, Hochdeutsch.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dàs fìndet ma zum Beispiel ìn da Gedìchtlabiacher vum Edgar Zeidler.</als>
+		<fr>On le trouve par exemple dans les livres de poésies d'Edgar Zeidler.</fr>
+		<de>Das findet man zum Beispiel in die Gedichtbücher vom Edgar Zeidler.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Dr Text uf Elsasssich steht uf Orthal.</als>
+		<fr>Le texte en alsacien est écrit en Orthal.</fr>
+		<de>Der Text auf Elsässisch steht auf Orthal.</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>D Ìwersetzung uf Frànzeesch hìlft fer s Verstandnis vum elsassischa Text vu da Frànzeeschsprochiga.</als>
+		<fr>La traduction en français aide à la compréhension du texte alsacien par les francophones.</fr>
+		<de>Die Übersetzung auf Französisch hilft am Verständnis vom elsässischen Text von den Französischsprachigen.</de>
+	</elem>
+
+
+	<elem puce="disc">
+
+	<elem>
+		<als>D Ìwersertzung uf Hochditsch hìlft nàtirlig fer s Verstandnis vu àlla Ditchschsprochiga,</als>
+		<fr>La traduction en allemand aide naturellement à la compréhension par tous les germanophones,</fr>
+		<de>Die Übersetzung auf Hochdeutsch hilft natürlich am Verständnis von alle Deutschsprächige,</de>
+	</elem>
+
+	<elem>
+		<als> àwer hàuiptsachlig düet dia Ìwersetzung uf Hochditsch d Ahnligkeita zwìscha Elsassisch un Hochditsch zeiga.</als>
+		<fr> mais surtout, la traduction en allemand montre les analogies entre l'alsacien et l'allemand.</fr>
+		<de> aber haupsächlig zeigt diese Übersetzung auf Hochdeutsch die Änligkeiten zwischen Elsässisch und Hochdeutsch.</de>
+	</elem>
+
+	<elem>
+		<als>(Denn Orthal benutzt dia Idee vun'ra Referanz uf Hochditsch, ìm Elsassischa Schriwa.)</als>
+		<fr>(Car Orthal utilise cette idée d'une référence à l'allemand, dans l'écriture de l'alsacien.)</fr>
+		<de>(Denn Orthal benutzt diese Idee von einere Bezug, im Elsässisches Schreiben.)</de>
+	</elem>
+
+
+	</elem>
+
+
+
+	<elem>
+		<img_fic>album/facebook_alsace.png</img_fic>
+		<img_h>200</img_h>
+	</elem>
+<!-- image du groupe facebook :  http://www.facebook.com/group.php?sid=8ca2fd0e1caf1255d26d0aa704d7c04b&gid=54980528852&ref=search  -->
+
+
+
+
+</article>

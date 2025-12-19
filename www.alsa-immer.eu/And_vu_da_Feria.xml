@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>And_vu_da_Feria</nom_fic>
+<theme>And vu da Feria</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>31/12/2014</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+
+
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Wàs ìsch denn los, Thomas? Bìsch trüürig?</als>
+<fr>Qu'est-ce qu'il y a donc, Thomas? Tu es triste ?</fr>
+<de>Was ist denn los, Thomas? Bist du traurig?</de>
+<en>What's the matter, Thomas? Are you sad?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Jo... ìch dank àn d Feria.</als>
+<fr>Ouais... je pense aux vacances.</fr>
+<de>Ja... ich denke an die Ferien.</de>
+<en>Yes... I think of the holidays.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>D Feria màcha dìch trüürig? Ma ìsch dàs nìt gweehnt!</als>
+<fr>Les vacances te rendent triste ? On n'est pas habitué à ça !</fr>
+<de>Die Ferien machen dich traurig? Man ist das nicht gewöhnt!</de>
+<en>The holidays make you sad? One is not accustomed to that!</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Nei, ìch dank an s And vu da Feria.</als>
+<fr>Non, je pense à la fin des vacances.</fr>
+<de>Nein, ich denke ans Ende der Ferien.</de>
+<en>No, I think at the end of the holidays.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Àh ja. D Feria sìn flott, àwer s And kummt ìmmer züe schnall.</als>
+<fr>Ah oui. Les vacances sont chouettes, mais la fin vient toujours trop vite.</fr>
+<de>Ah ja. Die Ferien sind toll, aber das Ende kommt immer zu schnell.</de>
+<en>Oh yes. The holidays are fun, but the end always comes too fast.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Ìch bsìnn mìch vu dam scheena Summer, wo-n-i ìm Elsàss verbrocht hà.</als>
+<fr>Je me souviens de ce bel été, que j'ai passé en Alsace.</fr>
+<de>Ich erinnere mich àn diesen schönen Sommer, den ich im Elsass verbracht habe.</de>
+<en>I remember this beautiful summer that I spent in Alsace.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Ìch gìbb dìr Sürkrütt mìt, dàs màhnt dìch àn s Elsàss.</als>
+<fr>Je te donne de la choucroute à emmener, ça te fera penser à l'Alsace.</fr>
+<de>Ich gebe dir Sauerkraut mit, das mahnt dir ans Elsass.</de>
+<en>I give you sauerkraut to take away with you, that will remind you the holidays.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Ìch hà kè Luscht noh Sürkrütt! Ìch hà Luscht noh-n-era Flascha Biar.</als>
+<fr>Je n'ai pas envie de choucroute ! J'ai envie d'une bouteille de bière.</fr>
+<de>Ich habe keine Lust nach Sauerkraut! Ich habe Lust nach einer Flasche Bier.</de>
+<en>I do not feel like sauerkraut! I feel like a bottle of beer.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Wàs dankt dernoh dina Fìmìlia, wenn dü numma Biar zruckbrìngsch? Àss dü bi uns hàsch lehra trìnka?</als>
+<fr>Que pensera alors ta famille, si tu ramènes seulement de la bière ? Que tu as appris à boire chez nous ?</fr>
+<de>Was denkt danach deine Familie, wenn du nur Bier zurückbringst? Dass du bei uns trinken gelernt hast?</de>
+<en>Then what will think your family, if you only bring beer back home? That you learned to drink with us?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Sa sotta danka wàs sa wann! Ìch steer mìch nìt àn dam.</als>
+<fr>Qu'ils pensent ce qu'ils veulent ! Je ne me soucis pas de ça.</fr>
+<de>Sie sollen denken was sie wollen! Ich störe mich nicht an dem.</de>
+<en>They should think what they want! I don't matter about that.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Mìr han gnüe Biar ìm Kaller.Oder wìtt noch ge ikàuifa?</als>
+<fr>Nous avons assez de bière à la cave.Ou veux-tu encore aller acheter ?</fr>
+<de>Wir haben genug Bier im Keller.Oder willst du noch einkaufen gehen?</de>
+<en>We have enough bear in the cave.Or do you still want to go shopping?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Ìch gàng noch a Mol uf Milhüüsa.Kummsch mìt mìr?</als>
+<fr>Je vais encore une fois à Mulhouse.Tu viens avec moi ?</fr>
+<de>Ich gehe noch einmal nach Mülhausen.Kommst du mit mir?</de>
+<en>I go once again to Mulhouse.Do you come with me?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Nei. Ìch lüeg uf dr Küecha wo ìm Ofa bàcht.Un ìch wàrt uf d Noochbra, sa kummt noochhar z Vissita.</als>
+<fr>Non. Je surveille le gâteau qui cuit au four.Et j'attends la voisine, elle viendra après faire une visite.</fr>
+<de>Nein. Ich schaue auf den Kuchen, den im Ofen bäckt.Und ich warte auf die Nachbarin, sie kommt nachher zu Besuch.</de>
+<en>No. I watch the cake that is baking in the oven.And I wait for the neighbour, she'll come later for a visit.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Noh frogg i dr Joseph äb'r wìll mìtkumma.</als>
+<fr>Alors je demande à Joseph s'il veut venir avec.</fr>
+<de>Dann frage ich Joseph ob er mitkommen will.</de>
+<en>Then I ask Joseph if he wants to come with me.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Jo... Ar schàfft gràd àm Züün.Ar màcht vìllìcht garn a Pàuisa!</als>
+<fr>Oui... Il est juste en train de travailler à la clôture.Il fera peut-être volontiers une pause !</fr>
+<de>Ja... Er arbeitet gerade am Zaun.Er macht vielleicht gern eine Pause!</de>
+<en>Yes... He's just working at the fence.He will perhaps be happy to have a break!</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Kummsch mìt mìr ìn d Stàdt?</als>
+<fr> Tu viens avec moi en ville ?</fr>
+<de> Kommst du mit mir in die Stadt?</de>
+<en> Do you come with me into town?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Nei, ìch bì jetz àm Züün Repàriara.Ìch bì àwer boll fertig.</als>
+<fr>Non, je suis maintenant en train de réparer la clôture.Mais j'ai bientôt fini.</fr>
+<de>Nein, ich bin jetzt am Zaun Reparieren.Ich bin aber bald fertig.</de>
+<en>No, I am now repairing the fence.But I will soon finish.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Los, ìch wàrt uf dìch.Noh geh'mìr mìtnànder.</als>
+<fr>Ecoute, je t'attends.Alors nous irons ensemble.</fr>
+<de>Los, ich warte auf dich.Dann gehen wir miteinander.</de>
+<en>Listen; I wait for you.Then we'll go together.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>And_vu_da_Feria_</id>
+<als>Ja! Un mìr gehn ìn a Beitza, mìr trìnka eins uf dia scheena Feria wo dü ìm Elsàss verbrocht hàsch!</als>
+<fr>Oui ! Et nous allons dans un bistrot, nous boirons un coup à ces belles vacances que tu as passées en Alsace !</fr>
+<de>Ja! Und wir gehen in eine Kneipe, wir trinken eins auf diese schönen Ferien die du im Elsass verbracht hast!</de>
+<en>Yes! And we go to a pub, we drink a shot at these beautiful holidays that you spent in Alsace!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+<elem>
+<txt>Ce cours présente les prépositions qui suivent certains verbes.
+</txt>
+</elem>
+ 
+ 
+ 
+</kurs>

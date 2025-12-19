@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Das_isch_dr_Duuma</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>01/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Dàs ìsch dr Düüma</als>
+		<fr>Celui-là c'est le pouce</fr>
+		<de>Das ist der Daume</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dàs ìsch dr Düüma</als>
+		<fr>Celui-là c'est le pouce</fr>
+		<de>Das ist der Daume</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Da ìsst garn Pflüüma</als>
+		<fr>Celui-là aime manger des prunes</fr>
+		<de>Dieser isst gern Pflaumen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Da hebt sa uf</als>
+		<fr>Celui-là les ramasse</fr>
+		<de>Dieser hebt sie auf</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Da tràgt sa heim</als>
+		<fr>Celui-là les rapporte à la maison</fr>
+		<de>Dieser trägt sie heim</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un dàs ìsch dr gànz klei klei Spìtzbüe</als>
+		<fr>Et ça c'est le tout petit petit dernier</fr>
+		<de>Und das ist der ganz klein klein Spitzbube</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Da ìsst sa gànz allei</als>
+		<fr>Celui-là les mange tout seul</fr>
+		<de>Dieser isst sie ganz allein</de>
+	</elem>
+
+	<elem>
+		<img_fic>album/Hand.png</img_fic>
+		<als>d Hànd</als>
+	</elem>
+
+</article>

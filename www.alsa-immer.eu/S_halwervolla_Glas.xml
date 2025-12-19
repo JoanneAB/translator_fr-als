@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>S_halwervolla_Glas</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>11/02/2010</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>S hàlwervolla Glàs</als>
+		<fr>Le verre à moitié plein</fr>
+		<de>Das halbvolle Glas</de>
+	</elem>
+
+
+	<elem fin="br">
+		<img_fic>album/halwervollesGlas.jpg</img_fic>
+		<als>hàlwervolles Glàs</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìch bìn a hàlwervolles Glàs:</als>
+		<fr>Je suis un verre qui est à moitié plein</fr>
+		<de>Ich bin ein Glas, das halber voll ist</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìch kàà noch Elsassisch reda.</als>
+		<fr>Je sais encore parler alsacien.</fr>
+		<de>Ich kann noch Elsässisch reden.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Wenn i gànz güet Elsassisch kännt reda, ohna Fahler, dat i sàga àss i a gànz voll Glàs bì.</als>
+		<fr>Si je pouvais très bien parler alsacien, sans faute, je dirais que je suis un verre complètement plein.</fr>
+		<de>Wenn ich ganz gut elsässisch reden könnte, ohne Fehler, würde ich sagen dass ich ein ganz volles Glas bin.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn i gàr nìmm Elsassisch kännt reda, noh dat i sàga àss i a laar Glàs bì.</als>
+		<fr>Si je ne pouvais plus du tout parler alsacien, alors je dirais que je suis un verre vide.</fr>
+		<de>Wenn ich gar nicht mehr Elsässisch reden könnte, dann würde ich sagen dass ich ein leeres Glas bin.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>So, wia màch i jetzt witterscht mìt dam?</als>
+		<fr>Alors, comment vais-je continuer avec ça ?</fr>
+		<de>So, wie mache ich jetzt weiter damit?</de>
+	</elem>
+
+	<elem>
+		<als>Wìll i hàlta un sàga:</als>
+		<fr>Vais-je arrêter et dire :</fr>
+		<de>Will ich halten und sagen:</de>
+	</elem>
+
+	<elem>
+		<als>"'s ìsch züe schwar, ìch wìrr nìt fertig mìt da Fahler wo-n-i màch, 's hàt kè Wart"?</als>
+		<fr>"c'est trop difficile, je n'y arrive pas avec toutes les fautes que je fais, ce n'est pas la peine" ?</fr>
+		<de>"es ist zu schwer, ich werde nicht fertig mit der Fehler die ich mache, es hat kein Wert"?</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/lahresGlas.jpg</img_fic>
+		<als>lahres Glàs</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Oder wìll i ebbis màcha mìt dam wo-n-i kenn, egàl äb's nìt perfekt wìrd?</als>
+		<fr>Ou bien vais-je faire quelque chose avec ce que je sais, peu importe si ça ne devient pas parfait ?</fr>
+		<de>Oder will ich etwas machen mit diesem der ich kenne, egal ob es nicht perfekt wird?</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem>
+		<als>Da Wàhl ìsch mii:</als>
+		<fr>Ce choix est le mien :</fr>
+		<de>Dieser Wahl ist mein:</de>
+	</elem>
+
+	<elem fin="br">
+		<als>wìrd sìch s hàlwervolla Glàs fìlla oder laara?</als>
+		<fr>le verre à moitié plein va-t-il se remplir ou se vider ?</fr>
+		<de>wird sich das halbervolle Glas füllen oder leeren?</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem>
+		<als>Wia mehr àss ma sìch um ebbis ìntressiart, wia mehr lehrt ma drìwer.</als>
+		<fr>Plus on s'intéresse à quelque chose, plus on apprend à son sujet.</fr>
+		<de>Wie mehr man sich um etwas interessiert, wie mehr lehrt man darüber.</de>
+	</elem>
+
+	<elem>
+		<als>Ma entdeckt, ma versteht, un hàuptsachlig:</als>
+		<fr>On découvre, on comprend, et surtout :</fr>
+		<de>Man entdeckt, man versteht, und hauptsächlich:</de>
+	</elem>
+
+	<elem fin="br">
+		<als>ma vergìsst sina Mìnderheitskomplexa.</als>
+		<fr>on oublie ses complexes d'infériorité.</fr>
+		<de>man vergisst seine Minderheitskomplexen.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Àlso bis boll, mìt'ma gànz volla Glàs!</als>
+		<fr>Alors à bientôt, avec un verre complètement plein !</fr>
+		<de>Also bis bald, mit einem ganz vollen Glas!</de>
+	</elem>
+
+	<elem>
+		<img_fic>album/vollesGlas.jpg</img_fic>
+		<als>voll Glàs</als>
+	</elem>
+
+
+</article>

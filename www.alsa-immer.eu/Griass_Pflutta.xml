@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Griass_Pflutta</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>12/09/2009</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Griaßpflütta</als>
+	</elem>
+
+	<elem titre="h2">
+		<als>Wàs ma brüücht</als>
+		<fr>Ce dont on a besoin</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>1 l Mìlch</als>
+		<fr>1 l de lait</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>300 g Griaß (ma nìmmt àls a Packla vu 500g, àwer ma brüücht nìt àlles)</als>
+		<fr>300 g de semoule (on prend généralement un paquet de 500g, mais on n'utilise pas tout)</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>a bìtsi Sàlz</als>
+		<fr>un peu de sel</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6302GriassPflutta_War.JPG</img_fic>
+		<als>d Wàr</als>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Rezapt</als>
+		<fr>Recette</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6304GriassPflutta_kocha.JPG</img_fic>
+		<als>ìn dr Pfànna</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Liter Mìlch ìn a Pfànna schìtta.</als>
+		<fr>Verser le litre de lait dans une casserole.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>D Mìlch wärma, bis sa kocht.</als>
+		<fr>Chauffer le lait jusqu'à ébullition.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn d Mìlch kocht, dràb macha vum Fiir un s Griaß driischìtta, wahrend àss ma mìt'ma Holzläffel dreiht (zìmlig energisch).</als>
+		<fr>Quand le lait bout, enlever du feu et y verser la semoule, pendant qu'on tourne avec une cuiller en bois (assez énergiquement).</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>'s gìtt schnall a dìcka Brüehja - do müeß jeder lüega wia-n-ar's garn hàt:</als>
+		<fr>Ca donne rapidement une épaisse bouillie - là chacun doit voir de quelle manière il la préfère :</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>weniger Griass gìtt weicha Griaßpflütta</als>
+		<fr>moins de semoule donne des Griass Pflütta mous</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>mehr Griass gìtt härta Griaßpflütta</als>
+		<fr>plus de semoule donne des Griass Pflütta fermes</fr>
+	</elem>
+
+	<elem>
+		<als>Noh-n-era a Minüta Dreiha ìsch's güet.</als>
+		<fr>Après avoir tourné une minute, c'est bon.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ma kààt's eifàch aso assa, noch wàrm (zum Beispiel mìt Äpfelmüeß oder Zwatschgamüeß).</als>
+		<fr>On peut le manger simplement tel quel, encore chaud (par exemple avec de la compote de pommes ou de la compote de quetsches).</fr>
+	</elem>
+
+
+	<elem>
+		<img_fic>album/100_6309GriassPflutta_uffemTisch.JPG</img_fic>
+		<als>uf em Tìsch</als>
+	</elem>
+
+	<elem>
+		<als> </als>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/100_6312GriassPflutta_imTaller.JPG</img_fic>
+		<als>ìm Taller</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Oder ma kààt Bolla ("Pflütta") drüsmàcha un sa ìn a Pfànna mìt Eel lo braagla.</als>
+		<fr>Ou on peut en faire des boulettes ("Pflütta") et les griller dans une poêle avec de l'huile.</fr>
+	</elem>
+
+
+
+
+</article>

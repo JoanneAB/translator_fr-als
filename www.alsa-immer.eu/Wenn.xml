@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Wenn</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>22/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Wenn...</als>
+		<fr>Si...</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da àls Kìnd "Papapa" und "Mamama" gsajt hàsch</als>
+		<fr>Si dans ton enfance tu disais "grand-père" et "grand-mère"</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da "Gummi" kàuift hàsch, àls Schlackwàr</als>
+		<fr>Si tu achetais des "bonbons mous", comme friandises</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da mìt "Bleberla" gspìelt hàsch</als>
+		<fr>Si tu jouais avec des "cubes"</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da "Gsundheit" sajsch wenn eber niasst, oder wenn da mìt ebrem a Gläsla trìnksch</als>
+		<fr>Si tu dis "santé" quand quelqu'un éternue, ou quand tu bois un verre avec quelqu'un</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da "Hopla" sajsch fer dìch excüsiera</als>
+		<fr>Si tu dis "Hopla" pout t'excuser</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da "Ammel" sajsch wenn dìr ebis klàr wìrd</als>
+		<fr>Si tu dis "Ammel" quand tu comprends quelque chose</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da "Bibalakas" garn hàsch àls Owaassa</als>
+		<fr>Si tu aimes manger du "fromage frais" au dîner</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da ke Àngst hàsch, Metwurschtflàda ìm Mìllechkàfe z'tunga</als>
+		<fr>Si ça ne t'effraie pas, de tremper dans le café au lait des tartines de pâté de foie</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da àn àlla Fanschter Gerànium àhnamàchsch</als>
+		<fr>Si tu mets des géraniums à toutes les fenêtres</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da ke Miaih hàsch, fer a "Zwatschgawahja" verlànga</als>
+		<fr>Si tu n'as aucun mal à demander une tarte aux quetsches</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn da "der Buter" sajsch wenn da ditsch retsch</als>
+		<fr>Si tu dis "der Butter" (au lieu de "die") quand tu parles allemand</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Ja... no bìsch sìcher a Elsasser!</als>
+		<fr>Oui... alors tu es sûrement un Alsacien !</fr>
+	</elem>
+
+
+
+</article>

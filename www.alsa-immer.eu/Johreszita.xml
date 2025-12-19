@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Johreszita</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>22/02/2009</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Johreszita</als>
+		<fr>Saisons</fr>
+		<de>Jahreszeiten</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wia scheen ìsch's ìm Friahjohr!</als>
+		<fr>Comme c'est beau au printemps !</fr>
+		<de>Wie schön ist es im Frühling!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Jetzt spiirt ma wia Àlles àfàngt, ìn dam nèia Johr!</als>
+		<fr>Maintenant on sent comme tout commence, dans cette nouvelle année !</fr>
+		<de>Jetzt spürt man wie Alles anfängt, in diesem neuen Jahr!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>D Nàtür verwàcht andlig vu dr Wìnterpàuisa</als>
+		<fr>La nature s'éveille enfin de la pause hivernale</fr>
+		<de>Die Natur erwächt endlich von der Winterpause</de>
+	</elem>
+
+	<elem fin="br">
+		<als>un wàs heert ma denn do? Àlla Veegel sìnga!</als>
+		<fr>et qu'est-ce qu'on entend ici ? Tous les oiseaux chantent !</fr>
+		<de>und was hört man denn da? Alle Vögel singen!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wia scheen ìsch's ìm Friahjohr!</als>
+		<fr>Comme c'est beau au printemps !</fr>
+		<de>Wie schön ist es im Frühling!</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Wia flott ìsch's ìm Summer!</als>
+		<fr>Comme c'est agréable en été !</fr>
+		<de>Wie angenehm ist es im Sommer!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn da Feria vergìsst ma àlla sina Kummer.</als>
+		<fr>Pendant les vacances, on oublie tous ses soucis.</fr>
+		<de>In die Ferien vergisst man alle seine Kummer.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Geht ma üswartz, àns Meer, oder ìn d Barga</als>
+		<fr>On prend le large, à la mer, ou en montagne</fr>
+		<de>Geht man auswärts, ans Meer, oder in die Bergen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Sogàr dheim, ìm scheena Elsàss ge spàziara</als>
+		<fr>Même à la maison, se promener dans la belle Alsace</fr>
+		<de>Sogar zu Hause, im schönen Elsass spazieren</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wia flott ìsch's ìm Summer!</als>
+		<fr>Comme c'est agréable en été !</fr>
+		<de>Wie angenehm ist es im Sommer!</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Wia güet ìsch's ìm Spotjohr!</als>
+		<fr>Comme c'est bon en automne !</fr>
+		<de>Wie gut ist es im Herbst!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìtem Nèier wo sìch losst trìnka ohna Gfohr</als>
+		<fr>Avec le vin nouveau qui se laisse boire sans danger</fr>
+		<de>Mit dem Neuer Süßer der sich ohne Gefahr trinken lässt</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Àm Oktowerfascht fìndet ma Spack un Nussa.</als>
+		<fr>A la fête d'octobre on trouve du lard et des noix.</fr>
+		<de>Am Oktoberfest findet man Speck und Nussen.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Zwìscha da guldiga Baim ìm Wàld geht ma ge làuifa.</als>
+		<fr>Entre les arbres dorés dans la forêt, on va marcher.</fr>
+		<de>Zwischen den goldenen Bäumen im Wald geht man spazieren.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wia güet ìsch's ìm Spotjohr!</als>
+		<fr>Comme c'est bon en automne !</fr>
+		<de>Wie gut ist es im Herbst!</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Wia kàlt ìsch's ìm Wìnter!</als>
+		<fr>Comme c'est froid en hiver !</fr>
+		<de>Wie kalt ist es im Winter!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn's duss a Hüffa scnhèit - dàs gfàllt ìn da Kìnder!</als>
+		<fr>Quand dehors il neige beaucoup - ça, ça plaît aux enfants !</fr>
+		<de>Wenn es draußen schneit - das gefällt in den Kinder!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>"Kumm nawa mìr bim Kàchelofa, ìn d Wärma</als>
+		<fr>"Viens à côté de moi près du poêle, dans la chaleur</fr>
+		<de>"Komm neben mir beim Kachelofen, in die Wärme</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Fer a scheena Owa ìn unserem Hisala."</als>
+		<fr>Pour une belle soirée dans notre petite maison."</fr>
+		<de>Für ein schönes Abend in unserem Häuschen."</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wia kàlt ìsch's ìm Wìnter!</als>
+		<fr>Comme c'est froid en hiver !</fr>
+		<de>Wie kalt ist es im Winter!</de>
+	</elem>
+
+	<elem fin="br"/>
+
+
+
+</article>

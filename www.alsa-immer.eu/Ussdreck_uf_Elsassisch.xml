@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Ussdreck_uf_Elsassisch</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>19/07/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Üsdrìck uf Elsassisch</als>
+		<fr>Expressions en alsacien</fr>
+	</elem>
+
+	<elem titre="h2" fin="hr">
+		<als>Beleidigunga</als>
+		<fr>Injures</fr>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>Scharaschliffer</als>
+		<fr>aiguiseur de ciseaux</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Dìpfalaschisser</als>
+		<fr>chieur de petits points (= maniaque)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Totawagalabramser</als>
+		<fr>freineur de corbillard (= mouche du coche)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Lachalabàtschi</als>
+		<fr>Eclabousseur de petites flaques</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Lack mi àm Àrsch</als>
+		<fr>Lèche-moi le cul</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Gopfer dàmmi gopfer dàmmi</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Kritza gotfer klemmi</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Gotfer dàmmi</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Milliona milliarda gotfer dàmmi</als>
+	</elem>
+
+
+
+	<elem puce="disc">
+		<als>Untergstudiarter Mensch</als>
+		<fr>personne sous-instruite</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Walsch</als>
+		<fr>Français (de l'intérieur)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Hàsabock</als>
+		<fr>Français (de l'intérieur). Littéralement : lièvre.</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Bäxer</als>
+		<fr>Bas-Rhinois</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Schwobb</als>
+		<fr>Allemand</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Tschingala</als>
+		<fr>Italien</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Polàck</als>
+		<fr>Polonais</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Harwa</als>
+		<fr>Arabe</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Muschi-muschi</als>
+		<fr>Arabe (vendeur de tapis)</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br"/>
+
+
+	<elem titre="h2" fin="hr">
+		<als>Verschìedena Üsdrìck</als>
+		<fr>Expressions diverses</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Àrm wia-n-a Kìchermüüs</als>
+		<fr>Pauvre comme une souris d'église (une bigote)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Eins no-n-em Àndra, wia ìn Pàris</als>
+		<fr>Une chose après l'autre, comme à Paris</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Dummel di, àwer làngsàm</als>
+		<fr>Dépêche-toi, mais lentement</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>A Zeina voll</als>
+		<fr>Un panier plein (= beaucoup)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Lehrgald</als>
+		<fr>Le prix de l'apprentissage (au sens figuré)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Sìtzlader -> Sìtzlader hàà</als>
+		<fr>Littéralement : cuir d'assise -> rester longtemps assis, ne plus vouloir s'en aller</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Ar hàt dìcka Strìmpf àà!</als>
+		<fr>Il ne réagit/ne comprend pas vite ! (littéralement : il a de grosses chaussettes)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Ma müeß'm mìt'ra Schiratìra wìnka!</als>
+		<fr>Il ne réagit/ne comprend pas vite ! (littéralement : on doit lui faire des signes avec une porte de grange)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>As ziagt.</als>
+		<fr>Il y a du courant d'air. (littéralement, et en français régional d'Alsace : ça tire.)</fr>
+	</elem>
+
+
+
+
+	<elem fin="br"/>
+
+	<elem fin="br"/>
+
+
+	<elem titre="h2" fin="hr">
+		<als>Sprìchwärter</als>
+		<fr>Proverbes</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>A Kàtz mìt Hanschig fàngt kè Miis</als>
+		<fr>Un chat avec des gants n'attrape pas de souris</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>A mang gschèit Hüen lìegt s Ei nawe's Nascht</als>
+		<fr>Plus d'une poule intelligente pond son oeuf à côté du nid</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>As ìsch noch kè Glehrter vum Hìmmel ghèit</als>
+		<fr>Aucun érudit n'est encore tombé du ciel</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>A Stìck Brot ìm Sàck ìsch meh Wart àss a Fadra àm Hüet</als>
+		<fr>Un morceau de pain dans la poche vaut plus qu'une plume au chapeau</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Dummheit un Stolz wàchsa uf eim Holz</als>
+		<fr>La bêtise et la fierté poussent sur le même bois</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Liawa geht dur dr Màga</als>
+		<fr>L'amour passe par l'estomac (par la cuisine, en fait)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Wenn's dunnert un blìtzt ìn dr hola Wàld, gìtt's noch Schnee un wìrd's noch kàlt</als>
+		<fr>S'il y a du tonnerre et de l'éclair dans la forêt sans feuilles, il va encore neiger et faire froid</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Wàs ma nìt weiß, màcht eim nìt heiß</als>
+		<fr>Ce qu'on ne sait pas, ça ne fait ni chaud ni froid</fr>
+	</elem>
+
+
+
+	<elem fin="br">
+		<link>http://www.isundgau.com/category/histoire-de-lalsace/dialecte-et-expressions/</link>
+		<als>Mehr Üsdrìck uf http://www.isundgau.com/category/histoire-de-lalsace/dialecte-et-expressions/</als>
+		<fr>Plus d'expressions sur http://www.isundgau.com/category/histoire-de-lalsace/dialecte-et-expressions/</fr>
+		<de>Mehr Ausdrücke auf http://www.isundgau.com/category/histoire-de-lalsace/dialecte-et-expressions/</de>
+	</elem>
+
+
+
+(voir aussi : http://web.archive.org/web/20070803013706/http://dialecte.alsacien.free.fr/ )
+
+
+	<elem fin="br"/>
+
+	<elem fin="br"/>
+
+
+
+	<elem titre="h2" fin="hr">
+		<als>Wärter-Spìeler</als>
+		<fr>Jeux de mots</fr>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>Oberottrotterroter, oder unterottrotterroter</als>
+		<fr>Du vin rouge d'Otrott-le-Haut, ou du vin rouge d'Ottrott-le-Bas</fr>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>Wenn Wàsser Wii war, wo wotta d Wìntzener Wiiwer d Wìndla wascha, wenn's wohr war?</als>
+		<fr>Si l'eau était du vin, où les femmes de Wintzenheim voudraient-elles laver les langes, si c'était vrai ?</fr>
+	</elem>
+
+	<elem titre="h3">
+		<als>Klìngt wia uf Chineesisch:</als>
+		<fr>Sonne comme du chinois :</fr>
+	</elem>
+
+
+	<elem fin="br">
+		<als>- Schàui Schang, d Sunna Schiint scho</als>
+		<fr>- Regarde Jean, le soleil brille déjà</fr>
+	</elem>
+
+
+	<elem fin="br">
+		<als>- Scheni, d Sunn schiint schu làng!</als>
+		<fr>- Eugène, le soleil brille depuis longtemps !</fr>
+	</elem>
+
+	<elem titre="h3">
+		<als>Klìngt wia uf Anglisch:</als>
+		<fr>Sonne comme de l'anglais :</fr>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>Ei Hemm, a pflatsch nàss Hemm</als>
+		<fr>Une chemise, une chemise toute trempée</fr>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem fin="br"/>
+
+
+	<elem titre="h2" fin="hr">
+		<als>Üsdrìck uf Elsassisch wo gànz ànderscht sìn uf Hochditsch</als>
+		<fr>Expressions en alsacien qui sont complètement différentes en allemand</fr>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>jo</als>
+		<fr>oui (hésitant) ou bof... ou peut-être...</fr>
+		<de></de>
+	</elem>
+
+	<elem puce="disc">
+		<als>ammel</als>
+		<fr>bien sûr</fr>
+		<de>ja natürlich, offenbar</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>ìwa</als>
+		<fr>justement</fr>
+		<de>eben ?</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>artscht</als>
+		<fr>(renforce l'interrogation : on ne peut pas prédire la réponse)</fr>
+		<de>je   ?????</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>latz</als>
+		<fr>faux</fr>
+		<de>falsch</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>wiascht</als>
+		<fr>laid</fr>
+		<de>hässlich</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>glunga</als>
+		<fr>bizarre</fr>
+		<de>komisch</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>rosarot</als>
+		<fr>rose</fr>
+		<de>rosa</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>geh</als>
+		<fr>aller</fr>
+		<de>gehen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>làuifa</als>
+		<fr>marcher</fr>
+		<de>gehen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>renna</als>
+		<fr>courir</fr>
+		<de>laufen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>ghèja</als>
+		<fr>tomber</fr>
+		<de>fallen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>blìtza</als>
+		<fr>sauter</fr>
+		<de>springen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>gumba</als>
+		<fr>bondir</fr>
+		<de>springen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>jaschta</als>
+		<fr>se dépêcher</fr>
+		<de>sich eilen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>sìch dummla</als>
+		<fr>se dépêcher</fr>
+		<de>sich eilen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>lüega</als>
+		<fr>regarder</fr>
+		<de>schauen</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Kràch hàà (mìt ebrem)</als>
+		<fr>se disputer (avec quelqu'un)</fr>
+		<de>sich streiten (mit jemandem)</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>glätta</als>
+		<fr>repasser</fr>
+		<de>bügeln</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>spretza (d Blüema spretza)</als>
+		<fr>arroser (arroser les fleurs)</fr>
+		<de>gießen (die Blumen gießen)</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>güügla</als>
+		<fr>être bancal</fr>
+		<de>schaukeln</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>zulla</als>
+		<fr>sucer</fr>
+		<de>??</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>dütla</als>
+		<fr>lambiner</fr>
+		<de>??</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Friahjohr</als>
+		<fr>printemps</fr>
+		<de>Frühling</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Spotjohr</als>
+		<fr>automne</fr>
+		<de>Herbst</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Hornung</als>
+		<fr>février</fr>
+		<de>Februar</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>dr Ross</als>
+		<fr>le cheval</fr>
+		<de>das Pferd</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>dr Gückel</als>
+		<fr>le coq</fr>
+		<de>der Hahn</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>dr Gràbb</als>
+		<fr>le corbeau</fr>
+		<de>der Rabe</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>d Wahja</als>
+		<fr>la tarte</fr>
+		<de>die Torte</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>s Galriawla</als>
+		<fr>la carotte</fr>
+		<de>die Möhre, die Karotte</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>s Grìtzer</als>
+		<fr>l'allumette</fr>
+		<de>das Streichholz</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>gschèit</als>
+		<fr>intelligent</fr>
+		<de>klug</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>d Schuld</als>
+		<fr>coupable</fr>
+		<de>schuldig</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>ebber</als>
+		<fr>quelqu'un</fr>
+		<de>jemand</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>ebbis</als>
+		<fr>quelque chose</fr>
+		<de>etwas</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>aneimns</als>
+		<fr>quelque part</fr>
+		<de>irgendwo</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Hopla!</als>
+		<fr>Pardon !</fr>
+		<de>Entschuldigung!</de>
+	</elem>
+
+
+
+
+	<elem fin="br"/>
+
+	<elem fin="br"/>
+
+
+	<elem titre="h2" fin="hr">
+		<als>Wärter wo zwei verschìedena Bedittunga känna hàà</als>
+		<fr>Mots qui peuvent avoir deux significations différentes</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Brot</als>
+		<fr>pain ou grillé</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Fadra</als>
+		<fr>plume ou ressort</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Hàfa</als>
+		<fr>pot ou port</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Kìschta</als>
+		<fr>caisse ou côte</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Koscht</als>
+		<fr>coût ou cuisine</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>langa</als>
+		<fr>donner ou suffire</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Mass</als>
+		<fr>foire ou messe</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Rot</als>
+		<fr>conseil ou rouge</fr>
+	</elem>
+
+
+
+
+</article>

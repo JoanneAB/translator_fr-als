@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Place_de_l_Europe_Mulhouse</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>02/06/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Place de l'Europe, z'Milhüüsa</als>
+		<fr>Place de l'Europe, à Mulhouse</fr>
+		<de>Place de l'Europe, in Mülhausen</de>
+	</elem>
+
+	<elem>
+		<als>Zwìscha 1966 un 2007 hàt's ìn Milhüsa a "Place de l'Europe" gaa.</als>
+		<fr>Entre 1966 et 2007, il y eu à Mulhouse une "Place de l'Europe".</fr>
+		<de>Zwischen 1966 und 2007 hat es in Mülhausen eine "Place de l'Europe" gegeben.</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Dr Àfàng vum Plàtz</als>
+		<fr>Le début de la Place</fr>
+		<de>Der Anfang vom Platz</de>
+	</elem>
+
+	<elem>
+		<als>Ursprunlig, àn dam Ort (wo ma "Dantscha" gnennt hàt), sìn Fàwrìka gsìì.</als>
+		<fr>A l'origine, à cet endroit (qu'on appelait "Dentsche"), il y avait des usines.</fr>
+		<de>Ursprünglich, an diesem Ort (den man "Dentsche" genannt hat), waren Fabriken.</de>
+	</elem>
+
+	<elem>
+		<als>Ìn da Johra 1960 ìsch dia induschtriella Aktivitàt scho làng umma; d Stàdt vorseht derno a großer ürbanistiker Projekt: in dara Zit wìnscht ma a ültra-moderna Zentrum fer Milhüsa.</als>
+		<fr>Dans les années 60, cette activité industrielle est depuis longtemps finie ; la ville projette alors un grand projet urbanistique : en ce temps-là on souhaite un centre ultra-moderne pour Mulhouse.</fr>
+		<de>In die Jahren 1960 ist diese industrielle Aktivität schon längst vorbei; die Stadt vorseht danach ein großer ürbanistiker Projekt: in dieser Zeit wünscht man ein ultra-modernes Zentrum für Mülhausen.</de>
+	</elem>
+
+	<elem>
+		<als>Ma hàt aui a großa Idee vum Europa un vu dr Frìndschàft zwìscha Lander.</als>
+		<fr>On a aussi une grande idée de l'Europe et de l'amitié entre pays.</fr>
+		<de>Man hat auch eine große Idee vom Europa und von der Freundschaft zwischen Länder.</de>
+	</elem>
+
+	<elem>
+		<als>Dr "Tour de l'Europe" wìrd bàuia vum François Spoerry, a beriamter Architekt.</als>
+		<fr>La "Tour de l'Europe" est construite par François Spoerry, un architecte renommé.</fr>
+		<de>Der "Europa Turm" wird gebaut vom François Spoerry, ein berühmter Architekt.</de>
+	</elem>
+
+	<elem>
+		<als>Vorna àn dam Turm lìgt a viareckiger Plàtz: dr "Place de l'Europe".</als>
+		<fr>Devant cette tour il y a une place carrée : la "Place de l'Europe".</fr>
+		<de>Vorne an diesem Turm liegt ein viereckiger Platz: der "Place de l'Europe".</de>
+	</elem>
+
+	<elem>
+		<als>Uf dr àndra Sitta vum Platz sìn Gschafter; derbi ìsch a großer "inno", s erschta Supermarket vum Owerelsàss.</als>
+		<fr>De l'autre côté de la place il y a des commerces ; parmi eux il y a un grand "inno", le premier supermarché du Haut-Rhin.</fr>
+		<de>Auf der anderen Seite vom Platz sind Geschäfte; dabei ist ein großer "inno", das erste Supermarket vom Oberelsass.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn dr Neecha gìtt's aui dr "Boulevard de l'Europe".</als>
+		<fr>A proximité il y a aussi le "Boulevard de l'Europe".</fr>
+		<de>In der Nähe gibt es auch der "Boulevard de l'Europe".</de>
+	</elem>
+
+	<elem>
+		<als>Dr Plàtz wìrd igwèiht àm 7. Mai 1966, vum Alain Poher.</als>
+		<fr>La place est inaugurée le 7 mai 1966, par Alain Poher.</fr>
+		<de>Der Platz wird eingeweiht am 7. Mai 1966, vom Alain Poher.</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Wàppa</als>
+		<fr>Blasons</fr>
+		<de>Wappen</de>
+	</elem>
+
+	<elem>
+		<als>Dr Place de l'Europe ìsch mìt Màrmorplàtta deckt.</als>
+		<fr>La Place de l'Europe est couverte de dalles de marbre.</fr>
+		<de>Der Europa Platz ist mit Marmorplatten gedeckt.</de>
+	</elem>
+
+	<elem>
+		<als>Àls Verziarung han d Plàtta Wàppa vu Städt üs Europa.</als>
+		<fr>Comme décoration ces dalles ont les blasons de villes d'Europe.</fr>
+		<de>Als Verzierung haben die Platten Wappen von Städten aus Europa.</de>
+	</elem>
+
+	<elem>
+		<als>As sìn scheena Mosaik, üs fàrwigem Stei.</als>
+		<fr>Ce sont de belles mosaïques, en pierre de couleur.</fr>
+		<de>Es sind schöne Mosaik, aus farbigem Stein.</de>
+	</elem>
+
+	<elem>
+		<als>D Städter wo iverstànda gsìì sìn han ìhra Wappa uffem Plàtz bàuia; teil Lander han güet mìtgmàcht, deil gàr nìt...</als>
+		<fr>Les villes qui étaient volontaires ont installé leur blason sur la place ; certains pays ont bien participé, d'autres pas du tout...</fr>
+		<de>Die Städter die einverstanden waren haben ihre Wappen auf dem Platz gebaut; manche Länder haben gut mitgemacht, Andere gar nicht...</de>
+	</elem>
+
+	<elem fin="br">
+		<als>D Städta wo derbi gsìì sìn:</als>
+		<fr>Les villes participantes :</fr>
+		<de>Die Städten, die dabei waren:</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Linz (AU) - Chemnitz (DDR)</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Mainz (BRD) - Rennes (F) - Amsterdam</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Düsseldorf (BRD) - Graz - Norvège - Ludwigshafen (BRD)</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Luxembourg - Wien (AU) - Bern (CH) - Perugia (I) - Braunschweig</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Bruxelles - Strasbourg (F) - Darmstatt (BRD)</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Karlsruhe (BRD) - Offenbach - Mulhouse (F) - Berlin - Stuttgart</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Anderlecht - Basel (CH) - Antwerpen - Kassel (BRD)</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Freiburg im Breisgau (BRD) - Paris (F) - Genève (CH) - Limoges (F)</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Vichy (F) - Nice (F) - Bordeaux (F)</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Klagenfurth - Roma (I) - Seraing</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Udine (I) - Nürnberg - Lille (F) - Campoformido (I)</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Nancy (F) - Zürich (CH) - Lübeck (BRD)</als>
+	</elem>
+
+	<elem fin="br"/>
+
+
+
+	<elem fin="br">
+		<als>So hàt dr Plàtz üsgsah:</als>
+		<fr>Voici comment la place se présentait :</fr>
+		<de>So hat der Platz ausgesehen:</de>
+	</elem>
+
+	<elem>
+            <table>
+                <caption><elem><als>Plàn vum Plàtz</als></elem></caption>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_verdure.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Linz.JPG</img_fic><als>Linz</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Chemnitz.JPG</img_fic><als>Chemnitz</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_verdure.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Mainz.JPG</img_fic><als>Mainz</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Rennes.JPG</img_fic><als>Rennes</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Amsterdam.JPG</img_fic><als>Amsterdam</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Dusseldorf.JPG</img_fic><als>Düsseldorf</als></elem></td><td><elem><img_fic>album/PE_verdure.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Graz.JPG</img_fic><als>Graz</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Norvege.JPG</img_fic><als>Norvège</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Ludwigshafen.JPG</img_fic><als>Ludwigshafen</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Luxembourg.JPG</img_fic><als>Luxembourg</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Wien.JPG</img_fic><als>Wien</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Bern.JPG</img_fic><als>Bern</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Perugia.JPG</img_fic><als>Perugia</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Braunschweig.JPG</img_fic><als>Brauschweig</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Bruxelles.JPG</img_fic><als>Bruxelles</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Strasbourg.JPG</img_fic><als>Strasbourg</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_brun.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Darmstatt.JPG</img_fic><als>Darmstatt</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Karlsruhe.JPG</img_fic><als>Karlsruhe</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Offenbach.JPG</img_fic><als>Offenbach</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Mulhouse.JPG</img_fic><als>Mulhouse</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Berlin.JPG</img_fic><als>Berlin</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Stuttgart.JPG</img_fic><als>Stuttgart</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Anderlecht.JPG</img_fic><als>Anderlecht</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Basel.JPG</img_fic><als>Basel</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Antwerpen.JPG</img_fic><als>Antwerpen</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Kassel.JPG</img_fic><als>Kassel</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Freiburg.JPG</img_fic><als>Freiburg</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Paris.JPG</img_fic><als>Paris</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Geneve.JPG</img_fic><als>Genève</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Limoges.JPG</img_fic><als>Limoges</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_brun.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Vichy.JPG</img_fic><als>Vichy</als></elem></td><td><elem><img_fic>album/PE_verdure.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Nice.JPG</img_fic><als>Nice</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Bordeaux.JPG</img_fic><als>Bordeaux</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_brun.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Klagenfurth.JPG</img_fic><als>Klagenfurth</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Roma.JPG</img_fic><als>Roma</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Seraing.JPG</img_fic><als>Seraing</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Udine.JPG</img_fic><als>Udine</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Nurnberg.JPG</img_fic><als>Nürnberg</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Lille.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Campoformido.JPG</img_fic><als>Campoformido</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_verdure.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Nancy.JPG</img_fic><als>Nancy</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Zurich.JPG</img_fic><als>Zürich</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_Lubeck.JPG</img_fic><als>Lübeck</als></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_verdure.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_rose.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td><td><elem><img_fic>album/PE_gris.JPG</img_fic></elem></td></tr>
+                <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+                <tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr>
+            </table> 
+	</elem>
+
+
+
+	<elem titre="h2">
+		<als>S And vum Place de l'Europe</als>
+		<fr>La fin de la Place de l'Europe</fr>
+		<de>Das Ende des Place de l'Europe</de>
+	</elem>
+
+
+	<elem>
+		<als>Leider sìn dia scheena Wàppa nìt eifàch zum Unterhàlta.</als>
+		<fr>Malheureusement, ces beaux blasons n'étaient pas faciles à entretenir.</fr>
+	</elem>
+
+	<elem>
+		<als>Mìt der Zitt wara sa drackig un gehn kàpütt.</als>
+		<fr>Avec le temps ils se salissent et se détériorent.</fr>
+	</elem>
+
+	<elem>
+		<als>A großa Renovierung kam züe tiir.</als>
+		<fr>Une grande rénovation reviendrait trop cher.</fr>
+	</elem>
+
+	<elem>
+		<als>Ìm Wìnter ìsch vìelmol Glàttiis...</als>
+		<fr>En hiver il y a souvent du verglas...</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Derzüe làuift d Umgebung vum Plàtz nìt güet: d Gschafter drum umma màcha züe, d scheena Zitt vum Plàtz ìsch umma!</als>
+		<fr>De plus, les environs de la place ne marchent pas trop: les magasins alentour ferment, la belle époque de la place est révolue !</fr>
+	</elem>
+
+	<elem>
+		<als>Ìn 2002 vorseht d Stàdt a nèier Projekt fer dr Place de l'Europe.</als>
+		<fr>En 2002 la ville prévoit un nouveau projet pour la Place de l'Europe.</fr>
+	</elem>
+
+	<elem>
+		<als>Ar wìrd àbgrìssa un àm Plàtz sott's a Kommerzialzentrum gaa.</als>
+		<fr>Elle sera démolie et remplacée par un centre commercial.</fr>
+	</elem>
+
+	<elem>
+		<als>A Vrein stellt sìch uf fer der Plàtz, oder mìnchens so vìel wia mìglig vu sina Wàppa retta, àwer ohna Erfolg. Àm 12. märz 2007 fàngt s Wark à.</als>
+		<fr>Une association se forme pour sauver la place, ou au moins le plus possible de ses blasons, mais sans succès.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ànna 2008 gìtt's do a großer Kommerzialzentrum, wo "Porte Jeune" heißt.</als>
+		<fr>En 2008 il y aura ici un grand centre commercial, nommé "Porte Jeune".</fr>
+	</elem>
+
+	<elem>
+		<link>http://mulhousejycrois.xooit.com/t66-Sauvons-les-armoiries-de-la-place-de-l-Europe.htm</link>
+		<img_fic>http://img258.imageshack.us/img258/7418/blasoneurope02xl4.jpg</img_fic>
+		<img_h>300</img_h>
+		<als>Dr Plàtz, àbgnumma vum Turm (dur dr Henri).</als>
+		<fr>La Place, photographiée depuis la Tour (par Henri).</fr>
+	</elem>
+
+
+</article>

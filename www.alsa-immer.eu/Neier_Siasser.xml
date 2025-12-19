@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Neier_Siasser</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>04/10/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Nèier Siasser</als>
+		<fr>Vin bourru</fr>
+		<de>Federweißer</de>
+	</elem>
+
+	<elem>
+		<als>"Nèier Siasser" (oder eifàch "Nèier") ìsch a Spezialität wo ma ìm Spotjohr trìnkt.</als>
+		<fr>Le "Nèier Siasser" (ou simplement "Nèier") est une spécialité qu'on boit en automne.</fr>
+		<de>Der "Federweißer" ist eine Spezialität die man im Herbst trinkt.</de>
+	</elem>
+
+	<elem>
+		<als>'s ìsch Triwelmoscht, vu dr letschta Erbschta, wo fàngt à jara.</als>
+		<fr>C'est du moût de raisin, de la dernière vendange, qui commence à fermenter.</fr>
+		<de>Es ist Traubenmost, von der letzte Ernte, der anfängt, zu gären.</de>
+	</elem>
+
+	<elem>
+		<als>Dr Nèier Siasser "risst", dàs heißt: dr Sàft ìsch triab, sprudlig un enthàlt a betsi Àlkohol.</als>
+		<fr>Le Nèier Siasser fermente, donc : le jus est trouble, pétillant et contient un peu d'alcool.</fr>
+		<de>Der Federweißer "reißt", das heißt: der Saft ist trüb, sprudelnd und enthält ein bisschen Alkohol.</de>
+	</elem>
+
+	<elem>
+		<als>A Bsunderheit vum Nèier Siasser ìsch àss d Flascha nìt züe sìn: ma losst ìmmer a Lächla ìm Kapsala, àss dr Gàs vu dr Jarung üssa kàt geh.</als>
+		<fr>Une particularité du Nèier Siasser est que les bouteilles ne sont pas fermées : on laisse toujours un petit trou dans la capsule, pour que le gaz de la fermentation puisse sortir.</fr>
+		<de>Eine Besonderheit vom Federweißer ist dass die Flaschen nicht zu sind: man lässt immer ein Löchlein im Kapseln, so dass der Gas von der Gärung heraus gehen kann.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Tràditionell, trìnkt ma Nèier ìm Oktower, àm a eifach Owaassa, mìt Brot, Spack, Kaas, Nussa...</als>
+		<fr>Traditionnellement, on boit le Nèier en octobre, lors d'un simple dîner, avec du pain, du fromage, du lard, des noix...</fr>
+		<de>Traditionell trinkt man Federweißer im Oktober, an einem einfachen Abendessen, mit Brot, Speck, Käse, Nüssen...</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Uf frànzeesch heißt's: "vin nouveau" oder "vin bourru" (awer s hàt gàr nix z'düe mìt "Beaujolais nouveau". Eiglig, wàs ma "vin nouveau" nennt ìsch noch kèi Wii.)</als>
+		<fr>En français cela s'appelle : "vin nouveau" ou "vin bourru" (mais ça n'a rien à voir avec le "Beaujolais nouveau". En fait, ce qu'on appelle "vin nouveau" n'est pas encore du vin.</fr>
+		<de>Auf französisch heißt es: "vin nouveau" oder "vin bourru" (aber es hat nichts zu tun mit "Beaujolais nouveau". Eigentlich, was man "vin nouveau" nennt ist noch kein Wein.)</de>
+	</elem>
+
+	<elem>
+		<img_fic>album/NeierSiasser.jpg</img_fic>
+		<als>Nèier Siasser</als>
+	</elem>
+
+	<elem>
+		<als> &lt;= vorhar uf Elsassisch / jetzt uf frànzeesch =&gt; </als>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/VinBourru.jpg</img_fic>
+		<als>Vin Bourru</als>
+	</elem>
+
+
+
+
+</article>

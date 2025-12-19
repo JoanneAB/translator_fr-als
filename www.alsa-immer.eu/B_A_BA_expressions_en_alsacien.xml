@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>B_A_BA_expressions_en_alsacien</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>27/11/2013</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Quelques phrases et expressions en alsacien</als>
+	</elem>
+
+
+	<elem puce="disc" fin="br">
+		<als>Àlles güeta fer s nèia Johr!</als>
+		<fr>Tous mes voeux pour la nouvelle année !</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/DSC05453_voeux_alsa3.jpg</img_fic>
+		<img_h>100</img_h>
+		<als>Nèijohrswìnsch</als>
+		<fr>voeux de nouvel an</fr>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>Ìch wìnsch dìr a glìcklig nèi Johr!</als>
+		<fr>Je te souhaite une heureuse nouvelle année !</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Ìch wìnsch èiech a glìcklig nèi Johr!</als>
+		<fr>Je vous souhaite une heureuse nouvelle année !</fr>
+	</elem>
+
+	<elem puce="disc" fin="br">
+		<als>Scheena Wiahnachta!</als>
+		<fr>Joyeux Noël !</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://openclipart.org/image/300px/svg_to_png/93445/CHRISTMAS_001.png</img_fic>
+		<img_h>120</img_h>
+		<als>Wiahnachta</als>
+		<fr>Noël</fr>
+	</elem>
+
+	<elem puce="disc" fin="br">
+		<als>Güeta Fiirtig!</als>
+		<fr>Bonnes fêtes !</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Vìel Glìck zum Geburtstàg!</als>
+		<fr>Heureux anniversaire !</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://openclipart.org/image/300px/svg_to_png/14860/nicubunu_Chocolate_birthday_cake.png</img_fic>
+		<img_h>120</img_h>
+		<als>Geburtstàgküecha</als>
+		<fr>gâteau d'anniversaire</fr>
+	</elem>
+
+	<elem puce="disc" fin="br">
+		<als>Vìel Glìck fér èira Hochzitt!</als>
+		<fr>Tous mes voeux pour votre mariage !</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://openclipart.org/image/300px/svg_to_png/75829/wedding-rings.png</img_fic>
+		<img_h>40</img_h>
+		<als>Ehrìng</als>
+		<fr>alliances</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>A Güeter!</als>
+		<fr>Bon appétit !</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://openclipart.org/image/300px/svg_to_png/164593/sauerkraut.png</img_fic>
+		<img_h>120</img_h>
+		<als>Sürkrütt</als>
+		<fr>choucroute</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Geht's?</als>
+		<fr>Ca va ?</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Wia geht's?</als>
+		<fr>Comment ça va ?</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Güeta Besserung!</als>
+		<fr>Bon rétablissement !</fr>
+	</elem>
+
+	<elem puce="disc" fin="br">
+		<img_h>100</img_h>
+		<als>Rüeih di güet üs!</als>
+		<fr>Repose-toi bien !</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<img_fic>http://openclipart.org/image/300px/svg_to_png/154741/haeufig_krank.png</img_fic>
+		<img_h>100</img_h>
+		<als>Ìch bì krànk.</als>
+		<fr>Je suis malade.</fr>
+	</elem>
+
+	<elem puce="disc" fin="br">
+		<als>Ìch hà di liab.</als>
+		<fr>Je t'aime.</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://openclipart.org/image/300px/svg_to_png/3241/Sicabol_Heart.png</img_fic>
+		<img_h>90</img_h>
+		<als>Harz</als>
+		<fr>coeur</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Ìch hà di garn.</als>
+		<fr>Je t'aime.</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>wenn's bliabt.</als>
+		<fr>s'il te plaît / s'il vous plaît</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Merci</als>
+		<fr>Merci</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Merci vìelmol!</als>
+		<fr>Merci beaucoup !</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Nit fer ungüet!</als>
+		<fr>Sans rancune !</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>'s ìsch nìt schlìmm.</als>
+		<fr>Ce n'est pas grave.</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Hopla!</als>
+		<fr>Allons-y, ou bien : pardon</fr>
+	</elem>
+
+	<elem puce="disc" fin="br">
+		<als>Entschuldigung!</als>
+		<fr>Toutes mes excuses !</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://openclipart.org/image/300px/svg_to_png/19954/sheikh_tuhin_mail_1.png</img_fic>
+		<img_h>100</img_h>
+		<als>Briaf</als>
+		<fr>lettre</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Ìch làd dìch i zu mim Geburtstàg.</als>
+		<fr>Je t'invite à mon anniversaire.</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Mìr làda èiech i zu unserer Hochzitt.</als>
+		<fr>Nous vous invitons à notre mariage.</fr>
+	</elem>
+
+
+	<elem puce="disc">
+		<als>Ìch düe dìch gràtüliara.</als>
+		<fr>Je te félicite.</fr>
+	</elem>
+
+
+	
+26/05/2011 EZ
+Merci, àwer dàs Wort "Gràtüliarung" hesch dü erfunda, hesch hàlt viel Fàntàsie!!!
+Antwedder Gràtülàtion, ìch gràtüliar, oder Glìckwunsch.
+
+	<elem puce="disc">
+		<als>A scheener Grüeß!</als>
+		<fr>Cordiales salutations !</fr>
+	</elem>
+
+
+
+</article>

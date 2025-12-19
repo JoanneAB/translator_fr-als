@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>Alles_was_ar_will</nom_fic>
+<theme>Àlles wàs ar wìll</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>19/04/2015</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+ 
+ 
+
+
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Wàs gìtt's ìn èirem Gschaft?</als>
+<fr> Qu'est qu'il y a dans votre magasin ?</fr>
+<de>Kunde:Guten Tag.Was gibt es in eurem Geschäft?</de>
+<en>Customer:Hello.What's here in your store?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Ìn mim Gschaft fìnda Sìe àlles wàs Sa brüücha.Vu dam bì-n-i sìcher!</als>
+<fr>Commerçant :- Dans mon magasin, vous trouverez tout ce dont vous avez besoin.De cela je suis sûr!</fr>
+<de>Geschäftsmann:In meinem Geschäft finden Sie alles was Sie brauchen.</de>
+<en>Salesman:In my store you will find all what you need.I am sure of that!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Ìch süech ebbis wo eim glìcklig màcht.</als>
+<fr>Je cherche quelque chose qui rend heureux.</fr>
+<de>Kunde:Ich suche etwas, was jemanden glücklich macht.</de>
+<en>Customer:I am looking for something that makes one happy.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Dàs fahlt do nìt: ìch verkàuif Blüema fer ìn da Dàma schanka, güeter Wii, Telefon wo ìn da Junga gfàlla...</als>
+<fr>Commerçant :- Ca ne manque pas ici : je vends des fleurs pour offrir aux dames, du bon vin, des téléphones qui plaisent aux jeunes...</fr>
+<de>Geschäftsmann:Das fehlt hier nicht: ich verkaufe Blumen um in den Damen zu schenken, guten Wein, Telefon die den Jungen gefallen...</de>
+<en>Salesman:It does not lack here: I sell flowers to offer to the ladies, good wine, phones that appeal to young people...</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Un aui Cannabis?</als>
+<fr>Et aussi du cannabis ?</fr>
+<de>Kunde:Und auch Cannabis?</de>
+<en>Customer:And also cannabis?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Eh nei! Ìch verkàuif numma wàs erlàuibt ìsch!Wàs meina Sìe denn?!</als>
+<fr>Commerçant :- Mais non !Je vends seulement ce qui est autorisé !Que croyez-vous donc ?!</fr>
+<de>Geschäftsmann:Ach nein!Ich verkaufe nur was erlaubt ist!Was meinen Sie denn?!</de>
+<en>Salesman:Oh no!I only sell what is allowed!What on earth do you believe?!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Verkàuifa-n-ìhr Rooibos Tee?</als>
+<fr>Vendez-vous du thé Rooibos ?</fr>
+<de>Kunde:Verkaufen Sie Rooibos Tee?</de>
+<en>Customer:Do you sell Rooibos tea?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Ìch verkàuif wàs ìm Elsàss bekànnt ìsch.Do ìsch Schwàrztee, Kàmìllatee, Fennscheltee...</als>
+<fr>Commerçant :- Je vends ce qui est connu en Alsace.Il y a là du thé noir, de l'infusion de camomille, de l'infusion de fenouil...</fr>
+<de>Geschäftsmann:Ich verkaufe was im Elsass bekannt ist.Da ist Schwarztee, Kamillentee, Pfefferminztee, Fencheltee...</de>
+<en>Salesman:I sell what is known in Alsace.There is black tea, infusion of chamomile, fennel infusion...</en>
+<img></img>
+<audio/>
+</elem>
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Nei merci.Ìch bì bi Frìnd iglàda un ìch frogg mi wàs ìch ìhna kännt mìtbrìnga.</als>
+<fr>Non merci.Je suis invité chez des amis et je me demande ce que je pourrais leur amener.</fr>
+<de>Kunde:Nein, danke.Ich bin bei Freunde eingeladen und ich frage mich was ich ihnen mitbringen könnte.</de>
+<en>Customer:No, thank you.I am invited by friends and I wonder what I could bring to them.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Wìssa Sìe wàs Ìhra Frìnd garn han?</als>
+<fr>Commerçant :- Savez-vous ce que vous amis aiment ?</fr>
+<de>Geschäftsmann:Wissen Sie was Ihre Freunde gern haben?</de>
+<en>Salesman:Do you know what your friends like?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Jo... Mina Frìnd assa garn.</als>
+<fr>Oui... Mes amis aiment manger.</fr>
+<de>Kunde:Ja... Meine Freunde essen gern.</de>
+<en>Customer:Yes... My friends like to eat.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Ìch hà àlles wàs d Elsasser garn han: Wìrscht, Sürkrütt...</als>
+<fr>Commerçant :- J'ai tout ce qu'apprécient les Alsaciens : des saucisses, de la choucroute...</fr>
+<de>Geschäftsmann:Ich habe alles was die Elsässer gern haben: Würste, Sauerkraut...</de>
+<en>Salesman:I have all what the Alsatians like: sausages, sauerkraut...</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Nei, merci: mina Frìnd assa wàs ìn ìhrem Gàrta wàchst.</als>
+<fr>Non merci : mes amis mangent ce qui poussent dans leur jardin.</fr>
+<de>Kunde:Nein, danke: meine Freunde essen was in ihrem Garten wächst.</de>
+<en>Customer:No, thank you: my friends eat what grows in their garden.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Oh je... jetz wìrd's kompliziart.Ìch verkàuif àwer aui wàs ma fer gàrtna brüücht.</als>
+<fr>Commerçant :- Oh yé... maintenant ça devient compliqué.Je vends aussi ce dont on a besoin pour jardiner.</fr>
+<de>Geschäftsmann:Oh je: jetzt wird es kompliziert.Ich verkaufe auch, was man um zu gärtnern braucht.</de>
+<en>Salesman:Oh well: now it gets complicated.I also sell what is needed for gardening.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Nei, merci: mina Frìnd han scho àlles wàs a Gartner brüücht.Ìch schank ìhna ehnder dàs scheena Masser, wo do hankt.</als>
+<fr>Non merci : mes amis ont déjà tout ce dont un jardinier a besoin.Je leur offrirai plutôt ce beau couteau, qui est accroché ici.</fr>
+<de>Kunde:Nein, danke: meine Freunde haben bereits alles, was ein Gärtner braucht.Ich schenke ihnen eher dieses schöne Messer, das hier hängt.</de>
+<en>Customer:No, thank you: my friends already have everything whet a gardener needs.I will rather offer them this beautiful knife that hangs here.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Oh nei! Ma schankt doch nit wo schniidet oder wo stupft!</als>
+<fr>Commerçant :- Oh non ! On n'offre donc rien qui ne coupe ou qui ne pique !</fr>
+<de>Geschäftsmann:Oh nein! Man schenkt doch nichts was schneidet oder was stupft!</de>
+<en>Salesman:Oh no! One cannot offer anything that cuts or that stings!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Àh? Ìsch dàs a so schlìmm?</als>
+<fr>Ah ? Est-ce que c'est si grave ?</fr>
+<de>Kunde:Ah? Ist das so schlimm?</de>
+<en>Customer:Ah? Is that so evil?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:'s ìsch vìllìcht nìt so schlìmm, àwer 's ìsch wàs ma ìmmer heert...Un jetz, wìssa Sìe andlig wàs Sìe wann kàuifa?</als>
+<fr>Commerçant :- Ce n'est peut-être pas si grave, mais c'est ce qu'on entend toujours...Et maintenant, savez-vous enfin ce que vous voulez acheter ?</fr>
+<de>Geschäftsmann:Es ist vielleicht nicht so schlimm, aber es ist was man immer hört...Und jetzt, wissen Sie endlich was Sie kaufen wollen?</de>
+<en>Salesman:It's perhaps not so evil, but it's what one always hears...And now, do you at last know what you want to buy?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Eh nei... Wàs ìhr han, dàs wìll i nìt, un wàs i wìll, dàs han ìhr nìt.</als>
+<fr>Eh non... Ce que vous avez, ça je ne le veux pas, et ce que je veux, ça vous ne l'avez pas.</fr>
+<de>Kunde:Eh nein... Was Sie haben, das will ich nicht, und was ich will, das haben sie nicht.</de>
+<en>Customer:Well no... What you have, I do not want it, and what I want, that you do not have it.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Ìch weiß àwer wia Sìe heißa.</als>
+<fr>Commerçant :- Mais je sais comment vous vous appelez.</fr>
+<de>Geschäftsmann:Aber ich weiß wie Sie heißen.</de>
+<en>Salesman:But I know what your name is..</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Àh? Wiaso?</als>
+<fr>Ah ? Comment ça ?</fr>
+<de>Kunde:Ah? Wieso?</de>
+<en>Customer:Ah? So what?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Alles_was_ar_will_</id>
+<als>Gschaftsmànn:Sìe heißa Hans, un Sìe wohna ìm Schnokaloch!</als>
+<fr>Commerçant :- Vous vous appelez Hans, et vous habitez dans le "trou à moustique" !</fr>
+<de>Geschäftsmann:Sie heißen Hans, und Sie wohnen im Schnakenloch!</de>
+<en>Salesman:You're called Hans, and you live in the mosquito-hole.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+
+
+
+
+
+
+<elem>
+<txt>Ce cours présente le pronom was.
+</txt>
+</elem>
+ 
+ 
+ 
+</kurs>

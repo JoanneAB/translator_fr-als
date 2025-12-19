@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Elsassischa_Grammatik</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>21/01/2009</date>
+       <status>Ebauche d'une grammaire. A faire vérifier. Et aussi compléter.</status>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Elsassischa Gràmmàtik</als>
+		<fr>Grammaire alsacienne</fr>
+		<de>Elsässische Grammatik</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Do, uf dam Weblìnk, fìndet ma a Kurs ìwer d Gràmmàtik vum Milhüüser Dialekt (uf dr àlemànnischa Wikipedia):</als>
+		<fr>Ici, en suivant ce lien, on trouve un cours sur la grammaire du dialecte mulhousien (sur la Wikipédia alémanique)</fr>
+		<de>Hier, auf diesem Weblink, findet man ein Kurs über die Grammatik vom mülhauser Dialekt (auf der alemannische Wikipedia)</de>
+	</elem>
+
+
+
+	<elem fin="br">
+		<link>http://als.wikipedia.org/wiki/Buech:Grammatik_M%C3%BClhauser_Dialekt</link>
+		<als>http://als.wikipedia.org/wiki/Buech:Grammatik_Mülhauser_Dialekt</als>
+	</elem>
+
+
+
+	<elem titre="h2">
+		<als>Ileitung</als>
+		<fr>Introduction</fr>
+		<de>Einleitung</de>
+	</elem>
+
+	<elem titre="h3">
+		<als>S Hochditscha àls Referanz</als>
+		<fr>L'allemand comme référence</fr>
+		<de>Das Hochdeutsche als Referenz</de>
+	</elem>
+
+	<elem>
+		<als>Exàct wia d Schribempfehlunga Orthal d ditscha Orthographie àls Basis nìmmt, so müeß ma aui mìt der d Grammatik ìmmer ìm Sìnn hà wia's uf Ditsch fùnktionniert.</als>
+		<fr>Tout comme les recommandations d'écriture Orthal prennent comme base l'orthographe allemande, ainsi on doit aussi avec la grammaire avoir toujours à l'esprit comment ça fonctionne en allemand.</fr>
+		<de>Exakt wie die Schreibempfehlungen Orthal die deutsche Orthographie als Basis nimmt, so muss man auch mit der Grammatik immer im Sin haben wie es auf Deutsch funktioniert.</de>
+	</elem>
+
+	<elem>
+		<als>Meischens ìsch 's zìmlig ahnlig: àlso wenn ma's uf Ditsch dankt, hàt ma's fàscht uf Elsassisch.</als>
+		<fr>La plupart du temps, c'est assez ressemblant : ainsi quand on le pense en allemand, on l'a presque en alsacien.</fr>
+		<de>Meistens ist es ziemlich änlig: also wenn man es auf Deutsch denkt, hat man es fast auf Elsässisch.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Àwer 's gìtt doch wìchtiga Üsnamma.</als>
+		<fr>Mais il y a quand même d'importantes exceptions.</fr>
+		<de>Aber es gibt wichtige Ausnahmen.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Eh jo... Elsassisch ìsch doch nìt Ditsch.</als>
+		<fr>Eh oui... l'alsacien n'est quand même pas de l'allemand</fr>
+		<de>Eh ja... Elsässisch ist doch nicht Deutsch.</de>
+	</elem>
+
+	<elem titre="h3">
+		<als>Wàrnung</als>
+		<fr>Avertissement</fr>
+		<de>Warnung</de>
+	</elem>
+
+<elem puce="disc">
+	<elem>
+		<als>Dàs ìsch a Àmàtor-Prowa.</als>
+		<fr>Ceci est un essai amateur.</fr>
+		<de>Das ist eine Amator-Probe.</de>
+	</elem>
+
+	<elem>
+		<als>D elsassischa Grammatik ìsch wohrschins a schwara Wìssaschàft, sa kààt nìt gànz expliziart sìì ìn dam Àrtìkel.</als>
+		<fr>La grammaire alsacienne est sûrement une science difficile, elle ne peut pas être décrite en entier dans cet article.</fr>
+		<de>Die elsässische Grammatik ist wahrscheinlich eine schwere Wisseschaft, sie kann nich ganz erklärt sein in diesem Artikel.</de>
+	</elem>
+
+</elem>
+
+	<elem puce="disc">
+	<elem>
+		<als>Do geht's um dr Elsassischa Dialekt wia-n-er gredt wìrd z Milhüüsa.</als>
+		<fr>Ici il s'agit du dialecte alsacien tel qu'il est parlé à Mulhouse.</fr>
+		<de>Hier geht's um den Elsässischen Dialekt wie er in Mülhausen gesprochen wird. </de>
+	</elem>
+
+	<elem>
+		<als>Z Colmer oder ìm Sundgàui ìsch d Gràmmàtik ànderscht.</als>
+		<fr>A Colmar ou dans le Sundgau, la grammaire est différente.</fr>
+		<de>In Colmar oder im Sundgau ist die Grammatik anders.</de>
+	</elem>
+	</elem>
+
+
+	<elem titre="h2">
+		<als>Verb</als>
+		<fr>Verbes</fr>
+		<de>Verb</de>
+	</elem>
+
+
+	<elem>
+		<als>A Verb ìsch a Wort wo-n-a Àktion definiart.</als>
+		<fr>Un verbe est un mot qui définit une action.</fr>
+		<de>Ein Verb ist ein Wort das eine Aktion definiert.</de>
+	</elem>
+
+	<elem>
+		<als>Zum Beispiel:</als>
+		<fr>Par exemple :</fr>
+		<de>Zum Beispiel:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>sìnga, schlofa</als>
+		<fr>chanter, dormir</fr>
+		<de>singen, schlafen</de>
+	</elem>
+
+	<elem>
+		<als>A Hìlfsverb ìsch a bsunder Verb, wo ìn'ma Sàtz a bsundera Funktion hàt.</als>
+		<fr>Un auxiliaire est un verbe particulier, qui a une fonction particulière dans une phrase.</fr>
+		<de>Ein Hilfsverb ist ein besonderes Verb, das in einem Satz eine besondere Funktion hat.</de>
+	</elem>
+
+	<elem>
+		<als>'s gìtt nur a pààr vu dana Hìlfsverb:</als>
+		<fr>Il y a seulement un petit nombre de ces auxiliaires</fr>
+		<de>Es bibt nur einige von diesen Hilfsverb:</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>sìì</als>
+		<fr>être</fr>
+		<de>sein</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>hàà</als>
+		<fr>avoir</fr>
+		<de>haben</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>düe</als>
+		<fr>faire</fr>
+		<de>tun</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>wara</als>
+		<fr>devenir</fr>
+		<de>werden</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>kuu</als>
+		<fr>venir</fr>
+		<de>kommen</de>
+	</elem>
+
+
+	<elem titre="h3">
+		<als>Bsunderer Fàll, mìt "geh" un "kuu"</als>
+		<fr>Cas particulier, avec "geh" et "kuu"</fr>
+		<de>Besonderer Fall, mit "geh" un "kuu"</de>
+	</elem>
+
+	<elem fin="br">
+		<als>"geh" un "kuu" sìn Verb</als>
+		<fr>"geh" et "kuu" sont des verbes</fr>
+		<de>"geh" und "kuu" sind Verben</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ìch müeß geh schàffa</als>
+		<fr>Je dois aller travailler</fr>
+		<de>Ich muss arbeiten gehen</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Därfsch ku lüega</als>
+		<fr>Tu as le droit de venir voir</fr>
+		<de>Du darfst schauen kommen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Vìelmol sìn sa dupliziart:</als>
+		<fr>Souvent ils sont répétés :</fr>
+		<de>Vielmals sind sie dupliziert:</de>
+	</elem>
+
+
+
+	<elem italiq="1" fin="br">
+		<als>Ìch gàng geh schàffa</als>
+		<fr>Je vais travailler</fr>
+		<de>Ich gehe arbeiten</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Kumm ku lüega!</als>
+		<fr>Viens voir !</fr>
+		<de>Komm schauen!</de>
+	</elem>
+
+	<elem>
+		<als>Do ìsch's komisch: sìn "geh" un "kuu" ìmmer noch Verb, oder làuift's ehnder wia Präpositiona?</als>
+		<fr>Là c'est bizarre : "geh" et "kuu" sont-ils encore des verbes ou fonctionnent-ils comme des prépositions ?</fr>
+		<de>Da ist es komisch: sind "geh" und "kuu" noch Verben, oder funktionieren sie wie Präpositionen?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>As sìn "Kurzverb", wo ìn'ra Verdopplung benutzt wara.</als>
+		<fr>Ce sont des "verbes courts", qui sont utilisés dans une redondance.</fr>
+		<de>Es sind "Kurzverben", die in einer Verdopplung benutzt werden.</de>
+	</elem>
+
+	<elem>
+		<als>Dia Bsunderheit, àss ma "geh" un "kuu" zwei Mol sajt, ìsch typisch àlemànnisch.</als>
+		<fr>Cette particularité,consistant à dire deux fois "geh" et "kuu", est typiquement alémanique.</fr>
+		<de>Diese Besonderheit, dass man "geh" und "kuu" zwei mal sagt, ist typisch alemannisch.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn dr Schwitz gìtt's dia Verdopplung aui fer "loo" un "afaa".</als>
+		<fr>En Suisse, il y a aussi cette redondance pour "loo" et "afaa".</fr>
+		<de>In der Schweiz gibt es diese Verdopplung auch für "loo" und "afaa".</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://als.wikipedia.org/wiki/Kurzverb#Bsunderhaite</link>
+		<als>Lüega uf http://als.wikipedia.org/wiki/Kurzverb</als>
+		<fr>Allez voir http://als.wikipedia.org/wiki/Kurzverb</fr>
+		<de>Schauen Sie auf http://als.wikipedia.org/wiki/Kurzverb</de>
+	</elem>
+
+	<elem fin="br"/>
+
+
+
+
+	<elem titre="h2">
+		<als>Àbkìrtzunga</als>
+		<fr>Raccourcis</fr>
+		<de>Abkürzungen</de>
+	</elem>
+
+	<elem>
+		<als>Wenn ma ìm Àltàg reddt, sajt ma nìt ìmmer àlla Wärter.</als>
+		<fr>Quand on parle au quotidien, on ne dit pas toujours tous les mots.</fr>
+		<de></de>
+	</elem>
+
+	<elem fin="br">
+		<als>Zum Beispiel "geh" un "kuu" wara nìt unbedìngt üsgsprocha, àm And vu'ma Sàtz.</als>
+		<fr>Par exemple, "geh" et "kuu" ne sont pas forcément exprimés, à la fin d'une phrase.</fr>
+		<de></de>
+	</elem>
+
+
+
+
+	<elem italiq="1">
+		<als>wo müeß i àna</als>
+	</elem>
+
+	<elem italiq="1" color="gray">
+		<als> (geh)</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>?</als>
+		<fr>où dois-je aller ?</fr>
+		<de>wo muss ich hin (gehen)?</de>
+	</elem>
+
+
+	<elem italiq="1">
+		<als>ìch hà ìns Bett wälla</als>
+	</elem>
+
+	<elem italiq="1" color="gray" fin="br">
+		<als> (geh)</als>
+		<fr>Je voulais aller au lit</fr>
+		<de></de>
+	</elem>
+
+
+
+	<elem italiq="1">
+		<als>ìch wìll mìt</als>
+	</elem>
+	
+	<elem italiq="1" color="gray" fin="br">
+		<als> (kuu)</als>
+		<fr>Je veux venir avec</fr>
+		<de></de>
+	</elem>
+
+	<elem fin="br"/>
+
+
+	<elem fin="br">
+		<als>Vìelmol wìrd aui dr "dü" nìt üsgsprocha:</als>
+		<fr>Souvent aussi, le "dü" (tu) n'est pas exprimé :</fr>
+		<de>Vielmals wird auch der "dü" nicht ausgesprochen:</de>
+	</elem>
+
+	<elem italiq="1" color="gray">
+		<als>(dü) </als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>bìsch scheen</als>
+		<fr>tu es beau</fr>
+		<de>du bist schön</de>
+	</elem>
+
+
+	<elem italiq="1" color="gray">
+		<als>(dü) </als>
+	</elem>
+
+	<elem italiq="1">
+		<als>därfsch nìt allei uf Pàris</als>
+	</elem>
+
+	<elem italiq="1" color="gray" fin="br">
+		<als> (geh)</als>
+		<fr>tu n'as pas le droit d'aller seul à Paris</fr>
+		<de>du darfst nicht allein nach Paris (gehen)</de>
+	</elem>
+
+
+
+
+	<elem titre="h2">
+		<als>Zitta</als>
+		<fr>Temps</fr>
+		<de>Zeiten</de>
+	</elem>
+
+
+	<elem titre="h3">
+		<als>Gegawart</als>
+		<fr>Présent</fr>
+		<de>Gegenwert</de>
+	</elem>
+
+
+	<elem italiq="1" fin="br">
+		<als>ìch màch</als>
+		<fr>je fais</fr>
+		<de>ich mache</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>ìch wàrt</als>
+		<fr>j'attends</fr>
+		<de>ich warte</de>
+	</elem>
+
+	<elem fin="br">
+		<als>oder</als>
+		<fr>ou</fr>
+	</elem>
+
+
+	<elem italiq="1" fin="br">
+		<als>ìch düe wàrta</als>
+		<fr>j'attends</fr>
+		<de>ich warte</de>
+	</elem>
+
+	<elem fin="br">
+		<als>S Kurzverb "düe" benutzt ma vìel fer s Gegawart.</als>
+		<fr>On utilise beaucoup l'auxiliaire "düe" pour le présent.</fr>
+		<de>Das Kurzverb "düe" benutzt man viel für das Gegenwert.</de>
+	</elem>
+
+
+
+	<elem titre="h3">
+		<als>Vergàngaheit</als>
+		<fr>Passé</fr>
+		<de>Vergangenheit</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ìch bì gsìì</als>
+		<fr>J'ai été</fr>
+		<de>Ich bin gewesen</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ìch bì gànga</als>
+		<fr>Je suis allé</fr>
+		<de>Ich bin gegangen</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ìch hà gsajt</als>
+		<fr>J'ai dit</fr>
+		<de>Ich habe gesagt</de>
+	</elem>
+
+	<elem>
+		<als>Ìch hà gsunga</als>
+		<fr>J'ai chanté</fr>
+		<de>Ich habe gesungen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìch bì grennt</als>
+		<fr>J'ai couru</fr>
+		<de></de>
+	</elem>
+
+
+	<elem titre="h3">
+		<als>Züekunft</als>
+		<fr>Futur</fr>
+		<de>Zukunft</de>
+	</elem>
+
+	<elem fin="br">
+		<als>D Züekunft fùnktionniart wia dr Gegawart, ìn'ma Sàtz wo dr Kontext mìt dr Züekunft zammahangt:</als>
+		<fr>Le futur fonctionne comme le présent, dans une phrase où le contexte est dans le futur :</fr>
+		<de>Die Zukunft funktioniert wie der Gegenwert, in einem Satz die mit der Zukunft zusammenhängt:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ìch màch's morn</als>
+		<fr>Je vais le faire demain</fr>
+		<de>Ich werde es morgen tun</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Nachschta Wucha gàng i friaih ìns Bett</als>
+		<fr>La semaine prochaine j'irai tôt au lit</fr>
+		<de>Nächste Woche gehe ich früh ins Bett</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Da stìrbt amol jung!</als>
+		<fr>Celui-là va un jour mourir jeune !</fr>
+		<de></de>
+	</elem>
+
+	<elem fin="br">
+		<als>Fer d Züekunft sajt ma nìt direkt:</als>
+		<fr>Pour le futur, on ne dit pas vraiment :</fr>
+		<de>Für die Zukunft sagt man nicht wirklig:</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìch wìrr sìì</als>
+	</elem>
+
+	<elem fin="br">
+		<als>oder</als>
+		<fr>ou</fr>
+		<de>oder</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìch wìrr geh</als>
+	</elem>
+
+	<elem>
+		<als>S Kurzverb "wara" dat ma zwàr erwàrta, wia uf Hochditsch ("werden").</als>
+		<fr>On s'attendrait pourtant à l'auxiliaire "wara", comme en allemand ("werden").</fr>
+		<de>Das Kurzverb "wara" würde man zwar erwarten, wie auf Hochdeutsch ("werden").</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Àwer uf Elsassisch fùnktionniart d Züekunft nìt a so.</als>
+		<fr>Mais en alsacien, le futur ne fonctionne pas ainsi.</fr>
+		<de>Aber auf Elsässisch funktioniert die Zukunft nicht so.</de>
+	</elem>
+
+
+
+	<elem fin="br">
+		<als>Ma kààt heechschterfàlls sàga:</als>
+		<fr>Tout au plus on peut dire :</fr>
+		<de>Man kann höchstens sagen:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ìch wìrr's känna</als>
+		<fr>Je saurai le faire</fr>
+		<de>Ich werde es können</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Dü wìrsch's fìnda</als>
+		<fr>Tu vas le trouver</fr>
+		<de>Du wirst es finden</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ar wìrd kuu</als>
+		<fr>Il va venir</fr>
+		<de>Er wird kommen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìm Sìnn vu-n'ra a Vermüetung, ebbis wo wohrschins wìrd pàssiara.</als>
+		<fr>Dans le sens d'une supposition, une chose qui va probablement arriver.</fr>
+		<de>Im Sinn von einer Vermutung, etwas was wahrscheinlich geschehen wird.</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ar wìrd's hoffentlig màcha...</als>
+		<fr>Il va le faire, j'espère...</fr>
+		<de>Er wird es hoffentlich tun...</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ar wìrd scho drààdanka!</als>
+		<fr>Il va probablement y penser !</fr>
+		<de>Er wird schon daran denken!</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Sa ware's schàffa !...</als>
+		<fr>Ils vont y arriver !...</fr>
+		<de>Sie werden es schaffen !...</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>'s gìtt noch a Meegligkeit fer d Zukunft, mìtem Kurzverb "kuu".</als>
+		<fr>Il y a encore une possibilité pour le futur, avec l'auxiliaire "kuu" (venir).</fr>
+		<de>Es gibt noch eine Mögligkeit für die Zukunft, mit dem Kurzverb "kuu" (kommen).</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Wenn d Züekunft gànz nohch ìsch, wenn 's glich pàssiart:</als>
+		<fr>Quand le futur est tout proche, quand ça va tout de suite survenir :</fr>
+		<de>Wenn die Zukunft ganz nahe ist, wenn es gleich geschieht:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>'s kummt ku ragna</als>
+		<fr>Il va pleuvoir</fr>
+		<de>Es regnet bald</de>
+	</elem>
+
+
+
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Da Kurs zeigt nàtiirlig doch Beispìeler fer d Züekunft, mìt em Kurzverb "wara":</als>
+		<fr>Ce cours montre évidemment quand même des exemples pour le futur, avec l'auxiliaire "wara" :</fr>
+		<de>Dieser Kurs zeigt natürlich doch Beispiele für die Zukunft, mit dem Kurzverb "wara":</de>
+	</elem>
+
+
+
+	<elem titre="h3">
+		<als>Beispìeler mìt'ma pààr wìchtiga Verb</als>
+		<fr>Exemple avec quelques verbes importants</fr>
+		<de>Beispiele mit einigen wichtigen Verb</de>
+	</elem>
+
+
+	<elem fin="br">
+   <table>
+     <caption>sìì</caption>
+<tr><th>Gegawart</th><th>Vergàngaheitt</th><th>Zukunft</th></tr>
+<tr><td>ìch bì oder ìch bìn</td><td>ìch bì gsìì</td><td>ìch wìrr sìì</td></tr>
+<tr><td>dü bìsch</td><td>dü bìsch gsìì</td><td>dü wìrsch sìì</td></tr>
+<tr><td>ar ìsch</td><td>ar ìsch gsìì</td><td>ar wìrd sìì</td></tr>
+<tr><td>mìr sìn</td><td>mìr sìn gsìì</td><td>mìr wara sìì</td></tr>
+<tr><td>ìhr sìn</td><td>ìhr sìn gsìì</td><td>ìhr wara sìì</td></tr>
+<tr><td>sa sìn</td><td>sa sìn gsìì</td><td>sa wara sìì</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>hàà</caption>
+<tr><th>Gegawart</th><th>Vergàngaheit</th><th>Zëkunft</th></tr>
+<tr><td>ìch hà oder ìch hàn</td><td>ìch hà ghàà</td><td>ìch wìrr hàà</td></tr>
+<tr><td>dü hàsch</td><td>dü hàsch ghàà</td><td>dü wìrsch hàà</td></tr>
+<tr><td>ar hàt</td><td>ar hàt ghàà</td><td>ar wìrd hàà</td></tr>
+<tr><td>mìr han</td><td>mìr han ghàà</td><td>mìr wara hàà</td></tr>
+<tr><td>ìhr han</td><td>ìhr han ghàà</td><td>ìhr wara hàà</td></tr>
+<tr><td>sa han</td><td>sa han ghàà</td><td>sa wara hàà</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>düe</caption>
+<tr><th>Gegawart</th></tr>
+<tr><td>ìch düe</td></tr>
+<tr><td>dü düesch</td></tr>
+<tr><td>ar düet</td></tr>
+<tr><td>mìr düen</td></tr>
+<tr><td>ìhr düen</td></tr>
+<tr><td>sa düen</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>känna</caption>
+<tr><th>Gegawart</th><th>Vergàngaheit</th><th>Züekunft</th></tr>
+<tr><td>ìch kà oder ìch kàn</td><td>ìch hà känna</td><td>ìch wìrr känna</td></tr>
+<tr><td>dü kàsch</td><td>dü hàsch känna</td><td>dü wìrsch känna</td></tr>
+<tr><td>ar kàt</td><td>ar hàt känna</td><td>ar wìrd känna</td></tr>
+<tr><td>mìr känna</td><td>mìr han känna</td><td>mìr wara känna</td></tr>
+<tr><td>ìhr känna</td><td>ìhr han känna</td><td>ìhr wara känna</td></tr>
+<tr><td>sa känna</td><td>sa han känna</td><td>sa wara känna</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>müeßa</caption>
+<tr><th>Gegawart</th><th>Vergàngaheit</th><th>Züekunft</th></tr>
+<tr><td>ìch müeß</td><td>ìch hà müeßa</td><td>ìch wìrr müeßa</td></tr>
+<tr><td>dü müesch</td><td>dü hàsch müeßa</td><td>dü wìrsch müeßa</td></tr>
+<tr><td>ar müeß</td><td>ar hàt müeßa</td><td>ar wìrd müeßa</td></tr>
+<tr><td>mìr mian</td><td>mìr han müeßa</td><td>mìr wara müeßa</td></tr>
+<tr><td>ìhr mian</td><td>ìhr han müeßa</td><td>ìhr wara müeßa</td></tr>
+<tr><td>sa mian</td><td>sa han müeßa</td><td>sa wara müeßa</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>geh</caption>
+<tr><th>Gegawart</th><th>Vergàngaheit</th><th>Züekunft</th></tr>
+<tr><td>ìch bì oder ìch bìn</td><td>ìch bì gànga</td><td>ìch wìrr geh</td></tr>
+<tr><td>dü gehsch</td><td>dü bìsch gànga</td><td>dü wìrsch geh</td></tr>
+<tr><td>ar geht</td><td>ar ìsch gànga</td><td>ar wìrd geh</td></tr>
+<tr><td>mìr gehn</td><td>mìr sìn gànga</td><td>mìr wara geh</td></tr>
+<tr><td>ìhr gehn</td><td>ìhr sìn gànga</td><td>ìhr wara geh</td></tr>
+<tr><td>sa gehn</td><td>sa sìn gànga</td><td>sa wara geh</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>kumma oder kuu</caption>
+<tr><th>Gegawart</th><th>Vergàngaheit</th><th>Züekunft</th></tr>
+<tr><td>ìch kumm</td><td>ìch bì kumma oder ìch bì kuu</td><td>ìch wìrr kumma oder ìch wìrr kuu</td></tr>
+<tr><td>dü kummsch</td><td>dü bìsch kumma oder dü bìsch kuu</td><td>dü wìrsch kumma oder dü wìrsch kuu</td></tr>
+<tr><td>ar kummt</td><td>ar ìsch kumma oder ar ìsch kuu</td><td>ar wìrd kumma oder ar wìrd kuu</td></tr>
+<tr><td>mìr kumma oder mìr kemma</td><td>mìr sìn kumma oder mìr sìn kuu</td><td>mìr wara kumma oder mìr wara kuu</td></tr>
+<tr><td>ìhr kumma oder ìhr kemma</td><td>ìhr sìn kumma oder ìhr sìn kuu</td><td>ìhr wara kumma oder ìhr wara kuu</td></tr>
+<tr><td>sa kumma oder sa kemma</td><td>sa sìn kumma oder sa sìn kuu</td><td>sa wara kumma oder sa wara kuu</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>mächta</caption>
+<tr><th>Gegawart</th><th>Vergàngaheit</th><th>Züekunft</th></tr>
+<tr><td>ìch mächt</td><td>ìch hà mächta</td><td>ìch wìrr mächta</td></tr>
+<tr><td>dü mächtsch</td><td>dü hàsch mächta</td><td>dü wìrsch mächta</td></tr>
+<tr><td>ar mächt</td><td>ar hàt mächta</td><td>ar wìrd mächta</td></tr>
+<tr><td>mìr mächta</td><td>mìr han mächta</td><td>mìr wara mächta</td></tr>
+<tr><td>ìhr mächta</td><td>ìhr han mächta</td><td>ìhr wara mächta</td></tr>
+<tr><td>sa mächta</td><td>sa han mächta</td><td>sa wara mächta</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+	<elem titre="h3">
+		<als>Konditionàl</als>
+		<fr>Conditionnel</fr>
+		<de>Konditional</de>
+	</elem>
+
+
+
+	<elem titre="h3">
+		<als>Beispìeler mìt'ma pààr Verb</als>
+		<fr>Exemple avec quelques verbes</fr>
+		<de>Beispiele mit einige Verb</de>
+	</elem>
+
+
+
+	<elem italiq="1" fin="br">
+		<als>ìch dat ebbis assa</als>
+		<fr>je mangerais quelque chose</fr>
+		<de>ich würde etwas essen</de>
+	</elem>
+
+
+	<elem italiq="1" fin="br">
+		<als>ìch sottigt ebbis assa</als>
+		<fr>je devrais manger quelque chose</fr>
+		<de>ich sollte etwas essen</de>
+	</elem>
+
+
+	<elem italiq="1" fin="br">
+		<als>ìch dat losa</als>
+		<fr>j'écouterais</fr>
+		<de>ich würde losen</de>
+	</elem>
+
+
+	<elem italiq="1">
+		<als>ìch giang</als>
+		<fr>j'irais</fr>
+		<de>ich ginge</de>
+	</elem>
+
+	<elem>
+		<als> oder: </als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>ìch dat geh</als>
+		<fr>j'irais</fr>
+		<de>ich würde gehen</de>
+	</elem>
+
+
+	<elem italiq="1">
+		<als>ìch kam</als>
+		<fr>je viendrais</fr>
+		<de>ich käme</de>
+	</elem>
+
+	<elem>
+		<als> oder: </als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>ìch dat kumma</als>
+		<fr>je viendrais</fr>
+		<de>ich würde kommen</de>
+	</elem>
+
+
+
+	<elem italiq="1" fin="br">
+		<als>ìch hat mächta kumma</als>
+		<fr>j'aurais voulu venir</fr>
+		<de>ich hätte kommen möchten</de>
+	</elem>
+
+
+
+	<elem fin="br"/>
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>düe</caption>
+<tr><th>Konditionàl</th></tr>
+<tr><td>ìch dat</td></tr>
+<tr><td>dü datsch</td></tr>
+<tr><td>ar dat</td></tr>
+<tr><td>mìr data</td></tr>
+<tr><td>ìhr data</td></tr>
+<tr><td>sa data</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>sìì</caption>
+<tr><th>Konditionàl</th><th>Konditionàl Vergàngaheit</th></tr>
+<tr><td>ìch war</td><td>ìch war gsìì</td></tr>
+<tr><td>dü warsch</td><td>dü warsch gsìì</td></tr>
+<tr><td>ar war</td><td>ar war gsìì</td></tr>
+<tr><td>mìr warta</td><td>mìr warta gsìì</td></tr>
+<tr><td>ìhr warta</td><td>ìhr warta gsìì</td></tr>
+<tr><td>sa warta</td><td>sa warta gsìì</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>hàà</caption>
+<tr><th>Konditionàl</th><th>Konditionàl Vergàngaheit</th></tr>
+<tr><td>ìch hat</td><td>ìch hat ghàà</td></tr>
+<tr><td>dü hatsch</td><td>dü hatsch ghàà</td></tr>
+<tr><td>ar hat</td><td>ar hat ghàà</td></tr>
+<tr><td>mìr hatta</td><td>mìr hatta ghàà</td></tr>
+<tr><td>ìhr hatta</td><td>ìhr hatta ghàà</td></tr>
+<tr><td>sa hatta</td><td>sa hatta ghàà</td></tr>
+   </table> 
+	</elem>
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>känna</caption>
+<tr><th>Konditionàl</th><th>Konditionàl Vergàngaheit</th></tr>
+<tr><td>ìch känntig</td><td>ìch hat känna</td></tr>
+<tr><td>dü känntsch</td><td>dü hatsch känna</td></tr>
+<tr><td>ar känntigt</td><td>ar hat känna</td></tr>
+<tr><td>mìr kännta</td><td>mìr hatta känna</td></tr>
+<tr><td>ìhr kännta</td><td>ìhr hatta känna</td></tr>
+<tr><td>sa kännta</td><td>sa hatta känna</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>müeßa</caption>
+<tr><th>Konditionàl</th><th>Konditionàl Vergàngaheit</th></tr>
+<tr><td>ìch müeßtig</td><td>ìch hat müeßa</td></tr>
+<tr><td>dü müeßtsch</td><td>dü hatsch müeßa</td></tr>
+<tr><td>ar müeßtigt</td><td>ar hat müeßa</td></tr>
+<tr><td>mìr müeßta</td><td>mìr hatta müeßa</td></tr>
+<tr><td>ìhr müeßta</td><td>ìhr hatta müeßa</td></tr>
+<tr><td>sa müeßta</td><td>sa hatta müeßa</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>geh</caption>
+<tr><th>Konditionàl</th><th>Konditionàl Vergàngaheit</th></tr>
+<tr><td>ìch giang</td><td>ìch war gànga</td></tr>
+<tr><td>dü giangsch</td><td>dü warsch gànga</td></tr>
+<tr><td>ar giang</td><td>ar war gànga</td></tr>
+<tr><td>mìr giangta</td><td>mìr warta gànga</td></tr>
+<tr><td>ìhr giangta</td><td>ìhr warta gànga</td></tr>
+<tr><td>sa giangta</td><td>sa warta gànga</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>kumma</caption>
+<tr><th>Konditionàl</th><th>Konditionàl Vergàngaheit</th></tr>
+<tr><td>ìch kam</td><td>ìch war kumma</td></tr>
+<tr><td>dü kamsch</td><td>dü warsch kumma</td></tr>
+<tr><td>ar kam</td><td>ar war kumma</td></tr>
+<tr><td>mìr kamta</td><td>mìr warta kumma</td></tr>
+<tr><td>ìhr kamta</td><td>ìhr warta kumma</td></tr>
+<tr><td>sa kamta</td><td>sa warta kumma</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>sotta</caption>
+<tr><th>Konditionàl</th><th>Konditionàl Vergàngaheit</th></tr>
+<tr><td>ìch sottig</td><td>ìch hat sotta</td></tr>
+<tr><td>dü sottsch</td><td>dü hatsch sotta</td></tr>
+<tr><td>ar sottigt</td><td>ar hat sotta</td></tr>
+<tr><td>mìr sotta</td><td>mìr hatta sotta</td></tr>
+<tr><td>ìhr sotta</td><td>ìhr hatta sotta</td></tr>
+<tr><td>sa sotta</td><td>sa hatta sotta</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>mächta</caption>
+<tr><th>Konditionàl</th><th>Konditionàl Vergàngaheit</th></tr>
+<tr><td>ìch mächtig</td><td>ìch hat mächta</td></tr>
+<tr><td>dü mächtsch</td><td>dü hatsch mächta</td></tr>
+<tr><td>ar mächtigt</td><td>ar hat mächta</td></tr>
+<tr><td>mìr mächta</td><td>mìr hatta mächta</td></tr>
+<tr><td>ìhr mächta</td><td>ìhr hatta mächta</td></tr>
+<tr><td>sa mächta</td><td>sa hatta mächta</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+
+
+
+
+	<elem titre="h2">
+		<als>Präpositiona</als>
+		<fr>Prépositions</fr>
+		<de>Präpositionen</de>
+	</elem>
+
+<elem titre="h3"><als>
+    Fer a Ort
+</als><fr>
+    Pour un endroit
+</fr></elem>
+<elem fin="br"><als>ìn</als><fr>dans</fr><de>in</de></elem>
+<elem fin="br"><als>zwìscha</als><fr>entre</fr><de>zwischen</de></elem>
+<elem fin="br"><als>hìnter</als><fr>derrière</fr><de>hinter</de></elem>
+<elem fin="br"><als>nawa</als><fr>à côté de</fr><de>neben</de></elem>
+<elem fin="br"><als>uf</als><fr>sur</fr><de>auf</de></elem>
+<elem fin="br"><als>vor</als><fr>devant</fr><de>vor</de></elem>
+<elem fin="br"><als>unter</als><fr>sous</fr><de>unter</de></elem>
+<elem fin="br"><als>um (... umma)</als><fr>autour de</fr><de>um (...herum)</de></elem>
+<elem fin="br"><als>dur</als><fr>à travers</fr><de>durch</de></elem>
+<elem fin="br"><als>üs</als><fr>hors de</fr><de>aus</de></elem>
+<elem fin="br"><als>uf</als><fr>à (avec mouvement, vers une ville)</fr><de>nach</de></elem>
+<elem fin="br"><als>zu</als><fr>à (immobile, dans une ville)</fr><de>in</de></elem>
+<elem fin="br"><als>zu</als><fr>chez (avec mouvement, vers une personne)</fr><de>zu</de></elem>
+<elem fin="br"><als>bi</als><fr>chez (immobile, chez une personne)</fr><de>bei</de></elem>
+
+<elem titre="h3"><als>
+    Fer a Zitt
+</als>
+<fr>
+    Pour se situer dans le temps
+</fr></elem>
+
+<elem fin="br"><als>wahrend</als><fr>pendant</fr><de>während</de></elem>
+<elem fin="br"><als>bis</als><fr>jusque</fr><de>bis</de></elem>
+<elem fin="br"><als>zitter</als><fr>depuis</fr><de>seit</de></elem>
+
+
+
+
+<elem titre="h3"><als>
+    Verschìeda
+</als>
+<fr>
+    Divers
+</fr></elem>
+
+
+<elem fin="br"><als>mìt</als><fr>avec</fr><de>mit</de></elem>
+
+<elem fin="br"><als>ohna</als><fr>sans</fr><de>ohne</de></elem>
+<elem fin="br"><als>fer</als><fr>pour</fr><de>für</de>
+</elem><elem fin="br"><als>gega</als><fr>contre</fr><de>gegen</de></elem>
+
+
+
+  
+  
+
+
+	<elem titre="h2">
+		<als>Adverb</als>
+		<fr>Adverbes</fr>
+		<de>Adverb</de>
+	</elem>
+
+
+
+
+	<elem fin="br">
+		<als>derbii</als>
+		<fr>avec, parmi</fr>
+		<de>dabei</de>
+	</elem>
+
+	<elem fin="br">
+		<als>derfìr</als>
+		<fr>pour, favorable à</fr>
+		<de>dafür</de>
+	</elem>
+
+	<elem fin="br">
+		<als>derwìder</als>
+		<fr>contre, défavorable à</fr>
+		<de>dawieder</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dergìga</als>
+		<fr>contre, opposé à</fr>
+		<de>dagegen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>derwillscht</als>
+		<fr>pendant ce temps</fr>
+		<de>daweil</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dheim</als>
+		<fr>à la maison, au domicile</fr>
+		<de>daheim</de>
+	</elem>
+
+	<elem fin="br">
+		<als>derohna</als>
+		<fr>sans</fr>
+		<de>darohne</de>
+	</elem>
+
+	<elem fin="br">
+		<als>drum</als>
+		<fr></fr>
+		<de>darum</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dràà</als>
+		<fr></fr>
+		<de>daran</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dràb</als>
+		<fr></fr>
+		<de>darab</de>
+	</elem>
+
+	<elem fin="br">
+		<als>druf</als>
+		<fr>dessus</fr>
+		<de>darauf</de>
+	</elem>
+
+	<elem fin="br">
+		<als>drii</als>
+		<fr>dedans</fr>
+		<de>darein</de>
+	</elem>
+
+	<elem fin="br">
+		<als>drüs</als>
+		<fr>dehors, hors de</fr>
+		<de>daraus</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dernoh</als>
+		<fr>ensuite</fr>
+		<de>danach</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dervu</als>
+		<fr></fr>
+		<de>davon</de>
+	</elem>
+
+	<elem fin="br">
+		<als>derdurch</als>
+		<fr>à travers</fr>
+		<de>dadurch</de>
+	</elem>
+
+	<elem fin="br">
+		<als>derzwìscha</als>
+		<fr>entre</fr>
+		<de>dazwischen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dernawa</als>
+		<fr>à côté</fr>
+		<de>daneben</de>
+	</elem>
+
+	<elem fin="br">
+		<als>drìwer</als>
+		<fr>au-dessus</fr>
+		<de>darüber</de>
+	</elem>
+
+	<elem fin="br">
+		<als>drunter</als>
+		<fr>en-dessous</fr>
+		<de>darunter</de>
+	</elem>
+
+	<elem fin="br">
+		<als>wagadam</als>
+		<fr>à cause de cela</fr>
+		<de>deswegen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>salamols</als>
+		<fr>en ce temps-là</fr>
+		<de>damals</de>
+	</elem>
+
+
+
+
+
+
+	<elem titre="h2">
+		<als>Deklinàtiona</als>
+		<fr>Déclinaisons</fr>
+		<de>Deklination</de>
+	</elem>
+
+	<elem>
+		<als>Ungfahr wia uf Ditsch,</als>
+	</elem>
+
+	<elem color="red" fin="br">
+		<als> üsser a pààr Fall:</als>
+		<fr>Environ comme en allemand, à part certains cas :</fr>
+		<de>Ungefähr wie auf Deutsch, außer ein paar Fällen:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ìch nìmm dr Wàga</als>
+		<fr>Je prends la voiture</fr>
+		<de>Ich nehme den Wagen</de>
+	</elem>
+
+
+
+
+	<elem fin="br">
+		<als>Kè Genitiv:</als>
+		<fr>Pas de génitif :</fr>
+		<de>Kein Genitiv:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>d Reeder vum Wàga</als>
+		<fr>les roues de la voiture</fr>
+		<de>die Räder des Wagens</de>
+	</elem>
+
+
+	<elem italiq="1" fin="br">
+		<als>dàs sìn ìm Kìnd sina Schüeh</als>
+		<fr>ce sont les chaussures de l'enfant</fr>
+		<de>das sind des Kinds Schuhe</de>
+	</elem>
+
+
+	<elem italiq="1" fin="br">
+		<als>mìr kumma nìt wage-n-em Watter</als>
+		<fr>nous ne venons pas à cause de la météo</fr>
+		<de>wir kommen nicht wegen des Wetters</de>
+	</elem>
+
+
+	<elem italiq="1" fin="br">
+		<als>wahrend em Wìnter</als>
+		<fr>pendant l'hiver</fr>
+		<de>während des Winters</de>
+	</elem>
+
+
+
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>Deklinàtiona</caption>
+<tr><th> </th><th>Maskulin</th><th>Feminin</th><th>Neutrum</th><th>Plural</th></tr>
+<tr><td>Nominativ</td><td>dr Mànn</td><td>d Fràui</td><td>s Kìnd</td><td>d Litt</td></tr>
+<tr><td>Akkusatif</td><td>dr Mànn</td><td>d Fràui</td><td>s Kìnd</td><td>d Litt</td></tr>
+<tr><td>Dativ</td><td>dm Mànn, ìm Mànn</td><td>dr Fràui, ìn dr Fràui</td><td>dm Kìnd, ìm Kìnd</td><td>da Litt, ìn da Litt</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>Deklinàtiona (schwàch) un Adjektiv</caption>
+<tr><th> </th><th>Maskulin</th><th>Feminin</th><th>Neutrum</th><th>Plural</th><th>Beispiel</th></tr>
+<tr><td>Nominativ</td><td>dr klei Mànn oder dr kleina Mànn</td><td>d kleina Fràui</td><td>s kleina Kìnd</td><td>d kleina Litt</td><td>dr klei Mànn ìsch do</td></tr>
+<tr><td>Akkusativ</td><td>dr kleiner Mànn</td><td>d kleina Fràui</td><td>s kleina Kìnd</td><td>d kleina Litt</td><td>ìch seh d kleina Fràui</td></tr>
+<tr><td>Dativ</td><td><elem fin="br"><als>dm klei Mànn, vum klei Mànn</als></elem><elem><als>oder dm kleina Mànn, vum kleina Mànn</als></elem></td><td>dr kleina Fràui, vu dr kleina Fràui</td><td>dm kleina Kìnd, vum kleina Kìnd</td><td>da kleina Litt, vu da kleina Litt</td><td>ìch gìb a Süü ìm bràva Kìnd</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>Deklinàtiona (stàrck) un Adjektiv</caption>
+<tr><th> </th><th>Maskulin</th><th>Feminin</th><th>Neutrum</th><th>Plural</th><th>Beispiel</th></tr>
+<tr><td>Nominativ</td><td>a kleiner Mànn</td><td>a kleina Fràui</td><td>a klei Kìnd</td><td>kleina Litt</td><td>a güeter Mànn ìsch vìel Wart</td></tr>
+<tr><td>Akkusativ</td><td>a kleiner Mànn</td><td>a kleina Fràui</td><td>a klei Kìnd</td><td>kleina Litt</td><td>ìch seh a kleina Fràui</td></tr>
+<tr><td>Dativ</td><td>mìt'ma kleiner Mànn, vum a kleiner Mànn</td><td>mìt'ra kleina Fràui, vun'ra kleina Fràui</td><td>mìt'ma klei Kìnd, vum a klei Kìnd</td><td>mìt kleina Litt, vu kleina Litt</td><td>ìch gìb Gald ìn àrma Litt</td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+	<elem fin="br">
+   <table>
+     <caption>Deklinàtiona Beispìeler</caption>
+<tr><th> </th><th>Maskulin</th><th>Feminin</th><th>Neutrum</th><th>Plural</th></tr>
+<tr><td>Nominativ</td><td><elem fin="br"><als>dr klei Mànn wohnt do</als></elem><elem fin="br"><als>dr kleina Mànn wohnt do</als></elem><elem fin="br"><als>a kleiner Mànn wohnt do</als></elem><elem fin="br"><als>da kleiner Mànn kummt vum Elsàss</als></elem><elem fin="br"><als>dàs ìsch dummer Kwàtsch</als></elem></td><td><elem fin="br"><als>d kleina Fràui heisst Finnla</als></elem><elem fin="br"><als>a kleina Fràui wohnt do</als></elem><elem fin="br"><als>dàs ìsch elsassischa Gràmmatik</als></elem></td><td><elem fin="br"><als>s nèia Johr fàngt à</als></elem><elem fin="br"><als>a nèi Johr fàngt à</als></elem><elem fin="br"><als>dàs ìsch scheen Gschìr</als></elem></td><td><elem fin="br"><als>d àlta Litt reda güet Elsassisch</als></elem><elem fin="br"><als>flotta Litt wohna do</als></elem></td></tr>
+<tr><td>Akkusativ</td><td><elem fin="br"><als>ìch seh dr klei Mànn</als></elem><elem fin="br"><als>ìch seh a kleiner Mànn</als></elem></td><td><elem fin="br"><als>ìch seh d kleina Fràui</als></elem><elem fin="br"><als>ìch seh a kleina Fràui</als></elem></td><td><elem fin="br"><als>ìch hohl s kleina Kìnd</als></elem><elem fin="br"><als>nìmm s scheena Gschìr</als></elem><elem fin="br"><als>ìch süech a klei Kìnd</als></elem><elem fin="br"><als>ìch trìnk a groß Glàs Wàsser</als></elem></td><td><elem fin="br"><als>ìch bedüür d krànka Litt</als></elem><elem fin="br"><als>ìch hà scheena Schüeh</als></elem></td></tr>
+<tr><td>Dativ</td><td><elem fin="br"><als>ìch kumm mìtem kleina Mànn</als></elem></td><td><elem fin="br"><als>ìch kumm mìt dr kleina Fràui</als></elem><elem fin="br"><als>ìch gìb a Süü ìn dr kleina Fràui</als></elem></td><td><elem fin="br"><als>ìch gìb a Süü ìm kleina Kìnd</als></elem><elem fin="br"><als>ìch gìb a Süü ìn dam bràva Kìnd</als></elem><elem fin="br"><als>ìch gìb a Süü ìm a klei Kìnd</als></elem><elem fin="br"><als>trotz dm Kìnd hàr er gscheida</als></elem></td><td><elem fin="br"><als>ìch hà Àngscht vu da beesa Litt</als></elem><elem fin="br"><als>ìch hà Schüeh mìt hocha Àbsatz</als></elem></td></tr>
+   </table> 
+	</elem>
+
+
+
+
+
+	<elem titre="h2">
+		<als>Verkleinerungsform</als>
+		<fr>Diminutif</fr>
+		<de>Verkleinerungsform</de>
+	</elem>
+
+	<elem>
+		<als>Mìt </als>
+	</elem>
+
+	<elem gras="1">
+		<als>"la"</als>
+	</elem>
+
+	<elem fin="br">
+		<als> dràghànga àm And vum Wort</als>
+		<fr>avec "la" ajouté à la fin du mot</fr>
+		<de>mit "la" darangehangen am Ende des Wortes</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>D Verkleinerungsform benutzt ma fer ebis kleins oder ebis liabs reda</als>
+		<fr>On emploie le diminutif pour exprimer une chose petite ou affectueuse</fr>
+		<de>Die Verkleinerungsform benutzt man um etwas kleines oder etwas liebes sprechen</de>
+	</elem>
+
+
+
+	<elem fin="br">
+		<als>Zum Beispiel:</als>
+		<fr>Par exemple :</fr>
+		<de>Zum Beispiel:</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Kàta -> Katzla</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Hund -> Hìndla</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Hüss -> Hiisla</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Kopf -> Käpfla</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Stei -> Steinla</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+
+	<elem>
+		<als>S And "la" gìltet fer s Milhüserisch</als>
+		<fr>La terminaison "la" est valable pour le mulhousien</fr>
+		<de></de>
+	</elem>
+
+	<elem fin="br">
+		<als>Àn àndra Orta ìsch's "le" oder "li".</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+	<elem fin="br">
+		<als>Zum Beispiel: Heft</als>
+		<fr>Par exemple : Heft (cahier)</fr>
+		<de>Zum Beispiel: Heft</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>-> Heftla (z Milhüsa)</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+	<elem puce="disc">
+		<als>-> Heftle (ìm Unterelsàss)</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+	<elem puce="disc">
+		<als>-> Heftli (ìn dr Schwitz)</als>
+		<fr></fr>
+		<de></de>
+	</elem>
+
+
+
+
+	<elem titre="h2">
+		<als>Nawasàtz</als>
+		<fr>Subordonnée</fr>
+		<de>Nebensatz</de>
+	</elem>
+
+	<elem>
+		<als>Mìt </als>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>"wo"</als>
+		<fr>avec "wo" (qui ou que)</fr>
+		<de>mit "wo"</de>
+	</elem>
+
+
+
+	<elem fin="br">
+		<als>Dr Mànn wo kumma ìsch</als>
+		<fr>L'homme qui est venu</fr>
+		<de>Der Mann, der gekommen ist</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Mànn wo mìr süecha</als>
+		<fr>L'homme que nous cherchons</fr>
+		<de>Der Mann, den wir suchen</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>A Lànd wo ma güet ìsst</als>
+		<fr>Un pays où on mange bien</fr>
+		<de>Ein Land wo man gut isst</de>
+	</elem>
+
+
+
+
+
+	<elem titre="h2">
+		<als>Àndra Präpositiona às uf Hochditsch</als>
+		<fr>D'autres prépositions qu'en allemand</fr>
+		<de>Andere Präpositionen als auf Hochdeutsch</de>
+	</elem>
+
+	<elem italiq="1">
+		<als>Ìch wohn </als>
+	</elem>
+
+	<elem italiq="1" gras="1">
+		<als>z </als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Milhüsa</als>
+		<fr>J'habite à Mulhouse</fr>
+		<de>Ich wohne in Mülhausen</de>
+	</elem>
+
+	<elem italiq="1">
+		<als>Ìch gàng </als>
+	</elem>
+
+	<elem italiq="1" gras="1">
+		<als>uf</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als> Colmer</als>
+		<fr>Je vais à Colmar</fr>
+		<de>Ich gehe nach Colmar</de>
+	</elem>
+
+	<elem fin="br"/>
+
+
+	<elem italiq="1" gras="1">
+		<als>z </als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Morga</als>
+		<fr>le matin</fr>
+		<de>am Morgen</de>
+	</elem>
+
+
+	<elem italiq="1" gras="1">
+		<als>z </als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Mittàg</als>
+		<fr>l'après-midi</fr>
+		<de>am Nachmittag</de>
+	</elem>
+
+	<elem italiq="1" gras="1">
+		<als>z </als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Owa</als>
+		<fr>le soir</fr>
+		<de>am Abend</de>
+	</elem>
+
+	<elem italiq="1" gras="1">
+		<als>z </als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Nàcht</als>
+		<fr>la nuit</fr>
+		<de>am Nacht</de>
+	</elem>
+
+
+
+
+
+
+	<elem titre="h2">
+		<als>Àrtìkel un Persona Nama</als>
+		<fr>Articles et noms de personnes</fr>
+		<de>Artikel und Personen Nahmen</de>
+	</elem>
+
+
+
+	<elem fin="br">
+		<als>A Beispiel:</als>
+		<fr>Un exemple :</fr>
+		<de>Ein Beispiel:</de>
+	</elem>
+
+	<elem italiq="1" gras="1">
+		<als>Dr</als>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als> Nathan Katz ìsch a beriahmter Dìchter gsìì.</als>
+		<fr>Nathan Katz était un poète célèbre.</fr>
+		<de>Nathan Katz war ein berühmter Dichter.</de>
+	</elem>
+
+	<elem>
+		<als>Uf Elsassisch schribt ma a Àrtìkel vorem Nàma vun'ra Person.</als>
+		<fr>En alsacien, on écrit un article devant le nom d'une personne.</fr>
+		<de>Auf Elsässisch schreibt man ein Artikel vor dem Namen einer Person.</de>
+	</elem>
+
+
+
+
+	<elem titre="h2">
+		<als>Aui Àcht gaa uf:</als>
+		<fr>Aussi faire attention à :</fr>
+		<de>Auch Acht geben auf:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>D Màdàm Meyer ìsch do, sa trìnkt Kàfe.</als>
+		<fr>Madame Meyer est ici, elle boit du café.</fr>
+		<de>Frau Meyer ist hier, sie trinkt Kafe.</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>S Màrie ìsch do, as trìnkt Kàfe.</als>
+		<fr>Marie est ici, elle boit du café.</fr>
+		<de>Marie ist hier, sie trinkt Kafe.</de>
+	</elem>
+
+	<elem>
+		<als>Aui fer a Fràui, benutzt ma "as" (Neutrum), àstàtt "sa" (Feminin).</als>
+		<fr>Aussi pour une femme, on utilise "as" (neutre) au lieu de "sa" (féminin).</fr>
+		<de>Auch für eine Frau, verwendet ma "as" (Neutrum), anstatt "sa" (Feminin").</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Uf Hochditsch war's ìmmer "sie", fer à Fràui.</als>
+		<fr>En allemand, ce serait toujours "sie" pour une femme.</fr>
+		<de>Auf Hochdeutsch wäre es immer "sie", für eine Frau.</de>
+	</elem>
+
+
+
+
+
+
+	<elem titre="h2">
+		<als>Üssnàhm fer dr elsassischer Dialekt vu Milhüsa</als>
+		<fr>Exception pour le dialecte alsacien de Mulhouse</fr>
+		<de>Ausnahme für der elsässischer Dialekt von Mülhausen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Z Milhüsa sajt ma:</als>
+		<fr>A Mulhouse, on dit :</fr>
+		<de>In Mülhausen sagt man:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>a scheena Fràui</als>
+		<fr>une belle Femme</fr>
+		<de>eine schöne Frau</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Ìm Rascht vum Owerelsàss sajt ma:</als>
+		<fr>Dans le reste du Haut-Rhin, on dit :</fr>
+		<de>Im Rest des Oberelsasses sagt man:</de>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>a scheeni Fràui</als>
+		<fr>une belle Femme</fr>
+		<de>eine schöne Frau</de>
+	</elem>
+
+
+	<elem titre="h2">
+		<als>Fer ìwer d elsassischa Gràmmàtik vu dr Milhüüser Gegend mehr erfàhra</als>
+		<fr>Pour en apprendre plus sur la grammaire alsacienne de la région mulhousienne</fr>
+		<de>Um über der elsässische Grammatik der Mülhausergegend</de>
+	</elem>
+
+
+	<elem>
+		<link>http://als.wikipedia.org/wiki/Buech:Grammatik_M%C3%BClhauser_Dialekt</link>
+		<als>http://als.wikipedia.org/wiki/Buech:Grammatik_Mülhauser_Dialekt</als>
+	</elem>
+
+	<elem fin="br">
+		<als> uf Elsassisch, uf dr àlemànnischa Wikipedia.</als>
+		<fr>en alsacien, dans la wikipédia alémanique</fr>
+		<de>auf Elsässisch, auf der alemannische Wikipedia</de>
+	</elem>
+
+
+
+	<elem>
+		<link>http://fr.wikiversity.org/wiki/Grammaire/Alsacien/Synth%C3%A8se_compl%C3%A8te</link>
+		<als>http://fr.wikiversity.org/wiki/Grammaire/Alsacien/Synthèse_complète</als>
+	</elem>
+
+
+	<elem fin="br">
+		<als> uf Frànzeesch, uf dr Wikiversity.</als>
+		<fr>en français, dans la Wikiversité</fr>
+		<de>auf Französisch, auf der Wikiversity</de>
+	</elem>
+
+
+
+
+</article>

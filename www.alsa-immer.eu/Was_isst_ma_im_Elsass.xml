@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Was_isst_ma_im_Elsass</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>29/09/2008</date>
+        </creation>
+
+	<elem titre="h1">
+		<als>Wàs ìsst ma ìm Elsàss?</als>
+		<fr>Que mange-t-on en Alsace ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìm Elsàss ìsst ma: (meischta Traditionnella Beispìeler)</als>
+		<fr>En Alsace, on mange : (exemples les plus traditionnels)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Sürkrüt</als>
+		<fr>Choucroute</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Flàmmeküeche (ìm Unterlànd)</als>
+		<fr>Tartes flambées (dans le Bas-Rhin)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Bäckaofa</als>
+		<fr></fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Knäpfla, Spätzle</als>
+		<fr></fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Kàrpfa</als>
+		<fr>Carpes (frites)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Wìrscht (Montbéliard, Wienerla)</als>
+		<fr>Saucisses (montbéliard, viennoises)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Bratzala</als>
+		<fr>Bretzel</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Bibbalakas</als>
+		<fr>fromage frais</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Mìnschterkas</als>
+		<fr>fromage de Munster</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Zìwalawahja</als>
+		<fr>tarte à l'oignon</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Griasspflütta</als>
+		<fr>Boulettes de semoule</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Hartäpfelpflütta (ìm Owerlànd)</als>
+		<fr>croquettes de pommes de terres (dans le Haut-Rhin)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Grumberischkiechle (ìm Unterlànd)</als>
+		<fr>croquettes de pommes de terre (dans le Bas-Rhin)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Äpfelkiachla un Gmiassuppa</als>
+		<fr>beignets aux pommes et soupe aux légumes</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Fleischschnacka</als>
+		<fr>escargots de viande et pâte</fr>
+	</elem>
+
+	<elem puce="disc">
+		<elem>
+			<link>Kugelhopf.htm</link>
+			<als>Kugelhopf</als>
+			<fr>kougelhopf</fr>
+		</elem>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<img_fic>album/100_1624choucroute.JPG</img_fic>
+	</elem>
+
+
+
+</article>

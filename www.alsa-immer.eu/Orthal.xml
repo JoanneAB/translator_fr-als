@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Orthal</nom_fic>
+        <creation>
+	    <auteur>MiLib, E.Z.</auteur>
+	    <date>12/11/2008</date>
+  </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Orthal</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Orthal ìsch a nèia Method fer güet Elsassisch Schriwa.</als>
+		<fr>Orthal est une nouvelle méthode pour bien écrire en alsacien.</fr>
+	</elem>
+
+	<elem>
+		<als>'s ìsch s Ergebnis vu-n-era Gmeinsàmàrwet wo vìel Dialektkenner mìtgmàcht han, unter dr Leitung vum Profasser Edgar Zeidler.</als>
+		<fr>C'est le résultat d'un travail collectif auquel de nombreux dialectophones ont participé, sous la direction du professeur Edgar Zeidler.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>S han nohdankt, wia ma àm beschta d verschìedena elsassischa Mundàrta kännt schriwa.</als>
+		<fr>Ils ont réfléchi à la meilleure manière d'écrire les divers parlers alsaciens.</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://upload.wikimedia.org/wikipedia/commons/8/8a/Carte_Alsace_dialectes.png</img_fic>
+		<img_h>260</img_h>
+		<als>Dialektfàmìlia ìm Elsàss</als>
+		<fr>Familles dialectales en Alsace</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Ziel vu Orthal</als>
+		<fr>But d'Orthal</fr>
+	</elem>
+
+	<elem>
+		<als>D Hàuiptidee vu Orthal ìsch àss dia Schribempfehlunga fer àlla Elsasser eifàch zum Versteh sotta sìì.</als>
+		<fr>L'idée principe d'Orthal est que ces recommandations d'écriture soient simples à comprendre pour tous les Alsaciens.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Àlla verschìedena Dialekta, vu Norda bis Süda vum Elsàss, känna dia Methoda benutza, obwohl àss sa nìt gliich üsgsprocha wara.</als>
+		<fr>Tous les divers dialectes, du Nord au Sud de l'Alsace, peuvent employer cette méthode, bien que leur prononciation diffère.</fr>
+	</elem>
+
+	<elem>
+		<als>D Referanz vum Elsassischa ìsch s Hochditsch ; àlso s gschrìewena Elsassischa müeß, wenn meeglig, ìm Ditscha gliicha.</als>
+		<fr>La référence de l'alsacien est l'allemand ; par conséquent, l'alsacien écrit doit, si possible, ressembler à l'allemand.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>So ìsch's eifàcher zum Lasa, un kàt ìn de zweischprochiga (Frànzeesch / Ditsch) Klàssa unterrìchta wara.</als>
+		<fr>Ainsi, c'est plus facile à lire, et ça peut aussi être enseigné dans les classes bilingues (français / allemand).</fr>
+	</elem>
+
+
+
+	<elem>
+		<als>Dia Methoda wìrd mìt Plasiar àgnumma un hàt ìmmer meh Erfolg, zum Beispiel ìn da régionàla elsassischa Blättla (Zitung "L'ALSACE", "Haut-Rhin Magazine")</als>
+		<fr>Cette Méthode est volontiers adoptée et a un succès grandissant, par exemple dans les revues régionales alsaciennes (journal "L'ALSACE", "Haut-Rhin Magazine")</fr>
+	</elem>
+
+	<elem>
+		<als>oder uf zweisprochga Schìlder wia àm Nèiweiher-Stàuidàmm.</als>
+		<fr>ou sur les panneaux bilingues comme à Neuweiher-Staudamm.</fr>
+	</elem>
+
+
+
+	<elem titre="h2">
+		<als>Ufbàuiung vu dr Methoda</als>
+		<fr>Elaboration de la méthode</fr>
+	</elem>
+
+	<elem>
+		<als>Ànna 2003 hàt 's erschta Version gaa, wo "Graphal" gheißa hàt.</als>
+		<fr>En 2003, il y a eu une première version, qui s'appelait "Graphal".</fr>
+	</elem>
+
+	<elem>
+		<als>Zwìscha 2003 un 2008 wìrd d Methoda noch verbessert, un heißt jetzt "Orthal".</als>
+		<fr>Entre 2003 et 2008 la méthode a été améliorée, elle s'appelle maintenant "Orthal".</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn dara Zitt sìn ìm Gànza Elsàss ungfahr 400 "dictées" gmàcht worra fer ze sah, wàs geht un wàs nìt funktionniart.</als>
+		<fr>Pendant ce temps, on a fait dans toute l'Alsace environ 400 dictées pour voir ce qui va et ce qui ne fonctionne pas.</fr>
+	</elem>
+
+	<elem>
+		<als>Vìel Litt han do drà mìtgmàcht:</als>
+		<fr>Beaucoup de gens ont participé :</fr>
+	</elem>
+
+	<elem>
+		<als>Dr Profasser Edgar Zeidler,</als>
+		<fr>Le professeur Edgar Zeidler,</fr>
+	</elem>
+
+	<elem>
+		<als> s Verein AGATE (dàs heißt Académie pour une graphie alsacienne transfrontalière),</als>
+		<fr>son association AGATE (ce qui signifie Académie pour une graphie alsacienne transfrontalière),</fr>
+	</elem>
+
+	<elem>
+		<als> sina Schialer, sina Studanta</als>
+		<fr>ses élèves, ses étudiants</fr>
+	</elem>
+
+	<elem fin="br">
+		<als> un àlli Dialektkenner, wo sitter mehreri Johra àn dr Volkshochschüel z'Milhüsa sini elsassischi Schribwarikstàtt bsüecha.</als>
+		<fr>et tous les dialectophones, qui suivent depuis plusieurs années ses ateliers d'écriture en alsacien à l'Université Populaire de Mulhouse.</fr>
+	</elem>
+
+	<elem>
+		<als>Dr Edgar Zeidler un s Danielle Crévenat-Werner, beidi Sprochwìssaschàftler un Mundàrt forscher,</als>
+		<fr>Edgar Zeidler et Danielle Crévenat-Werner, tous deux linguistes,</fr>
+	</elem>
+
+	<elem fin="br">
+		<als> han a Büech gschrìewa : "Orthographe alsacienne - Bien écrire l'alsacien de Wissembourg à Ferrette" (elsassischa Orthographie - Güet Elsassisch schriwa vu Weißabürri bis Pfìrt).</als>
+		<fr> ont écrit un livre : "Orthographe alsacienne - Bien écrire l'alsacien de Wissembourg à Ferrette".</fr>
+	</elem>
+
+	<elem fin="br">
+	  <img_fic>album/livre_orthal.jpg</img_fic>
+		<als>s Büech</als>
+		<fr>le livre</fr>
+	</elem>
+
+
+</article>

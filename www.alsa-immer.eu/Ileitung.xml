@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+
+<kurs>
+	<nom_fic>Ileitung</nom_fic>
+	<theme>Ileitung</theme>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>15/04/2014</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+
+	<elem>
+		<id>Ileitung_1</id>
+		<als>- Buschur! Ìch heiß Lisala.</als>
+		<fr>- Bonjour ! Je m'appelle Lisala.</fr>
+		<de>- Guten Tag! Ich heiße Lisala.</de>
+		<en>- Hello! My name is Lisala.</en>
+		<img>album/Alsacienne.svg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_2</id>
+		<als>„Mi Mànn heißt Joseph.“</als>
+		<fr>„Mon mari s'appelle Joseph.“</fr>
+		<de>„Mein Mann heißt Joseph.“</de>
+		<en>„My husband is called Joseph.“</en>
+		<img>album/Alsacien.svg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_3</id>
+		<als>„Mìr sìn Elsasser un mìr wohna ìm Elsàss.“</als>
+		<fr>„Nous sommes des Alsaciens et nous habitons en Alsace.“</fr>
+		<de>„Wir sind Elsässern und wir wohnen im Elsass.“</de>
+		<en>„We are Alsatians and we live in Alsace.“</en>
+		<img>album/carte_Alsace_et_Alsaciens.svg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_4</id>
+		<als>Dr Joseph un s Lisala han a scheen Hüss. Uf em Dàch ìsch a Storkanascht. Àn da Fanschter sìn Gerànium.</als>
+		<fr>Joseph et Lisala ont une belle maison. Sur le toit il y a un nid de cigognes. Aux fenêtres il y a des géraniums.</fr>
+		<de>Joseph und Lisala haben ein schönes Haus. Auf dem Dach ist ein Storchennest. An den Fenstern sind Geranien.</de>
+		<en>Joseph and Lisala have a beautiful house. On the roof there is a stork nest. At the windows there are geraniums.</en>
+		<img>album/Maison_alsacienne.svg</img>
+		<audio/>
+		<expl>Devant les prénoms, on met un article : dr Joseph (le Joseph), s Lisala (la Lisala)...</expl>
+	</elem>
+
+
+
+
+	<elem>
+		<id>Ileitung_</id>
+		<als>Sa han a Hund, a Kàtz, a Kìnggala un Hiahner.</als>
+		<fr>Ils ont un chien, un chat, un lapin et des poules.</fr>
+		<de>Sie haben ein Hund, eine Katze, ein Kaninchen und Hühner.</de>
+		<en>They have a dog, a cat, a rabbit and chickens.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_</id>
+		<als>Dr Hund heißt Rex. Ar hiatet.</als>
+		<fr>Le chien s'appelle Rex. Il monte la garde.</fr>
+		<de>Der Hund heißt Rex. Er hütet.</de>
+		<en>The dog is called Rex. He guards.</en>
+		<img>https://openclipart.org/people/Gerald_G/Gerald_G_Dog_(Simple_Drawing)_8.svg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_</id>
+		<als>D Kàtz heißt Mitzi. Sa fàngt Miis. Sa schloft vìel.</als>
+		<fr>Le chat s'appelle Mitzi. Il attrape des souris. Il dort beaucoup.</fr>
+		<de>Die Katze heißt Mitzi. Sie fängt Mäuse. Sie schläft viel.</de>
+		<en>The cat is called Mitzi. It hunts mice. It sleeps a lot.</en>
+		<img>https://openclipart.org/people/francesco_rollandin/Architetto_--_Gatto_03.svg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_</id>
+		<als>S Kìnggala hàt kè Nàmma. 's ìsch brüün. 's wìrd amol (mìt Nüüdla) gassa.</als>
+		<fr>Le lapin n'a pas de nom. Il est brun. Il sera (une fois) mangé avec des nouilles.</fr>
+		<de>Das Kaninchen hat keinen Namen. Es ist braun. Es wird (einmal) mit Nudeln gegessen.</de>
+		<en>The rabbit has no name. It is brown. It will (once) be eaten with noodles.</en>
+		<img>https://openclipart.org/people/jilagan/jilagan_rabbit.svg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_</id>
+		<als>D Hiahner lega Eier. Sa sìn hìnta ìm Gàrta.</als>
+		<fr>Les poules pondent des oeufs. Elles sont derrière dans le jardin.</fr>
+		<de>Die Hühner legen Eier. Sie sind hinten im Garten.</de>
+		<en>The hens lay eggs. They are behind in the garden.</en>
+		<img>https://openclipart.org/people/johnny_automatic/johnny_automatic_chickens.svg</img>
+		<audio/>
+	</elem>
+
+
+
+<elem>
+<txt>Ce cours présente des bases de vocabulaire... et les héros avec qui vous pourrez apprendre l'alsacien.
+</txt>
+</elem>
+
+
+
+</kurs>
+

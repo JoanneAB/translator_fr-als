@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Das_Elsass_unser_Landel</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>02/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Das Elsàss unser Ländel</als>
+		<fr>L'Alsace notre pays</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Das Elsàss unser Ländel</als>
+		<fr>L'Alsace notre pays</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dàs ìsch meineidig scheen</als>
+		<fr>Elle est fichtrement belle</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìr hewe's fescht àm Bandel</als>
+		<fr>On la tient fermement à son lien</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Un lehn's mi sechs nìt gehn</als>
+		<fr>Et ne la laissons vingt dieux pas partir</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Juchhe! Un lehn's mi sechs nìt gehn</als>
+		<fr>You hé ! Et ne la laissons vingt dieux pas partir</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DasElsassUnserLandel_1.mp3</link>
+		<als>1. Stroph losa</als>
+		<fr>Ecouter la strophe 1</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+
+Rare 2ème strophe, trouvée sur http://www.vds-ev.de/forum/viewtopic.php?TopicID=2368&amp;page=2
+et aussi dans le livre "L'Alsace une histoire" édition Oberlin page 145.
+
+
+
+
+	<elem fin="br">
+		<als>Es sott's nur einer wage</als>
+		<fr>Qu'un seul s'y risque</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Un sott'es griffe àn</als>
+		<fr>Et y touche</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìr hàlte fescht zusamme</als>
+		<fr>Nous tiendrons fortement ensemble</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Un schlàwe Mànn fer Mànn</als>
+		<fr>Et frappons d'homme à homme</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Juchhe! Un schlàwe Mànn fer Mànn</als>
+		<fr>You hé ! Et frappons d'homme à homme</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br"/>
+
+
+
+	<elem fin="br">
+		<als>Ìm Elsàss ìsch güet Lawa</als>
+		<fr>En Alsace on vit bien</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dàs wìssa àlli Litt</als>
+		<fr>Cela tout le monde le sait</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Denn do gìbt s Fald un Rawa</als>
+		<fr>Car là il y a des champs et des vignes</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wàs eim s Herz so erfreiht</als>
+		<fr>Ce qui réjouit tellement le cœur</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Juchhe! Wàs eim s Herz so erfreit</als>
+		<fr>You hé ! Ce qui réjouit tellement le cœur</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DasElsassUnserLandel_2.mp3</link>
+		<als>3. Stroph losa</als>
+		<fr>Ecouter la strophe 3</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Stejt mìr uf d hohe Berje</als>
+		<fr>Si on se tient au haut de la montagne</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Un lüjt erab ìn s Tàl</als>
+		<fr>et regarde en bas vers la vallée</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Sìcht mehr de Gottes säje</als>
+		<fr>une vue que les dieux bénissent</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Un Länder ìweràll</als>
+		<fr>et des plaines partout</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Juchhe! Un Länder ìweràll</als>
+		<fr>You hé ! Et de plaines partout</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DasElsassUnserLandel_3.mp3</link>
+		<als>4. Stroph losa</als>
+		<fr>Ecouter la strophe 4</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Mìr liawa unser Ländel</als>
+		<fr>Nous aimons notre pays</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìr sìn jo sinni Seehn</als>
+		<fr>Nous sommes donc ses fils</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Un hàlte's fescht àm Bandel</als>
+		<fr>et le tenons fermement à son lien</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Un lehn's Bigott nìt gehn</als>
+		<fr>Et ne la laissons vindieu pas partir</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Juchhe! Un lehn's Bigott nìt gehn</als>
+		<fr>You hé ! Et ne la laissons vindieu pas partir</fr>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>imag/son.png</img_fic>
+		<link>musik/DasElsassUnserLandel_4.mp3</link>
+		<als>5. Stroph losa</als>
+		<fr>Ecouter la strophe 5</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem titre="h1">
+		<als>Que notre Alsace est belle (version française)</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Que notre Alsace est belle</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Avec ses frais vallons</als>
+	</elem>
+
+	<elem fin="br">
+		<als>L'été mûrit chez elle</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Blés vignes et houblons</als>
+	</elem>
+
+	<elem fin="br">
+		<als>You hé ! Blés vignes et houblons</als>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<link>http://www.greatsong.net/PAROLES-LINE-RENAUD,QUE-NOTRE-ALSACE-EST-BELLE---LA-FISCHER-KAPELL,102362511.html</link>
+		<als>Gsunga vu dr Fischer Kapell</als>
+		<fr>Chanté par la Fischer Kapell</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+
+	<elem fin="br"/>
+
+
+	<elem fin="br">
+		<img_fic>album/Nota_Das_Elsass_unser_Landel.bmp</img_fic>
+	</elem>
+
+	<elem fin="br"/>
+
+
+	<elem fin="br">
+		<link>Musik.htm#Das Els%C3%A0ss unser L%C3%A4ndel</link>
+		<als>Nota un Müsik</als>
+		<fr>Notes et musique</fr>
+	</elem>
+
+
+	<elem fin="br"/>
+
+
+	<elem fin="br">
+		<img_fic>album/100_6973vignoble.jpg</img_fic>
+		<als>Rawa ìm Elsàss</als>
+	</elem>
+
+
+
+</article>

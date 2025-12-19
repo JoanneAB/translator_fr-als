@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Local_Trotter_Elsass</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>06/07/2014</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Local-Trotter Elsàss</als>
+		<fr>Local-Trotter Alsace</fr>
+		<de>Local-Trotter Elsass</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wia kààt ma gliichzittig s Elsàss entdecka un sìch àmüsiara?</als>
+		<fr>Comment peut-on découvrir l'Alsace tout en s'amusant ?</fr>
+		<de>Wie kann man gleichzeitig das Elsass entdecken und sich amüsieren?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wella mobile Ààwandung fer Telefon expliziart èiech àlles uf Frànzeesch, Ditsch, Anglisch... un Elsassisch?</als>
+		<fr>Quelle application mobile pour téléphone vous explique tout en français, allemand, anglais... et alsacien ?</fr>
+		<de>Welche mobile Anwendung für Händy erklärt euch alles auf Französisch, Deutsch, Englisch... und Elsässisch?</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem gras="1">
+		<als>Local-Trotter Elsàss</als>
+	</elem>
+
+	<elem>
+		<als> làuift uf Iphone, </als>
+		<fr>Local-Trotter Alsace fonctionne sur iphone,</fr>
+		<de>Local-Trotter Elsass funktioniert auf Iphone,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>'s ìsch ummasunscht un ma kààt's do runterlàda:</als>
+		<fr>c'est gratuit et on peut le télécharger ici :</fr>
+		<de>es ist umsonst und man kann es hier runterladen:</de>
+	</elem>
+
+	<elem fin="br">
+		<link>https://itunes.apple.com/fr/app/local-trotter-alsace/id800672896?mt=8</link>
+		<als>https://itunes.apple.com/fr/app/local-trotter-alsace/id800672896?mt=8</als>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://www.local-trotter.com/wp-content/uploads/2014/04/Icon-Local-Trotter-Alsace.png</img_fic>
+		<als>Logo vu Local-Trotter Elsàss</als>
+		<fr>Logo de Local-Trotter Alsace</fr>
+		<de>Logo von Local-Trotter Elsass</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Pràwiara d Version uf Elsassisch, wenn schon!</als>
+		<fr>Essayez la version en alsacien, tant qu'à faire !</fr>
+		<de>Probieren Sie die Version auf Elsässisch, wenn schon!</de>
+	</elem>
+
+
+
+
+</article>

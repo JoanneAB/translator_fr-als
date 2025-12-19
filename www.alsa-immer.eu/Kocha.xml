@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+
+<kurs>
+	<nom_fic>Kocha</nom_fic>
+	<theme>Kocha</theme>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>26/06/2014</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+
+
+	<elem>
+		<id>Kocha_</id>
+		<als>Dr Ìch hà Hunger, ìch mächt boll assa.</als>
+		<fr>  J'ai faim, je voudrais bientôt manger.</fr>
+		<de>Ich habe Hunger, ich möchte bald essen.</de>
+		<en>I'm hungry, I'd like to eat soon.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Kocha_</id>
+		<als>S - Weisch, , ma müeß zerscht noch kocha!</als>
+		<fr>- Tu sais, , on doit d'abord encore cuisiner !</fr>
+		<de>- Weißt du , man muss zuerst noch kochen!</de>
+		<en>- You know, , we have to cook before!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Kocha_</id>
+		<als>Dr - Prima! Wàs wann mìr assa?</als>
+		<fr>Joseph  Super ! Que voulons-nous manger ?</fr>
+		<de>- Prima! Was wollen wir essen?</de>
+		<en>- Wonderful! What shall we eat?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Kocha_</id>
+		<als>Dr Ìch wìll Sürkrütt assa!</als>
+		<fr>  Je veux manger de la choucroute !</fr>
+		<de>Ich will Sauerkraut essen!</de>
+		<en>I want to eat sauerkraut!</en>
+		<img>https://upload.wikimedia.org/wikipedia/commons/3/39/Choucroute-p1030190.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Kocha_</id>
+		<als>S - Un ìch frogg: wer wìll kocha? ...Niama?</als>
+		<fr>- Et moi je demande : qui veut cuisiner ? ...Personne ?</fr>
+		<de>- Und ich frage: wer will kochen? ...Niemand?</de>
+		<en>- And I ask: who want to cook? ...No-one?</en>
+		<img>https://upload.wikimedia.org/wikipedia/commons/8/8c/Casserole541.JPG</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Kocha_</id>
+		<als>Dr - Doch. Mìr känna àlla kocha!</als>
+		<fr>Joseph  Si. Nous pouvons tous cuisiner !</fr>
+		<de>- Doch. Wir können alle kochen!</de>
+		<en>- Yes. We all can cook!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Kocha_</id>
+		<als>Dr Ìch wìll Sürkrütt lehra kocha.</als>
+		<fr>  Je veux apprendre à cuisiner la choucroute.</fr>
+		<de>Ich will Sauerkraut kochen zu lernen.</de>
+		<en>I want to learn to cook sauerkraut.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Kocha_</id>
+		<als> - Noh müesch àwer làng wàrta, vor ebb mìr assa. Denn dàs brüücht Zitt!</als>
+		<fr>- Mais alors tu devras attendre longtemps, avant que nous ne mangions. Parce que ça, ça demande un peu de temps !</fr>
+		<de>- Dann musst du aber lang warten, bevor wir essen. Denn das braucht Zeit!</de>
+		<en>- Then you'll have to wait for a long time, before we eat. Because this needs some time!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Kocha_</id>
+		<als>Dr - Mìr känna Pizza bstella. So brüücha mìr nìt làng wàrta.</als>
+		<fr>- Nous pouvons commander des pizzas. Ainsi nous n'aurons pas besoin d'attendre aussi longtemps.</fr>
+		<de>- Wir können Pizza bestellen. So brauchen wir nicht so lang zu warten.</de>
+		<en>- We can also order pizzas. So we won't have to wait too long.</en>
+		<img>https://upload.wikimedia.org/wikipedia/commons/c/cd/Mmm...pizza_%284279199653%29.jpg</img>
+		<audio/>
+	</elem>
+
+
+
+
+
+
+<elem>
+<txt>Ce cours présente des phrases combinant deux verbes.
+Par exemple : vouloir manger, devoir attendre...
+</txt>
+</elem>
+
+
+
+</kurs>
+

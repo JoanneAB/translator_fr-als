@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>A4_Autostross</nom_fic>
+        <creation>
+		<auteur>MiLib</auteur>
+		<date>13/06/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>A4 frànzeescha Autostroß</als>
+		<fr>Autoroute française A4</fr>
+		<de>A4 französische Autobahn</de>
+	</elem>
+
+
+	<elem>
+		<table>
+			<caption>A4</caption>
+			<tr><td><elem><als>Ààfàng</als><fr>Début</fr><de>Anfang</de></elem></td><td>Paris</td></tr>
+			<tr><td><elem><als>And</als><fr>Fin</fr><de>Ende</de></elem></td><td><elem><als>Stroßburg</als><fr>Strasbourg</fr></elem></td></tr>
+			<tr><td><elem><als>Länga</als><fr>Longueur</fr><de>Länge</de></elem></td><td>482 km</td></tr>
+			<tr><td><elem><als>Eräffnung</als><fr>Inauguration</fr><de>Eröffnung</de></elem></td><td>1970</td></tr>
+			<tr><td><elem><als>Gheert ìn</als><fr>Gérée par</fr><de>Gehört in</de></elem></td><td>SANEF</td></tr>
+			<tr><td><elem><als>Màut</als><fr>Péage</fr><de>Maut</de></elem></td><td><elem><als>ja</als><fr>oui</fr></elem></td></tr>
+		</table> 
+	</elem>
+
+
+
+
+	<elem>
+		<als>D A4 ìsch d zweilängschta Autostroß ìm Frànkrìch.</als>
+		<fr>L'A4 est la deuxième plus longue autoroute en France.</fr>
+		<de>Die A4 ist die zweilängste Autobahn in Frankreich.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Uf Frànzeesch heißt's "L'Autoroute de l'Est" ("d Ostliga Autostroß").</als>
+		<fr>En français, elle s'appelle "L'Autoroute de l'Est".</fr>
+		<de>Auf Französisch heißt es "L'Autoroute de l'Est" ("die Östliche Autobahn").</de>
+	</elem>
+
+
+	<elem titre="h2">
+		<als>Verbìndung mìt àndra Hàuiptstroßa</als>
+		<fr>Connexion avec d'autres routes importantes</fr>
+		<de>Verbindungen mit anderen Hauptstraßen</de>
+	</elem>
+
+	<elem>
+		<als>Z'Pàris verbìndet d A4 mìt em Pàrisser "Boulevard Périphérique".</als>
+		<fr>A Paris, l'A4 est reliée au "Boulevard Périphérique" parisien.</fr>
+		<de>In Paris verbindet die A4 mit dem Pariser "Boulevard Périphérique".</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Z'Hoerdt lìnkt d A4 mìt dr frànzeescha A35 Autostroß.</als>
+		<fr>A Hoerdt, l'A4 est reliée à l'autoroute française A35.</fr>
+		<de>In Hoerdt linkt die A4 mit der französische A35 Autobahn.</de>
+	</elem>
+
+	<elem>
+		<als>Dernoh, bis Stroßburg, ìsch a Strecka vu 9 Kilometer làng wo sìch mìt dr A35 teilt.</als>
+		<fr>Ensuite, jusqu'à Strasbourg, il y a un tronçon de 9 kilomètres qu'elle partage avec l'A35.</fr>
+		<de>Danach, bis Straßburg, ist eine Strecke von 9 Kilometer lang die sich mit der A35 teilt.</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Üssfàhrta</als>
+		<fr>Sorties</fr>
+		<de>Ausfahrten</de>
+	</elem>
+
+
+
+
+
+
+
+	<elem>
+            <table>
+                <caption>A4</caption>
+
+
+

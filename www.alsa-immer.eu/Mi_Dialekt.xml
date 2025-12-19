@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Mi_Dialekt</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>20/10/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Mi Dialekt</als>
+		<fr>Mon dialecte</fr>
+		<de>Mein Dialekt</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Làng hàn i di nìt gschätzt</als>
+		<fr>Longtemps je ne t'ai pas estimé</fr>
+		<de>Lang habe ich dich nicht geschätzt</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dü bìsch ìweràll gsìì, jeder Tàg,</als>
+		<fr>Tu étais partout, chaque jour,</fr>
+		<de>Du warst überall, jeder Tag</de>
+	</elem>
+
+	<elem fin="br">
+		<als>ìmmer derbi àn àlla Faschter, oder ìn dr Fàmìlia.</als>
+		<fr>participant à toutes les fêtes, ou dans la famille.</fr>
+		<de>immer dabei an alle Fester, oder in der Familie.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>wurum hat i uf dìch Àcht gaa?</als>
+		<fr>pourquoi aurais-je pris garde à toi ?</fr>
+		<de>warum hätte ich auf dich Acht gegeben?</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Mina Müetersproch bìsch dü nìt, 's ìsch Frànzeesch.</als>
+		<fr>Tu n'es pas langue maternelle, c'est le français.</fr>
+		<de>Meine Muttersprache bist du nicht, es ist das Französische</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Mi Pàpa hàt àwer wälla àss i zweisprochig wìrr</als>
+		<fr>Mais mon papa voulait que je devienne bilingue</fr>
+		<de>Mein Vater hat aber gewollt dass ich zweisprachig werde</de>
+	</elem>
+
+	<elem fin="br">
+		<als>un mìt Miaih bìn i's worra.</als>
+		<fr>et avec du mal je le suis devenue.</fr>
+		<de>und mit Mühe bin ich es geworden.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Bsìnnsch di? mìr han làng brüücht fer Kàmàràd wara.</als>
+		<fr>Te souviens-tu ? il nous a fallu du temps pour devenir copains.</fr>
+		<de>Besinnst du dich? wir haben lang gebraucht um Kameraden zu werden.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Doch bìsch dü jetzt d Sproch wo n i àm liabschta redd.</als>
+		<fr>Pourtant tu es maintenant la langue que je préfère parler.</fr>
+		<de>Doch bist du jetzt die Sprache die ich am liebste rede.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Mi elsassischer Dialekt...</als>
+		<fr>Mon dialecte alsacien...</fr>
+		<de>Mein elsässischer Dialekt...</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Dur dìch heer i wìder d Stìmma vu da Großeltra</als>
+		<fr>A travers toi j'entends de nouveau la voix des grands-parents</fr>
+		<de>Durch dich höre ich wieder die Stimme der Großeltern</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dia àlla liawa Stìmma vu friahier.</als>
+		<fr>toutes ces chères voix d'autrefois.</fr>
+		<de>die alle lieben Stimmen von früher.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dü bìsch d echta Seela vum Elsàss.</als>
+		<fr>Tu es la véritable âme de l'Alsace.</fr>
+		<de>Di bist die echte Seele vom Elsass.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Denn, wàs war unsra Region ohna dìch?</als>
+		<fr>Car, que serait notre région sans toi ?</fr>
+		<de>Denn, was wäre unsere Region ohne dich?</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>D Falder un Barga sìn ìmmer scheen,</als>
+		<fr>Les champs et les montagnes seront toujours beaux,</fr>
+		<de>Die Felder und Bergen sind immer schön,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>d Storka sìn hoffentlig fer noch làng do,</als>
+		<fr>les cigognes sont, espérons-le, encore là pour longtemps,</fr>
+		<de>die Storchen sind hoffentlich für noch lang da,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>àwer wia schàd war dàs</als>
+		<fr>mais comme ce serait dommage</fr>
+		<de>aber wie schade wäre es</de>
+	</elem>
+
+	<elem fin="br">
+		<als>wenn ma dàs Àlles nìmm mìt ìhra Teifetanàma kännt nenna!</als>
+		<fr>si on ne pouvait plus nommer toutes ces choses avec leur nom de baptême !</fr>
+		<de>wenn man das Alles nicht mehr mit ihre Taufenahme nennen könnte!</de>
+	</elem>
+
+</article>

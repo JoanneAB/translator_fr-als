@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Am_niina_gehn_d_Fiina</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>09/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Àm niina gehn d Fiina</als>
+		<fr>A neuf heures vont (au lit) les raffinés</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Àm nina gehn d Fiina</als>
+		<fr>A neuf heures vont (au lit) les raffinés</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Àm zehna gehn d schena</als>
+		<fr>A dix heures vont les beaux</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Àm elfa gehn d Wälfa</als>
+		<fr>A onze heures vont les loups</fr>
+	</elem>
+
+
+
+</article>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+
+<kurs>
+	<nom_fic>Visite</nom_fic>
+	<theme>Visite</theme>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>16/06/2014</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+
+
+	<elem>
+		<id>Visite_</id>
+		<als>Dr Joseph un s Lisala gehn àn d gare.</als>
+		<fr>Joseph et Lisala vont à la gare.</fr>
+		<de>Joseph und Lisala gehen an den Bahnhof.</de>
+		<en>Joseph and Lisala go to the train station.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>Dr Thomas kummt boll àà.</als>
+		<fr>Thomas arrive bientôt.</fr>
+		<de>Thomas kommt bald an.</de>
+		<en>Thomas arrives soon.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>Dr Thomas wohnt z'Pàris.| Ar kummt garn uf Milhüüsa fer d Feria.</als>
+		<fr>Thomas habite à Paris.| Il vient volontiers à Mulhouse pour les vacances.</fr>
+		<de>Thomas wohnt in Paris.| Er kommt gern nach Mülhausen für die Ferien.</de>
+		<en>Thomas lives in Paris.| He likes to come to Mulhouse for the holidays.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_</id>
+		<als>- Wìllkumma ìm Elsàss, liawer Thomas!</als>
+		<fr>- Bienvenue en Alsace, cher Thomas !</fr>
+		<de>- Willkommen im Elsass, lieber Thomas!</de>
+		<en>- Welcome in Alsace, dear Thomas!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Wia geht's?</als>
+		<fr>- Comment ça va ?</fr>
+		<de>- Wie geht's?</de>
+		<en>- How do you do?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Ìsch d Reis güet ummagànga?</als>
+		<fr>- Le voyage s'est-il bien passé ?</fr>
+		<de>- Ist die Reise gut vorbeigegangen?</de>
+		<en>- Was the travel okay?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Ja, merci. Buschur Unkel Joseph un Tànta Lisala!</als>
+		<fr>- Oui, merci. Bonjour oncle Joseph et tante Lisala !</fr>
+		<de>- Ja, danke. Guter Tag Onkel Joseph und Tante Lisala!</de>
+		<en>- Yes, thanks. Hello Uncle Joseph and Aunt Lisala!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- 's ìsch flott, uns wìder z sah!</als>
+		<fr>- C'est chouette de se revoir !</fr>
+		<de>- Es ist toll, uns wieder zu sehen!</de>
+		<en>- It's nice to see one another again!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>Sa gehn àlla drèi ìns Restaurant.</als>
+		<fr>Ils vont tous les trois au restaurant.</fr>
+		<de>Sie gehen alle drei ins Restaurant.</de>
+		<en>Both three go to the restaurant.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>Sa düen z'Owa assa, mìt Flàmmaküecha un Biar.</als>
+		<fr>Ils dînent, avec des tartes flambées et de la bière.</fr>
+		<de>Sie essen zu Abend, mit Flammkuchen und Bier.</de>
+		<en>They have dinner, with tartes flambées and beer.</en>
+		<img>https://upload.wikimedia.org/wikipedia/commons/f/fb/Tarte_flamb%C3%A9e_alsacienne_514471722.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Hmmm... 's ìsch güet!</als>
+		<fr>- Hmmm... c'est bon !</fr>
+		<de>- Hmmm... es ist gut!</de>
+		<en>- Hmmm... it's good!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Sàgg, Thomas! Dü kààsch güet assa!</als>
+		<fr>- Dis donc, Thomas ! Toi, tu manges bien !</fr>
+		<de>- Sag mal, Thomas! Du kannst gut essen!</de>
+		<en>- Well, Thomas! You eat well!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Nàtiirlig! Ìch bì kè Kìnd meh.</als>
+		<fr>- Bien sûr ! Je ne suis plus un enfant.</fr>
+		<de>- Natürlich! Ich bin kein kind mehr.</de>
+		<en>- Of course! I am no longer a child.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Wia àlt bìsch jetz?</als>
+		<fr>- Quel âge as-tu maintenant ?</fr>
+		<de>- Wia alt bist du jetzt?</de>
+		<en>- How old are you now?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Ìch bì fufzeh Johr àlt.</als>
+		<fr>- J'ai quinze ans.</fr>
+		<de>- Ich bin fünfzehn Jahre alt.</de>
+		<en>- I'm fifteen.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>Noochhar gehn sa heim.| Dr Thomas ìsch miad.| Ar wìll ìns Bett geh.</als>
+		<fr>Ensuite ils vont à la maison.| Thomas est fatigué.| Il veut aller au lit.</fr>
+		<de>Nachher gehen sie nach Hause.| Thomas ist müde.| Er will ins Bett gehen.</de>
+		<en>Then they go home.| Thomas is tired.| He wants to go to bed</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_</id>
+		<als>- Wo ìsch mi Zìmmer?</als>
+		<fr>- Où est ma chambre ?</fr>
+		<de>- Wo ist mein Zimmer?</de>
+		<en>- Where is my room?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Di Zìmmer ìsch ìm erschta Stock, nawa-n-em Bàdzìmmer.</als>
+		<fr>- Ta chambre est au premier étage, à côté de la salle de bain.</fr>
+		<de>- Dein Zimmer ist im ersten Stock, neben dem Badezimmer.</de>
+		<en>- Your room is on the first floor next to the bathroom.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Wo ìsch èira Kàtz?</als>
+		<fr>- Où est votre chat ?</fr>
+		<de>- Wo ist eure Katze?</de>
+		<en>- Where is your cat?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Sa geht gràd ìns Zìmmer.</als>
+		<fr>- Il va juste dans la chambre.</fr>
+		<de>- Sie geht gerade in das Zimmer.</de>
+		<en>- It just goes into the room.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Sa schloft garn uf em Bett.| Steert's dìch?</als>
+		<fr>- Il dort volontiers sur le lit.| Est-ce que ça te dérange ?</fr>
+		<de>- Sie schläft gern auf dem Bett.| Stört es dich?</de>
+		<en>- It likes sleeping on the bed.| Does this bother you?</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/2/20/Penny_snuggles.JPG</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>- Nei. Sa därf uf mim Bett bliiwa.</als>
+		<fr>- Non. Il a le droit de rester sur mon lit.</fr>
+		<de>- Nein. Sie darf auf meinem Bett bleiben.</de>
+		<en>- No. It may stay on my bed.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>A pààr Stund speeter...</als>
+		<fr>Quelques heures plus tard...</fr>
+		<de>Einige Stunde später...</de>
+		<en>A few hours later...</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>Dr Thomas geht ìns Bett. Ar schloft ìm Bett.</als>
+		<fr>Thomas va au lit. Il dort dans le lit.</fr>
+		<de>Thomas geht ins Bett. Er schläft im Bett.</de>
+		<en>Thomas goes to bed. He sleeps in bed.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>Dr Hund geht ìn dr Kaller. Ar schloft ìm Kaller.</als>
+		<fr>Le chien va à la cave. Il dort à la cave.</fr>
+		<de>Der Hund geht in den Keller. Er schläft im Keller.</de>
+		<en>The dog goes to the cellar. It sleeps in the cellar.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>D Kàtz blìtzt uf s Cànapé. Sa schloft uf em Cànapé.</als>
+		<fr>Le chat saute sur le canapé. Il dort sur le canapé.</fr>
+		<de>Die Katze springt auf die Couch. Sie schläft auf der Couch.</de>
+		<en>The cat jumps on the couch. It sleeps on the couch.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>S Kìnggala geht ìn si Hiisla. As schloft ìn sim Hiisla.</als>
+		<fr>Le lapin va dans sa maisonnette. Il dort dans sa maisonnette.</fr>
+		<de>Das Kaninchen geht in sein Häuschen. Es schläft in seinem Häuschen.</de>
+		<en>The rabbit goes into its little house. It sleeps in its little house.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>D Hiahner gehn ìn dr Hiahnerstàll. Sa schlofa ìm Hiahnerstàll.</als>
+		<fr>Les poules vont dans le poulailler. Elles dorment dans le poulailler.</fr>
+		<de>Die Hühner gehen in den Hühnerstall. Sie schlafen im Hühnerstall.</de>
+		<en>The hens go to the hen house. They sleep in the hen house.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Visite_</id>
+		<als>Güet Nàcht!</als>
+		<fr>Bonne nuit !</fr>
+		<de>Gute Nacht!</de>
+		<en>Good night!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+
+
+
+
+<elem>
+<txt>Ce cours présente les cas : nominatif (pour un sujet), accusatif et datif.
+Quel cas employer pour un complément de lieu ?
+Si mouvement avec changement de lieu : accusatif, si localisation : datif.
+</txt>
+</elem>
+
+
+
+</kurs>
+

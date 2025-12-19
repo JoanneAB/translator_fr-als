@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Vum_Biar_un_vum_Wii</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>31/03/2012</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Vum Biar un vum Wii</als>
+		<fr>Au sujet de la bière et du vin</fr>
+		<de>Vom Bier und vom Wein</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wàs i, àls Elsasser, bsunderscht garn hà</als>
+		<fr>Ce que j'aime particulièrement, en tant qu'Alsacien</fr>
+		<de>Was ich, als Elsässer, besonders gern habe</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìsch s Biar, s güeta Biar vum Elsàss!</als>
+		<fr>C'est la bière, la bonne bière d'Alsace!</fr>
+		<de>Ist das Bier, das gute Bier vom Elsass!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Nit Bessers às a Schoppa vum Fàss</als>
+		<fr>Rien de meilleur qu'une chope du tonneau</fr>
+		<de>Nichts Besseres als eine Schoppe vom Fass</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Zum Trìnka mìt Wìrscht oder mìt Bratzala.</als>
+		<fr>A boire avec des saucisses ou des bretzels.</fr>
+		<de>Zum Trinken mit Würste oder mit Bretzeln.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Jo wàs! S Beschta ìm Elsàss ìsch doch dr Wii.</als>
+		<fr>Oh bof ! Le meilleur, en Alsace, c'est donc le vin.</fr>
+		<de>Ach was! Das Beste im Elsass ist doch der Wein.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>A Sylvàner oder a Riasling, ìn'ra scheena Flascha!</als>
+		<fr>Un Sylvaner ou un Riesling, dans une belle bouteille !</fr>
+		<de>Ein Sylvaner oder ein Riesling, in einer schönen Flasche!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wii pàsst namlig zu da fiinschta Assa:</als>
+		<fr>En effet, le vin se marie avec les mets les plus fins :</fr>
+		<de>Wein passt nämlig zu den feinsten Essen:</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Fìsch, Sürkrütt, Bäckaofa, Kugelhopf - so, ìch schank jetzt i!</als>
+		<fr>Le poisson, la choucroute, le Bäckaofa - bon, je remplis nos verres !</fr>
+		<de>Fisch, Sauerkraut, Bäckeofen, Gugelhopf - so, ich schenke jetzt ein!</de>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Numma làngsàm ìhr Manner! Wann ìhr noch heimfàhra?</als>
+		<fr>Tout doux, Messieurs ! Voulez-vous encore rentrer chez vous en voiture ?</fr>
+		<de>Nur langsam, ihr Männern! Wollt ihr noch heimfahren?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wìssa-n-ìhr wàs noch güet ìsch ìm Elsàss? S Wàsser, vu unsera Vogesa.</als>
+		<fr>Savez-vous ce qui est encore bon, en Alsace ? L'eau, de nos Vosqes.</fr>
+		<de>Wisst ihr was noch gut ist im Elsass? Das Wasser, von unseren Vogesen.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Güet fer s Harz un d Lawra, a rìchtiga Gsundheitsqualla...</als>
+		<fr>Bonne pour le coeur et le foie, une vraie fontaine de santé...</fr>
+		<de>Gut für das Herz und die Leber, eine richtige Gesundheitsquelle...</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìch schank jetzt èiech i, vu dam güeta frìscha Wàsser. Gsundheit! Un àlles Güeta!</als>
+		<fr>Maintenant c'est moi qui remplis nos verres, de cette bonne eau fraîche. Santé ! Et portez-vous bien !</fr>
+		<de>Ich schenke jetzt euch ein, von diesem gute frische Wasser. Gesundheit! Und alles Gute!</de>
+	</elem>
+
+
+</article>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Reiha_reiha_Rosa</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>06/09/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Reiha reiha Rosa</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Reiha reiha Rosa</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Büewa tràga Hosa</als>
+		<fr>Les garçons portent des pantalons</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Maidala tràga Kranzala</als>
+		<fr>Les filles portent des couronnes</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Tiri tiri Ganzala</als>
+		<fr>Tiri tiri petite oie</fr>
+	</elem>
+
+
+
+</article>

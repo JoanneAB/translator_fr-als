@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+
+<kurs>
+	<nom_fic>miad</nom_fic>
+	<theme>miad</theme>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>03/07/2014</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+
+
+	<elem>
+		<id>miad_</id>
+		<als>S - Geht's, Joseph? Ìch seh dìch numma ìmmer schàffa!</als>
+		<fr>- Ca va, Joseph ? Je te vois seulement toujours travailler !</fr>
+		<de>- Geht's, Joseph? Ich sehe dich nur immer arbeiten!</de>
+		<en>- How do you do, Joseph? I always see you at work!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>Dr - 's geht, 's ìsch mìr gànz güet!</als>
+		<fr>- Ca va, je me sens très bien !</fr>
+		<de>- Es geht, es ist mir ganz wohl!</de>
+		<en>- It's OK, I'm fine!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>S - Kàà-n-i dìr halfa?</als>
+		<fr>- Puis-je t'aider ?</fr>
+		<de>- Kann ich dir helfen?</de>
+		<en>- Can I help you?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>Dr - Nei, merci. Dàs ìsch kè Àrwet fer dìch!</als>
+		<fr>- Non, merci. Ce n'est pas un travail pour toi !</fr>
+		<de>- Nein, danke. Das ist keine Arbeit für dich!</de>
+		<en>- No, thanks. This is no work for you!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>S - Àh? Sàgg mìr jetz wurum! Wàs danksch dü vu mìr? Weisch, ìch schàff so güet às dü.</als>
+		<fr>- Ah ? Dis-moi maintenant pourquoi ! Que penses-tu de moi ? Tu sais, je travaille aussi bien que toi.</fr>
+		<de>- Ah? Sage mir jetzt warum! Was denkst du von mir? Weißt du, ich arbeite so gut als du.</de>
+		<en>- Ah? Tell me why now! What do you think of me? You know, I work as well as you.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>Dr - Jo ammel! Àwer do màcht ma sìch drackig. Un dàs gfàllt dìr nìt a so.</als>
+		<fr>- Oui bien sûr ! Mais là on se salit. Et ça, ça ne te plaît pas tellement.</fr>
+		<de>- Ja natürlich! Aber da wird man schmutzig. Und dir gefällt das nicht so.</de>
+		<en>- Yes of course! But here you get dirty. And you don't enjoy that so much.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>S - Jo... Un dìr ìsch dàs egàl.</als>
+		<fr>- Oui... Et toi, ça t'est égal.</fr>
+		<de>- Ja... Und dir ist das egal.</de>
+		<en>- Yes... And you don't matter about that.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>S - Un d Wärma steert dìch aui nìt. Màcht dìch dàs nìt miad?</als>
+		<fr>- Et la chaleur ne te dérange pas non plus. Est-ce que ça ne te fatigue pas ?</fr>
+		<de>- Und die Wärme stört dich auch nicht. Macht dich das nicht müde?</de>
+		<en>- And the heat does not bother you either. Doesn't this make you tired?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>Dr - Doch. Ìn dr Sunna schàffa màcht eim miad. Ìch hàlt jetz mìt schàffa, 's hàt mìr Durscht gaa. Mìr gehn eins ge trìnka.</als>
+		<fr>- Si. Travailler au soleil fatigue (rend fatigué). J'arrête maintenant de travailler, ça m'a donné soif. Nous allons boire un coup.</fr>
+		<de>- Doch. In der Sonne arbeiten macht müde. Ich höre jetzt auf zu arbeiten. Wir trinken ein Glas.</de>
+		<en>- Yes. Working under the sun makes one tired. Now I stop working, it made me thirsty. We're going to have a drink.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>miad_</id>
+		<als>S - Ja Àchtung! Wii trìnka màcht eim aui kàpütt. Un vìel trìnka gìtt eim Kopfweh.</als>
+		<fr>- Mais attention ! Boire du vin te casse aussi. Et boire beaucoup te donne mal à la tête.</fr>
+		<de>- Ja Achtung! Wein trinken macht auch kaputt. Und viel trinken gibt Kopfschmerzen.</de>
+		<en>- But be careful! Drinking wine will also bring you down. And drinking a lot gives you headache.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+
+
+
+
+
+<elem>
+<txt>Ce cours présente des pronomns personnels à l'accusatif et au datif.
+</txt>
+</elem>
+
+
+
+</kurs>
+

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Spaetzle</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>27/09/2009</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Spätzle</als>
+	</elem>
+
+	<elem titre="h2">
+		<als>Wàs ma brüücht</als>
+		<fr>Ce dont on a besoin</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>450 g Mahl</als>
+		<fr>450 g de farine</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>5 Eier</als>
+		<fr>5 oeufs</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>a klei Glàs Wàsser oder Mìlech</als>
+		<fr>un petit verre d'eau ou de lait</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>a bìtsi Sàlz</als>
+		<fr>un peu de sel</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>a bìtsi Pfaffer</als>
+		<fr>un peu de poivre</fr>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Rezapt</als>
+		<fr>Recette</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>D Eier schlàga.</als>
+		<fr>Battre les oeufs.</fr>
+	</elem>
+
+	<elem>
+		<als>S Mahl dràmàcha,</als>
+		<fr>Ajouter la farine,</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>un dr Sàlz un dr Pfaffer.</als>
+		<fr>et le sel et le poivre.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>S Wàsser dràschìtta</als>
+		<fr>Ajouter l'eau.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Àlles riahra bis es a Teig wìrd.</als>
+		<fr>Pétrir le tout pour obtenir une pâte.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>A hàlwa Stund loo rüehja.</als>
+		<fr>Laisser reposer une demi-heure.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wàsser loo kocha mìt'ma betsi Sàlz.</als>
+		<fr>Faire bouillir de l'eau avec un peu de sel.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìt'ma Knäpfla Àppàràt oder a Masser, kleina Stìckla mìt'em Teig màcha</als>
+		<fr>Avec un appareil à Knäpfla ou un couteau, faire des petits morceaux avec la pâte</fr>
+	</elem>
+
+	<elem fin="br">
+		<als> un dia Stìckla ìns kochenda Wàsser loh kèia.</als>
+		<fr> et laisser tomber ces morceaux dans l'eau bouillante.</fr>
+	</elem>
+
+
+
+
+</article>

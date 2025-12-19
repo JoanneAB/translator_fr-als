@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>D_Hax_vum_Wald</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>09/10/2008</date>
+	    <status>Brouillon ! A finir !</status>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>D Hax vum Wàld</als>
+		<fr>La sorcière de la forêt</fr>
+		<de>Die Hexe vom Wald</de>
+	</elem>
+
+	<elem>
+		<als>As ìsch a großer un tiafer Wàld ìm Sundgau.</als>
+		<fr>C'est une grande et profonde forêt dans le Sundgau.</fr>
+		<de>Es ist ein großer und tiefer Wald im Sundgau.</de>
+	</elem>
+
+	<elem>
+		<als>Do ìsch a àlta Hax gwohnt, wo Waldanna gheißa hàt.</als>
+		<fr>Une vielle sorcière habitait là, qui s'appelait Waldanna.</fr>
+		<de>Da wohnte eine alte Hexe, die Waldanna hieß.</de>
+	</elem>
+
+	<elem>
+		<als>Sa ìsch a so dunkel un màger un krumm gsìì, vu wittem hàt sa mehr wia-n-a Bàuim üsgsah, às wia-n-a Fràui.</als>
+		<fr>Elle était si sombre et maigre et tordue, de loin elle ressemblait plus à un arbre qu'à une femme.</fr>
+		<de>Sie war so dunkel und mager und krumm, von weit hat sie mehr wie eine Fee ausgesehen als wie eine Frau.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Sa hàt gànz allei glabt, mìt da Nàchtkütza un Fladermiis.</als>
+		<fr>Elle vivait toute seule, avec les hiboux et les chauves-souris.</fr>
+		<de>Sie lebte ganz allein, mit die Nachtkützen und die Fledermäuse.</de>
+	</elem>
+
+	<elem>
+		<als>Àwer àb un züe ìsch a junger Holzer ìn dr Wàld kumma, a Bàuim ku àbhàuia.</als>
+		<fr>Mais de temps en temps venait un jeune bûcheron dans la forêt, pour couper un arbre.</fr>
+		<de>Aber ab und zu kam ein junger Holzer in den Wald, ein Baum ab zu hauen.</de>
+	</elem>
+
+	<elem>
+		<als>Da Jung ìsch a so flott gsìì, groß un stàrck, mìt liawa brüüna Àuiga, ar hàt ìmmer a so scheen gsunga un, hàuipsachlig, ar ìsch gànz voll Respakt gsìì fer dr Wàld vu dr Hax.</als>
+		<fr>Ce jeune était si attirant, grand et fort, avec de tendres yeux bruns, il chantait toujours tellement bien et, le plus important, il était plein de respect pour le forêt de la sorcière.</fr>
+		<de></de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ar hàt wohl hìn un dà Baim àbghàuia, àwer numma vu da àlta Baim, un wo gràd kè Veegel drii gnaschta han.</als>
+		<fr>Il coupait bien ça et là des arbres, mais seulement de vieux arbres, et où aucun oiseau ne nichait.</fr>
+		<de>Er hat wohl Bäume abgehauen, aber nur alte Bäume, und wo gerade keine Vögel hinein genaschten haben.</de>
+	</elem>
+
+	<elem>
+		<als>Denn d Waldanna ìsch jo nìt a so-n-a beesa Hax gsìì: sa hàt d Nàtur garn ghàà.</als>
+		<fr>Car Waldanna n'était donc pas une si méchante sorcière : elle aimait la nature.</fr>
+		<de>Denn Waldanna war ja nicht so eine böse Hexe: sie liebte die Natur.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìhra Hüss ìsch a àlta hohla Eicha gsìì, a Bàuim wo wohrschins fàscht so àlt gsìì ìsch às dr Wàld!</als>
+		<fr>Sa maison était un vieux chêne creux, un arbre qui était surement presqu'aussi vieux que la forêt !</fr>
+		<de></de>
+	</elem>
+
+	<elem>
+		<als>D Waldanna hàt ìn da Menscha nìt gschàda, sa ìsch nia mìt'na zammakuh... bis da Tàg wo dr Holzer kumma ìsch.</als>
+		<fr>Waldanna ne nuisait pas aux humains, elle ne se mêlait pas à eux... jusqu'à ce jour où le bûcheron est venu.</fr>
+		<de></de>
+	</elem>
+
+	<elem>
+		<als>Ja, da hàt d Waldanna ìntressiart.</als>
+		<fr>Oui, celui-là intéressait Waldanna.</fr>
+		<de></de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wer hat dankt àss a àlta Hax verliabt kààt wara?...</als>
+		<fr>Qui eut cru qu'une vieille sorcière pouvait tomber amoureuse ?...</fr>
+		<de></de>
+	</elem>
+
+	<elem>
+		<als>Àlso, jeder Wìnter hàt dia àlta Hax a Freid ghàà, dr scheena Holzer z'kumma sah.</als>
+		<fr>Ainsi, chaque hiver, la vieille sorcière avait la joie de voir venir le beau bûcheron.</fr>
+		<de></de>
+	</elem>
+
+	<elem fin="br">

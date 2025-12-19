@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Elsass_Cola</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>03/10/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Elsass Cola</als>
+	</elem>
+
+	<elem>
+		<als>Elsass Cola ìsch d elsassischa Version vum Coca-Cola.</als>
+		<fr>Elsass Cola est la version alsacienne du Coca-Cola.</fr>
+		<de>Elsass Cola ist die elsässische Version vom Coca-Cola.</de>
+	</elem>
+
+	<elem>
+		<als>'s ìsch hargstellt vu dr Firma Lisbeth ìn Soultzmàtt, wo scho làng bekànnt ìsch fer ìhra Wàsserflascha.</als>
+		<fr>Il est fabriqué par l'entreprise Lisbeth à Soultzmatt, qui est depuis longtemps connue pour ses bouteilles d'eau.</fr>
+		<de>Es ist hergestellt von der Firma Lisbeth in Sulzmatt, die schon lang bekannt ist für ihre Wasserflaschen.</de>
+	</elem>
+
+	<elem>
+		<als>Ìm Ìnhàlt vum Elsass Cola ìsch: Wàsser vu dr Soultzmàttqualla, Zucker vu Erstein (beida regionàla Produkta), und natürella Aroma.</als>
+		<fr>Dans le contenu du Elsass Cola il y a : de l'eau des sources de Soultmatt, du sucre d'Erstein (tous deux des produits régionaux), et des arômes naturels.</fr>
+		<de>Im Inhalt vom Elsass Cola ist: Wasser von der Sulzmattqelle, Zucker von Erstein (beide regionale Produkte), und naturelle Aromen.</de>
+	</elem>
+
+	<elem>
+		<als>Ìm Summer 2008 hàt s Rezapt a bìtsi gchàngschiart: 6% Zucker weniger, jetzt sìn 10,5 gram Zucker / 100 ml Cola.</als>
+		<fr>En été 2008, la recette a un peu changé : 6% de sucre en moins, maintenant il y a 10,5 grammes de sucre / 100 ml de Cola.</fr>
+		<de>Im Sommer 2008 hat sich das Rezept ein bisschen geändert: 6% Zucker weniger, jetzt sin 10,5 gram Zucker / 100 ml Cola.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Logo vum Elsass Cola ìsch a luschtiga junga Elsassera, ààglìgt hàlwer mìt em tràditionella Tràcht, hàlwer sexy.</als>
+		<fr>Le logo de Elsass Cola est une jeune alsacienne amusante, vêtue à moitié en costume traditionnel, à moitié sexy.</fr>
+		<de>Der Logo vom Elsass Cola ist eine lustige junge Elsässerin, angezogen halb mit dem traditionellen Tracht, halb sexy.</de>
+	</elem>
+
+	<elem>
+		<als>Dr Elsass Cola fìndet ma zitter And 2004.</als>
+		<fr>On trouve l'Elsass Cola depuis la fin 2004.</fr>
+		<de>Der Elsass Cola findet man seit Ende 2004.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn da 8 erschta Moneta ìsch 1 Milliona Flascha verkàuift worra.</als>
+		<fr>Dans les 8 premiers mois, 1 million de bouteilles a été vendu.</fr>
+		<de>In den 8 ersten Monaten ist 1 Million Flaschen verkauft geworden.</de>
+	</elem>
+
+	<elem>
+		<img_fic>http://upload.wikimedia.org/wikipedia/als/3/3b/Elsass_Cola.jpg</img_fic>
+		<als>Flascha Elsass Cola</als>
+		<fr>Bouteille d'Elsass Cola</fr>
+		<de>Flasche Elsass Cola</de>
+		<img_h>400</img_h>
+	</elem>
+
+
+</article>

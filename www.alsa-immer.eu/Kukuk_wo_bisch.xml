@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Kukuk_wo_bisch</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>24/10/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Kukuk, wo bìsch?</als>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>Kukuk</als>
+		<fr>Coucou</fr>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Kukuk</als>
+		<fr>Coucou</fr>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>Wo bìsch?</als>
+		<fr>Où es-tu ?</fr>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Ìm Wàld</als>
+		<fr>Dans la forêt</fr>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>Wàs hàsch?</als>
+		<fr>Qu'as-tu ?</fr>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>A Frosch</als>
+		<fr>Une grenouille</fr>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>Gì'mìr aui</als>
+		<fr>Donne m'en aussi</fr>
+	</elem>
+
+	<elem italiq="1" fin="br">
+		<als>Nei nei</als>
+		<fr>Non non</fr>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>Gitzhàls! Bhàlt àlles!</als>
+		<fr>Avare ! Garde tout !</fr>
+	</elem>
+
+
+</article>

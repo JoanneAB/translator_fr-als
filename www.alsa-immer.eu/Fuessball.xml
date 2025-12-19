@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>Fuessball</nom_fic>
+<theme>Füeßbàll</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>23/09/2014</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+ 
+ 
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Sàlü Thomas! Hattsch Luscht, fer a Füeßbàllmatch ge lüega?</als>
+<fr>Salut Thomas ! Aurais-tu envie d’aller voir un match de foot ?</fr>
+<de>Hallo Thomas! Hättest du Lust, ein Fußballspiel schauen zu gehen?</de>
+<en>Hello Thomas! Would you like to go and see a football match?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Nàtiirlig, Joseph! Wàs ìsch dàs fer a Füeßbàllmatch?</als>
+<fr>Naturellement, Joseph ! C’est quoi comme match de foot ?</fr>
+<de>Natürlich Joseph! Was ist es für ein Fußballspiel?</de>
+<en>Of course, Joseph! What is this football match like?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>FCM gega PSG II. Àlso Milhüüsa gega Pàris.Wottsch hìtt z'Owa mìt mìr kumma?</als>
+<fr>FCM contre PSG II. C’est-à-dire Mulhouse contre Paris. Voudrais-tu venir avec moi ce soir ?</fr>
+<de>FCM gegen PSG II. Also Mülhausen gegen Paris. Möchtest du heute Abend mit mir kommen?</de>
+<en>FCM against PSG II. That is to say, against Mulhouse Paris. Would you to come with me this evening?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ja, ammel! Wàrt bis i grìschta bì, mìr gehn mìtnànder.</als>
+<fr>Oui bien sûr ! Attends que je sois prêt, nous y allons ensemble.</fr>
+<de>Ja natürlich! Warte, bis ich bereit bin, wir gehen zusammen.</de>
+<en>Yes of course! Wait till I'm ready, we go together.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ìch hoff, mìr sahn scheena Goal.</als>
+<fr>J’espère que nous verrons de beaux buts.</fr>
+<de>Ich hoffe, wir sehen schöne Toren.</de>
+<en>I hope we will see good goals.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ìch hoff àss Pàris gwìnnt.</als>
+<fr>J’espère que Paris va gagner.</fr>
+<de>Ich hoffe, dass Paris gewinnt.</de>
+<en>I hope that Paris will win.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Pfff... Ìch hoff àss Milhüüsa gwìnnt. Ìch bì kè Pàrisser!</als>
+<fr>Pfff... Moi j’espère que Mulhouse gagne. Je ne suis pas un Parisien !</fr>
+<de>Pfff... Ich hoffe, dass Mülhausen gewinnt. Ich bin kein Pariser!</de>
+<en>Pfff... I hope that Mulhouse wins; I am not a Parisian!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Jo... Àwer ìch weiß àss d Pàrisser besser spìela àss d Milhüüser.</als>
+<fr>Ouais bon... Mais je sais que les Parisiens jouent mieux que les Mulhousiens.</fr>
+<de>Na ja... Aber ich weiß, dass die Pariser besser spielen als die Mülhaüser.</de>
+<en>Well... But I know that Parisians play better than Mulhousians.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Mìr wara scho sah wer àm beschta spìelt.</als>
+<fr>Nous verrons bien qui joue le mieux.</fr>
+<de>Wir werden sehen, wer am besten spielt.</de>
+<en>We'll see who plays the best.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ìch bì sìcher àss dr PSG II gwìnnt.</als>
+<fr>Je suis sûr que le PSG II va gagner.</fr>
+<de>Ich bin sicher, dass der PSG II gewinnen wird.</de>
+<en>I'm sure that the PSG II is going to win.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ma kààt numma sìcher sìì wenn àm And d Resültàta stehn. Ìch glàuib àss mìr gràd ìn dr Zitt ààkämma: ìch sìeh d Spìeler uf dr Füeßbàllplàtz ku làuifa.</als>
+<fr>On peut seulement être sûr quand à la fin les résultats sont affichés. Je crois que nous arrivons juste à temps : je vois les joueurs venir marcher sur le terrain.</fr>
+<de>Man kann nur sicher sein, wenn am Ende das Ergebnis steht. Ich glaube, dass wir gerade in der Zeit ankommen: ich sehe die Spieler auf den Fußballplatz kommen.</de>
+<en>We can only be sure when at the end the results are displayed. I think we arrive just in time: I see the players come out and walk on the ground.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Zwànzig Minütta speeter.</als>
+<fr>Vingt minutes plus tard.</fr>
+<de>Zwanzig Minuten später.</de>
+<en>Twenty minutes later.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Fìndsch nìt àss Pàris vìel besser spìelt? Ma sìeht sa mehr renna.</als>
+<fr>Ne trouves-tu pas que Paris joue beaucoup mieux ? On les voit plus courir.</fr>
+<de>Glaubst du nicht, dass Paris viel besser spielt? Man sieht sie mehr laufen.</de>
+<en>Don't you think that Paris plays much better? We can see them run more run.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Fuessball_</id>
+<als>Jo... Mìr wàrta ìmmer noch àss a Goal gschossa wìrd.</als>
+<fr>Oui bon... Nous attendons toujours encore qu’un but soit marqué.</fr>
+<de>Na ja... Wir warten immer noch dass ein Tor geschossen wird.</de>
+<en>Well... We are still waiting for a goal being shot.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Fuessball_</id>
+<als>Ìch frogg mìch äb mìr noch làng mian wàrta fer eins sah.</als>
+<fr>Je me demande si nous devons encore attendre longtemps pour en voir un.</fr>
+<de>Ich frage mich, ob wir noch lange warten müssen um eins zu sehen.</de>
+<en>I wonder if we still have to wait a long time to see one.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Fuessball_</id>
+<als>Ìch frogg mìch äb mìr ìwerhàuipt Goal sahn.</als>
+<fr>Je me demande si nous allons seulement voir des buts.</fr>
+<de>Ich frage mich ob mir überhaupt Tore sehen.</de>
+<en>I wonder if we will see any goals at all.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Fuessball_</id>
+<als>Viarzig Minütta speeter.</als>
+<fr>Quarante minutes plus tard.</fr>
+<de>Vierzig Minuten später.</de>
+<en>Forty minutes later.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Hàsch gsah wia da Spìeler grobb gsìì ìsch? Ìch glàuib, as gìtt a Penalty.</als>
+<fr>Tu as vu comme ce joueur a été brutal ? Je crois qu’il va y avoir un penalty.</fr>
+<de>Hast du gesehen, wie dieser Spieler brutal war? Ich denke, es wird eine Strafe geben.</de>
+<en>Did you see how this player was brutal? I think there will be a penalty.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Oh nei! Un a Goal fer dr FCM...</als>
+<fr>Oh non ! Et un but pour le FCM...</fr>
+<de>Oh nein! Und ein Tor für den FCM...</de>
+<en>Oh no! And a goal for the FCM...</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Noh dr Hàlbzitt.</als>
+<fr>Après la mi-temps.</fr>
+<de>Nach der Halbzeit.</de>
+<en>After halftime.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ìch bì trüürig àss Pàris verliart, àwer ìch glàuib doch àss sa gwìnna. Sìesch nìt wia sa güet spìela?</als>
+<fr>Je suis triste que Paris perde, mais je crois quand même qu’ils vont gagner. Ne vois-tu pas comme ils jouent bien ?</fr>
+<de>Ich bin traurig, dass Paris verliert, aber ich glaube immer noch, dass sie gewinnen werden.  Siehst du nicht, wie sie gut spielen?</de>
+<en>I am sad that Paris is losing, but I still think they will win. Don't you see how they play well?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Jo... Ìch fìnd àss Milhüüsa gràd so güet spìelt. Wìrsch sah wer àm And àm meischta Goal hàt.</als>
+<fr>Oui bon... Je trouve que Mulhouse joue tout aussi bien. Tu verras qui aura le plus de buts à la fin.</fr>
+<de>Na ja... Ich finde, dass Mulhouse genauso gut spielt. Du wirst sehen, wer am Ende am meisten Tore hat.</de>
+<en>Well... I think that Mulhouse is playing just as well. You'll see who has most goals at the end.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Aha! Ìch glàuib, jetz wìrd's gfahrlig fer dr FCM. Un ei Goal fer dr PSG! Eins! Ìch hoff àss sa noch a zweits inabrìnga!</als>
+<fr>Ah ! Je crois que maintenant ça devient dangereux pour le FCM. Et un but pour le PSG ! Un ! J’espère qu’ils en rentrent encore un deuxième !</fr>
+<de>Aha! Ich glaube, jetzt wird's gefährlich für den FCM.  Und ein Tor für PSG! Eins!  Ich hoffe, sie bringen noch ein zweites hinein!</de>
+<en>Ah! I think now it becomes dangerous for the FCM. And one goal for PSG! One! I hope they still put in a second one!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Kurz vor em And vum Match.</als>
+<fr>Peu avant la fin du match.</fr>
+<de>Kurz vor dem Ende des Spiels.</de>
+<en>Short before the end of the match.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Un a zweits Goal fer dr PSG! Ìch glàuib, jetz han mìr gwunna!</als>
+<fr>Et un deuxième but pour le PSG ! Je crois que maintenant nous avons gagné !</fr>
+<de>Und ein zweites Tor für PSG! Ich glaube, jetzt haben wir gewonnen!</de>
+<en>And a second goal for PSG! Now I think we won!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Jo...</als>
+<fr>Ouais...</fr>
+<de>Ja...</de>
+<en>Well...</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Zwei Minütta speeter.</als>
+<fr>Deux minutes plus tard.</fr>
+<de>Zwei Minuten später.</de>
+<en>Two minutes later.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ja, ìsch denn da Match noh nìt fertig? Ìch glàuib, dr Arbitr vergìsst z'pfiffa, denn 's ìsch fertig!</als>
+<fr>Mais, ce match n’est donc pas encore terminé ? Je crois que l’arbitre oublie de siffler, car c’est terminé !</fr>
+<de>Ja, ist denn dieses Spiel ist noch nicht fertig? Ich glaube, der Schiedsrichter vergisst zu pfeifen, denn es ist fertig!</de>
+<en>But, is this game not finished yet? I think the referee forgets to whistle, as it is finished!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Müesch wàrta bis d Ìwerzitt umma ìsch. Oh, lüeg! Ìch glàuib's gìtt a Goal fer dr FCM! Oh ja! Goal!</als>
+<fr>Tu dois attendre que le temps additionnel soit passé. Oh, regarde ! Je crois qu’il y aura un but pour le FCM ! Oh oui ! But !</fr>
+<de>Du musst warten, bis der Nachspielzeit vorbei ist. Oh, schau! Ich glaube, es gibt ein Tor für FCM! Oh ja! Tor!</de>
+<en>You have to wait until additional time has passed. Oh, look! I think there will be a goal for FCM! Oh yes! Goal!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Pfff... A so-n-a scheener Match wo mìt match nul fertig geht. Ìch mein, dàs ìsch a Schànd.</als>
+<fr>Pfff... Un si beau match qui se termine avec un match nul. Je trouve que c’est une honte.</fr>
+<de>Pfff... So ein schönes Spiel, das mit einem Unentschieden endet. Ich meine, das ist eine Schande.</de>
+<en>Pfff... Such a beautiful game that ends with a draw.  I think it's a shame.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Fuessball_</id>
+<als>Ìch glàuib, dü weisch noh nìt wia Füeßbàll làuift. Vor ebb's gànz fertig ìsch, brüücht ma nìt so pràhla.</als>
+<fr>Je crois que tu ne sais pas encore comment marche le football. Avant que ce ne soit complètement fini, on n’a pas à fanfaronner.</fr>
+<de>Ich glaube, du weißt noch nicht, wie Fußball funktioniert. Bevor es komplett fertig ist, braucht man nicht zu prahlen.</de>
+<en>I think you still do not know how football works. Before it is completely finished, it's not worth to gloat.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+ 
+ 
+ 
+<elem>
+<txt>Ce cours présente les propositions subordonnées.
+</txt>
+</elem>
+ 
+  
+</kurs>

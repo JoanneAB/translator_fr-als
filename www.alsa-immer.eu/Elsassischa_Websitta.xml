@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Elsassischa_Websitta</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>21/12/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Elsassischa Websitta</als>
+		<fr>Site web alsaciens</fr>
+		<de>Elsässische Websites</de>
+	</elem>
+
+
+	<elem fin="hr"/>
+
+
+	<elem titre="h3">
+		<als>Association Culture et Biliguisme d'Alsace et de Moselle</als>
+	</elem>
+
+
+	<elem fin="br">
+		<link>http://www.culture-bilinguisme.eu/</link>
+		<als>http://www.culture-bilinguisme.eu/</als>
+	</elem>
+
+	<elem fin="hr"/>
+
+
+
+
+	<elem titre="h3">
+		<als>Dr elsassischa Dialekt (Archive)</als>
+		<fr>Le dialecte alsacien (archive)</fr>
+		<de>Der elsässische Dialekt (Archive)</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://web.archive.org/web/20070803013706/http://dialecte.alsacien.free.fr/</link>
+	</elem>
+
+	<elem fin="hr"/>
+
+
+
+
+
+	<elem titre="h3">
+		<als>Elsassisch reda: a Stolz </als>
+		<fr>Parler alsacien : une fierté</fr>
+		<de>Elsässisch reden: ein Stoltz</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Vum Yves Bisch</als>
+		<fr>D'Yves Bisch</fr>
+		<de>Von Yves Bisch</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://bischyves.monsite-orange.fr/</link>
+		<als>http://bischyves.monsite-orange.fr/</als>
+	</elem>
+
+	<elem fin="hr"/>
+
+
+
+
+
+	<elem titre="h3">
+		<als>Heimetsproch ùn Tràdition</als>
+		<fr>Association pour la promotion du dialecte Alsacien</fr>
+		<de>Heimetsprache und Tradition</de>
+	</elem>
+
+
+	<elem titre="h3">
+		<als>ÌM SEVETA HÌMMEL</als>
+		<fr>Au septième ciel</fr>
+		<de>Im siebten Himmel</de>
+	</elem>
+
+
+	<elem fin="br">
+		<img_fic>http://imsevetahimmel.moi.fr/photosfotoland/ange%20au%20dessus%20cadre.jpg</img_fic>
+		<img_h>80</img_h>
+	</elem>
+
+	<elem fin="br">
+		<als>Vum Benoît Behra</als>
+		<fr>De Benoît Behra</fr>
+		<de>Von Benoît Behra</de>
+	</elem>
+
+	<elem fin="br">
+		<als>A zweisprochiger Site ìwer elsassischer Théàter</als>
+		<fr>Un site bilingue sur le théâtre alsacien</fr>
+		<de>Ein zweisprachige Site über elsässischer Theater</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://imsevetahimmel.moi.fr/</link>
+
+
+	<elem titre="h3">
+		<als>ÌM SEVETA HÌMMEL, dr Forum</als>
+		<fr>Au septième ciel, le forum</fr>
+		<de>Im siebtem Himmel, </de>
+	</elem>
+
+	<elem fin="br">
+		<als>A elsassischa Forum</als>
+		<fr>Un forum alsacien</fr>
+		<de>Ein elsässisches Forum</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://imsevetahimmel.forumotion.com/</link>
+		<als>http://imsevetahimmel.forumotion.com/</als>
+	</elem>
+
+	<elem fin="hr"/>
+
+
+
+
+
+
+
+
+	<elem titre="h3">
+		<als>Liederbrunne</als>
+		<fr>Fontaine de chansons</fr>
+		<de>Liederbrunne</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://www.liederbrunne.eu/incl-img/logo.jpg</img_fic>
+	</elem>
+
+	<elem fin="br">
+		<als>A Site ìwer d Liader un CD uf Elsassisch</als>
+		<fr>Un site sur les chansons et les CD en alsacien</fr>
+		<de>Ein Site über die Lieder und CD auf Elsässisch</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.liederbrunne.eu/</link>
+		<als>http://www.liederbrunne.eu/</als>
+	</elem>
+
+	<elem fin="hr"/>
+
+	<elem fin="br">
+		<als>de web uf Elsässisch</als>
+		<fr>le web en alsacien</fr>
+		<de>dr Web auf Elsässisch</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Àlemànnisch</als>
+		<fr>Alémanique</fr>
+		<de>Alemannisch</de>
+	</elem>
+
+
+
+	<elem titre="h3">
+		<als>Im Noth Harald si BRIÄF ÜS ALEMANNIÄ</als>
+		<fr>La lettre d'Alémanie d'Harald Noth</fr>
+		<de>Im Noth Harald sein Brief aus Alemania</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://www.noth.net/atitel.jpg</img_fic>
+		<img_h>70</img_h>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.noth.net/</link>
+		<als>http://www.noth.net/</als>
+	</elem>
+
+
+	<elem fin="br">
+		<img_fic>album/Matterhorn-Banner_468x60.jpg</img_fic>
+		<als>Di freyi Enzyklopedy</als>
+		<fr>L'encyclopédie libre</fr>
+		<de>Die freie Enzyklopädie</de>
+	</elem>
+
+	<elem titre="h1">
+		<als>Elsassischa Wärterbiacher</als>
+		<fr>Lexiques alsaciens</fr>
+		<de>Elsässische Wörterbücher</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Vum André Nisslé</als>
+		<fr>D'André Nisslé</fr>
+		<de>Von André Nisslé</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.elsassisch.eu/culture.alsace.pagesperso-orange.archive/dictionnaire_alsacien.htm</link>
+		<als>http://www.elsassisch.eu/culture.alsace.pagesperso-orange.archive/dictionnaire_alsacien.htm</als>
+	</elem>
+	
+	<elem fin="br">
+		<als>Vum OLCA</als>
+		<fr>De l'OLCA</fr>
+		<de>Von dem OLCA</de>
+	</elem>
+	<elem fin="br">
+		<als>Vum François Alby</als>
+		<fr>De François Alby</fr>
+		<de>Vom François Alby</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Vum Ernst Martin un Hans Lienhart</als>
+		<fr>De Ernst Martin et Hans Lienhart</fr>
+		<de>Vom Ernst Martin und Hans Lienhart</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Vum Henry, Victor</als>
+		<fr>De Henry, Victor</fr>
+		<de>Vom Henry, Victor</de>
+	</elem>
+
+
+</article>

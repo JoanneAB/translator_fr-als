@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>S_Sprochatheater</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>22/04/2010</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>S Sprochatheàter</als>
+		<fr>Le théâtre des langues</fr>
+		<de>Das Sprachentheater</de>
+	</elem>
+
+	<elem>
+		<als>Ìm großa Theàter vu da Sprocha wìrd ghandelt.</als>
+		<fr>Dans le grand théâtre des langues, on se dispute.</fr>
+		<de>Im großen Theater der Sprachen wird gestritten.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Jeda Sproch wìll mehr sìì às d Àndra.</als>
+		<fr>Chaque langue veut être plus que les autres.</fr>
+		<de>Jede Sprache will mehr sein als die Andere.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>S Làtiinischa, s Hébràischa un s Àràwischa han scho Kràch wial sa nìt ìn d gliicha Kìrch gehn.</als>
+		<fr>La latin, l'hébreu et l'arabe sont déjà brouillés parce qu'ils ne vont pas dans la même église.</fr>
+		<de>Das Lateinische, das Hebräische und das Arabische haben schon Ärger weil sie nicht in die gleichen Kirche gehen.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<img_fic>http://upload.wikimedia.org/wikipedia/commons/5/55/Croix_roquemore.jpg</img_fic>
+		<img_h>100</img_h>
+		<als>tot...</als>
+		<fr>morte...</fr>
+		<de>tot...</de>
+	</elem>
+
+	<elem>
+		<als>S Làtinischa gheert ammel zu da tota Sprocha.</als>
+		<fr>Le latin fait évidemment partie des langues mortes.</fr>
+		<de>Das Lateinische gehört natürlich zu den toten Sprachen.</de>
+	</elem>
+
+	<elem>
+		<als>Àwer wàs heißt wìrklig "tot"?</als>
+		<fr>Mais que signifie réellement "mort" ?</fr>
+		<de>Aber was heißt wirklich "tot"?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ma kännt zwàr meina àss d tota Sprocha sìch gàr nìmm mücksa, àwer teil wann doch noch wìchtig màcha!</als>
+		<fr>On pourrait certes penser que les langues mortes ne se manifestent plus du tout, mais certaines veulent quand même encore se donner de l'importance !</fr>
+		<de>Man könnte zwar meinen dass die tote Sprachen sich gar nicht mehr mucksen, aber manche wollen doch noch wichtig machen!</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem>
+		<als>Dr klei elsassischa Dialekt hàt scho Sorga ghàà: s Frànzeescha un s Hochditscha prowiara standig fer'na unterz'drucka...</als>
+		<fr>Le petit dialecte alsacien a déjà eu des soucis : le français et l'allemand essaient continuellement de le réprimer...</fr>
+		<de>Der klein elsässischen Dialekt hatte schon Sorgen: das Französische und das Hochdeutsche probieren ständig ihn unterzudrücken...</de>
+	</elem>
+
+	<elem>
+		<als>Do kummt si Frìnd, s Àlemànnischa, ìhm ku halfa, àwer dr elsassischa Dialekt hàt dàs numma hàlwer so garn.</als>
+		<fr>Alors son ami, l'alémanique, lui vient en aide, mais le dialecte alsacien n'apprécie cela qu'à moitié.</fr>
+		<de>Da kommt sein Freund, das Alemannische, ihm helfen, aber der elsässische Dialekt hat das nur halb so gern.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Denn wenn er z'vìel mìt'em Àlemànnischa geht, wìrd s Fränkischa ifersìchtig, dàs ìsch aui nìt güet.</als>
+		<fr>Car s'il va trop avec l'alémanique, le francique devient jaloux, ça n'est pas non plus bon.</fr>
+		<de>Denn wenn er zu viel mit dem Alemannischen geht, wird das Fränkische eifersüchtig, das ist auch nicht gut.</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>http://upload.wikimedia.org/wikipedia/commons/b/bb/Map_symbol_theatre_02.png</img_fic>
+		<img_h>200</img_h>
+		<als>Theàter</als>
+		<fr>théâtre</fr>
+		<de>Theater</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem>
+		<als>Zitter a Rung sìn àlla Dialekta wiatig: sa wann gliich so güet àgsah wara às d offiziella Sprocha.</als>
+		<fr>Depuis un moment, tous les dialectes sont en colère : ils veulent être aussi bien considérés que les langues officielles.</fr>
+		<de>Seit eine Weile sind alle Dialekten wütend: sie wollen gleich so gut angesehen werden als die offizielle Sprachen.</de>
+	</elem>
+
+	<elem>
+		<als>Do gìtt's a so Schlàgwärter:</als>
+		<fr>Il y a ce genre de slogans :</fr>
+		<de>Da gibt es so Schlägwörter:</de>
+	</elem>
+
+	<elem>
+		<als>"Mìr sìn d rìchtiga Müetersprocha",</als>
+		<fr>"Nous sommes les vraies langues maternelles",</fr>
+		<de>"Wir sind die richtige Muttersprachen",</de>
+	</elem>
+
+	<elem>
+		<als>"Mìr sìn scho vorhar do gsìì, vor d offiziella Sprocha",</als>
+		<fr>"Nous étions déjà là avant, avant les langues officielles",</fr>
+		<de>"Wir waren schon vorher da", vor den offiziellen Sprachen",</de>
+	</elem>
+
+	<elem>
+		<als>"Wàs ìsch dr Unterschìed zwìscha Sproch un Dialekt: numma Flott un Àrmee",</als>
+		<fr>"Quelles est la différence entre langue et dialecte : seulement une flotte et une armée",</fr>
+		<de>"Was ist der Unterschied zwischen Sprache und Dialekt: nur Flott und Armee",</de>
+	</elem>
+
+	<elem>
+		<als>"Egàlität fer àlla Sprocha !".</als>
+		<fr>"Egalité pour toutes les langues !"</fr>
+		<de>"Egalität für alle Sprachen !"</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Do geht's züe!</als>
+		<fr>Comme ça y va !</fr>
+		<de>Da geht es zu!</de>
+	</elem>
+
+	<elem>
+		<als>Doletscht hàt s Frànzeescha ìm Bretonischa gsajt àss ìm Frànkrìch numma ei Sproch sott sìì;</als>
+		<fr>Récemment, le français a dit au breton qu'en France il ne devrait y avoir qu'une langue ;</fr>
+		<de>Vor kurzem hat das Französische im Bretonischen gesagt, dass im Frankreich nur eine Sprache sein sollte;</de>
+	</elem>
+
+	<elem>
+		<als>s Korsischa ìsch dernoh direkt a Bumba geh àhna lìega.</als>
+		<fr>le corse est alors directement allé poser une bombe.</fr>
+		<de>das Korsische ging danach direkt eine Bombe liegen.</de>
+	</elem>
+
+	<elem>
+		<als>Zum Glìck hàt's niama koschta.</als>
+		<fr>Par chance elle n'a pas fait de victime.</fr>
+		<de>Zum Glück gab es kein Opfer.</de>
+	</elem>
+
+	<elem>
+		<als>Denn as starwa scho gnüe Sprocha, dàdo...</als>
+		<fr>Parce qu'il y a déjà assez de langues qui meurent, ces temps-ci...</fr>
+		<de>Denn es sterben schon genug Sprachen, heutzutage...</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un vìelmol ohna großa Begrabnis.</als>
+		<fr>Et souvent sans grand enterrement.</fr>
+		<de>Und vielmals ohne große Begräbnis.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<img_fic>http://upload.wikimedia.org/wikipedia/commons/0/0f/Sagem_My700xd.png</img_fic>
+		<img_h>100</img_h>
+		<als>SMS</als>
+	</elem>
+
+	<elem>
+		<als>S Bleedschta ìsch àss d nèia Sprocha wo uf d Walt kumma àlla so wiascht sìn.</als>
+		<fr>Le plus bête, c'est que les nouvelles langues qui viennent au monde sont toutes tellement laides.</fr>
+		<de>Das Blödste ist dass die neuen Sprachen, die auf die Welt kommen, alle so hässlich sind.</de>
+	</elem>
+
+	<elem>
+		<als>D Letschta heißt "SMS-Sproch"; dia ìsch zwàr làwandig, àwer niama fìndet's rìchtig scheen.</als>
+		<fr>La dernière s'appelle "langage SMS" ; elle est certes active, mais personne ne la trouve vraiment belle.</fr>
+		<de>Die Letzte heißt "SMS-Sprache"; diese ist zwar lebendig, aber niemand findet es richtig schön.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ma meint, 's ìsch wia wenn a Krànket d Sprocha àgsteckt hat, as geht ìhna nìt so güet...</als>
+		<fr>On dirait, c'est comme si une maladie avait atteint les langues, elles ne se portent pas si bien...</fr>
+		<de>Man meint, es ist wie wenn eine Krankheit die Sprachen angesteckt hätte, es geht ihnen nicht mehr so gut...</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem>
+		<als>Wìsse-n-ìhr wàs àm And pàssiart ìsch?</als>
+		<fr>Savez-vous ce qui est arrivé à la fin ?</fr>
+		<de>Weißt ihr was am Ende geschah?</de>
+	</elem>
+
+	<elem>
+		<als>Schliaßlig hàt s Anglischa a Putsch gmàcht, hàt gsajt àss es ìwer àlla àndra Sprocha wìll herrscha,</als>
+		<fr>Finalement, l'anglais a fait un putsch, a dit qu'il allait dominer toutes les autres langues,</fr>
+		<de>Schließlich hat das Englische ein Putsch gemacht, hat gesagt dass es über alle anderen Sprachen herrschen will,</de>
+	</elem>
+
+	<elem>
+		<als>wial sa doch numma regionàla Sprocha sèiga - dia àlla brüücht ma jo nìt -</als>
+		<fr>car elles ne seraient quand même que des langues régionales - on n'en a donc pas besoin -</fr>
+		<de>weil sie doch nur regionale Sprachen seien - die alle braucht man ja nicht -</de>
+	</elem>
+
+	<elem fin="br">
+		<als>un 's ìsch vorgsah àss dia àlla àndra Sprocha exterminiart wara, ìm naachschta Johrhundert!</als>
+		<fr>et il est prévu que toutes ces autres langues soient exterminées, au cours du prochain siècle !</fr>
+		<de>und es ist vorgesehen dass diese alle anderen Sprachen exterminiert werden, im nächsten Jahrhundert!</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem>
+		<als>...as sott scho sìì àss sìch a pààr Sprocha güet wehra.</als>
+		<fr>...à moins que certaines langues se défendent bien.</fr>
+		<de>...es sollte schon sein dass sich ein paar Sprachen gut wehren.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wer weiß?</als>
+		<fr>Qui sait ?</fr>
+		<de>Wer weiß?</de>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem fin="br"/>
+
+
+	<elem fin="br">
+		<link>http://aljazeera.com/news/articles/34/Half-of-languages-may-vanish-by-2100.html</link>
+		<link>MAL VU : http://www.presstv.ir/detail.aspx?id=126546&amp;sectionid=3510212</link>
+		<als>Half of languages may vanish by 2100 - D Hälfta vu da Sprocha verschwìndet wohrschins bis 2010</als>
+		<fr>La moitié des langues pourrait disparaître d'ici 2010</fr>
+		<de>Die Hälfte der Sprachen verschwindet wahrscheinlich bis 2010</de>
+	</elem>
+
+
+</article>

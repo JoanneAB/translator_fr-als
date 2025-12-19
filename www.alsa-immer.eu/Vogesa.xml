@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>Vogesa</nom_fic>
+<theme>A Üsflug ìn da Vogesa</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>05/04/2015</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+ 
+ 
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>Hìtt gìtt's a Üsflug.</als>
+<fr>Aujourd'hui, il y a une excursion.</fr>
+<de>Heute gibt es ein Ausflug.</de>
+<en>Today, there will be an excursion.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>Dr Joseph, s Lisala, dr Thomas un a pààr Frìnd gehn ìn da Vogesa ge làuifa.</als>
+<fr>Joseph, Lisala, Thomas et quelques amis vont marcher dans les Vosges.</fr>
+<de>Joseph, Lisala, Thomas und einige Freunde gehen in die Vogesen wandern.</de>
+<en>Joseph, Lisala, Thomas and some friends go for a walk in the Vosges.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+<elem>
+<id>Vogesa_</id>
+<als>(D Vogesa sìn d Barga ìm Weschta vum Elsàss.)</als>
+<fr>(Les Vosges sont les montagnes à l'Ouest de l'Alsace.)</fr>
+<de>(Die Vogesen sind die Berge im Westen des Elsass.)</de>
+<en>(The Vosges are the mountains at the west of Alsace.)</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Mìr làuifa därt uffa, bis àn s Kritz.</als>
+<fr>- Nous marchons jusque là-haut, jusqu'à la croix.</fr>
+<de>- Wir gehen dort hinauf, bis an das Kreuz.</de>
+<en>- We walk up there, till the cross.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Wo ìsch a Kritz?</als>
+<fr>- Où y a-t-il une croix ?</fr>
+<de>- Wo ist ein Kreuz?</de>
+<en>- Where is a cross?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- 's ìsch därt owa, uf em Buckel.</als>
+<fr>- Elle est là-haut, sur la colline.</fr>
+<de>- Es ist dort oben, auf dem Buckel.</de>
+<en>- It's up there, on the hill.</en>
+<audio/>
+</elem>
+
+
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Mìr gehn do uffa.</als>
+<fr>- Nous allons là-haut.</fr>
+<de>- Wir gehen dort oben.</de>
+<en>- We're going up there.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Wo? Därt owa? So hoch?</als>
+<fr>- Où ? Là haut ? Si haut ?</fr>
+<de>- Wo ? Dort oben ? So hoch ?</de>
+<en>- Where? Up there? So high?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Eh jo. Jeder kààt do uffalàuifa!</als>
+<fr>- Ben oui. N'importe qui peut marcher jusque là-haut!</fr>
+<de>- Ja. Jeder kann da hinauf gehen!</de>
+<en>- Well yes. Anyone can walk up there!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- D Junga làuifa vorna dràà.</als>
+<fr>- Les jeunes marchent devant.</fr>
+<de>- Die Jungen gehen vorne daran.</de>
+<en>- The young people walk at the front.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als> - Noh gàng i fìra.</als>
+<fr> - Alors je vais devant.</fr>
+<de> - Dann gehe ich nach vorn.</de>
+<en>  - Then I go to the front.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als> - Wo ìsch denn dr Thomas?</als>
+<fr>- Ou est donc Thomas ?</fr>
+<de> - Wo ist denn Thomas?</de>
+<en> - But where is Thomas?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Lüeg, do kummt'r! Ar kummt vu hìnta fìra.</als>
+<fr>- Regarde, il vient ! Il s'avance depuis tout derrière.</fr>
+<de>- Schau, da kommt er! Er kommt von hinten vorn.</de>
+<en>- Look, here he's coming! He comes from behind to the front.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als> - Ìch blibb liawer dhìnta.</als>
+<fr> - Je préfère rester derrière.</fr>
+<de> - Ich bleibe lieber dahinten.</de>
+<en> - I'd rather stay behind.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Oh je, jetz fàngt's à ragna.Zum Glìck gìtt's do a Wìrtschàft. Hopla, mìr gehn do ina!</als>
+<fr>- Oh yé, maintenant il commence à pleuvoir.Heureusement, il y a ici une auberge. Hopla, on entre ici !</fr>
+<de>- Oh, jetzt fängt es an zu regnen.Zum Glück gibt es da eine Kneipe. Hopla, wir gehen da hinein!</de>
+<en>- Oh, now it begins to rain.Fortunately, here is a tavern. Hopla, we enter here!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Mìr sìn jetz àlla dìnna.Mìr bstella ebbis z assa.</als>
+<fr>- Nous sommes maintenant tous dedans.Nous commandons quelque chose à manger.</fr>
+<de>- Wir sind jetzt alle drinnen.Wir bestellen etwas zu essen.</de>
+<en>- We are now all inside.We order something to eat...</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>Dr Thomas un d Odile sìtza nàtiirlig binànder...</als>
+<fr>Thomas et Odile s'assoient naturellement ensemble...</fr>
+<de>Thomas und Odile sitzen natürlich beieinander...</de>
+<en>Of course, Thomas and Odile sit together...</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- 's hàltet mìt ragna. Mìr gehn üssa.</als>
+<fr>- Il cesse de pleuvoir. Nous sortons.</fr>
+<de>- Es hört auf zu regnen. Wir gehen hinaus.</de>
+<en>- It stops raining. We go out.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Sìn àlla do?</als>
+<fr>- Est-ce que tout le monde est là?</fr>
+<de>- Sind alle da?</de>
+<en>- Is everyone here?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Nei, as fahla noch zwei: dr Thomas un s Odile sìn noch dìnna.</als>
+<fr>- Non, il en manque deux: Thomas et Odile sont encore dedans.</fr>
+<de>- Nein, es fehlen zwei: Thomas und Odile sind noch drinnen.</de>
+<en>- No, two are missing: Thomas and Odile are still inside.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Nei, sa sìn scho duss.Ìch hà sa gsah üssa geh.</als>
+<fr>- Non, ils sont déjà dehors.Je les ai vus sortir.</fr>
+<de>- Nein, sie sind schon draußen.Ich habe sie heraus gehen gesehen.</de>
+<en>- No, they are already outside.I saw them go out.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Mìr mian ìhna riafa: Thomas!... Odile!...</als>
+<fr>- Nous devons les appeler: Thomas!... Odile!...</fr>
+<de>- Wir müssen ihnen rufen: Thomas!... Odile!...</de>
+<en>- We have to call them: Thomas!..; Odile!...</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Lüeg, do sìn sa!Sa kämma vu da Heerscht üssa.</als>
+<fr>- Regarde, ils sont là !Ils sortent des buissons.</fr>
+<de>- Schau, sie sind da!Sie kommen von den Horsten heraus.</de>
+<en>- Look, they are here!They come out of the bushes.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Ha ha! Dia Junga han mìtnànder gschmüüst!</als>
+<fr>- Ha ha ! Ces jeunes se sont fait des câlins !</fr>
+<de>- Ha ha! Diese Jungen haben miteinander geschmust!</de>
+<en>- Ha ha! These young people have cuddled together!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als> - Eh nei! Mìr sìn numma ìn dr Neecha ummagloffa...</als>
+<fr> - Mais non ! On s'est juste promené dans les environs...</fr>
+<de> - Eh nein! Wir sind nur in der Nähe herumgegangen...</de>
+<en> - No! We just walked around the area...</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>A Rung speeter...</als>
+<fr>Un moment plus tard...</fr>
+<de>Eine Weile später...</de>
+<en>A moment later...</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Wàs lüegsch àà?</als>
+<fr>- Que regardes-tu ?</fr>
+<de>- Was schaust du an?</de>
+<en>- What are you looking at?</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Ìch lüeg ìns Tàl unta.Dunta schiint àlles klei.</als>
+<fr>- Je regarde en-bas dans la vallée.En-bas tout paraît petit.</fr>
+<de>- Ich schaue ins Tal unten.Daunten scheint alles klein.</de>
+<en>- I look down in the valley Down there everything seems small.</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+
+
+<elem>
+<id>Vogesa_</id>
+<als>- Àchtung, buck di nìt a so!Ghèi nìt àwa!</als>
+<fr>- Attention, ne te penche pas tellement!Ne tombe pas!</fr>
+<de>- Achtung, bücke dich nicht so!Falle nicht herab!</de>
+<en>- Be careful, do not lean so!Do not fall!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+
+ 
+<elem>
+<txt>Ce cours présente les adverbes de lieu. Notamment les différences selon qu'il s'agit d'un mouvement ou d'une localisation.
+</txt>
+</elem>
+ 
+ 
+ 
+</kurs>

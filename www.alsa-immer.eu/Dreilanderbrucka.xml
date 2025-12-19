@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Dreilanderbrucka</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>04/06/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Drèilanderbrucka</als>
+		<fr>Passerelle des trois frontières</fr>
+		<de>Dreiländerbrücke</de>
+	</elem>
+
+	<elem>
+		<als>D Drèilanderbrucka ìsch a Brucka ìwer em Rhii, zwìscha Ditschlànd un Frànkrìch, un gànz nohch vu dam Punkt wo dia drèi Lander zamma kämma: Ditschlànd, Frànkrìch un Schwitz.</als>
+		<fr>La Passerelle des Trois Pays est un pont sur le Rhin, entre l'Allemagne et la France, et tout près du point de rencontre de ces trois pays : l'Allemagne, le France et la Suisse.</fr>
+		<de>Die Dreiländerbrücke ist eine Brücke über dem Rhein, zwischen Deutschland und Frankreich, und ganz noch von diesem Punkt wo diese drei Länder zusammen kommen: Deutschland, Frankreich und Schweiz.</de>
+	</elem>
+
+	<elem>
+		<als>Do kummt si Nàmma har.</als>
+		<fr>D'où son nom.</fr>
+		<de>Da kommt sein Name her.</de>
+	</elem>
+
+	<elem fin="br">
+		<img_fic>album/Brucken_Huningue_WeilAmRhein.png</img_fic>
+		<als>Kàrta</als>
+		<fr>carte</fr>
+		<de>Karte</de>
+		<img_h>240</img_h>
+	</elem>
+
+	<elem>
+		<als>'s ìsch d längschta Brucka vu dr Walt wo fer Füeßganger un Velo reserwiart ìsch.</als>
+		<fr>C'est le plus long pont du monde réservé aux piétons et cyclistes.</fr>
+		<de>Es ist die längste Brücke der Welt die für Fußgänger und Fahrräder reserviert ist.</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Ort</als>
+		<fr>Emplacement</fr>
+		<de>Ort</de>
+	</elem>
+
+	<elem>
+		<als>Da Ort ìsch ìmmer bsunders gsìì, waga dr Nehcha vu mehrera Lander.</als>
+		<fr>Cet endroit a toujours été particulier, à cause de la proximité de plusieurs pays.</fr>
+		<de>Dieser Ort war immer besonders, wegen der Nähe von mehreren Ländern.</de>
+	</elem>
+
+	<elem>
+		<als>Ànna 1679 màcht dr Keenig Louis XIV a Festung üs Hiniga, dur dr Vauban; 's blibt's 136 Johra làng.</als>
+		<fr>En 1679 le roi Louis XIV fait fortifier Huningue, par Vauban ; cela va durer 136 ans.</fr>
+		<de>1679 macht der König Ludwig XIV eine Festung aus Hüningen, durch den Vauban; es bleibt es 136 Jahren lang.</de>
+	</elem>
+
+	<elem>
+		<als>Ìn dr làuifenda Zitt wara a pààr Brucka do gebàuia, un wìder àbgrìssa.</als>
+		<fr>Au cours du temps, plusieurs ponts vont être construits ici puis démolis.</fr>
+		<de>In der laufenden Zeit werden mehrere Brücken hier gebaut, und wieder abgerissen.</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Gschìcht</als>
+		<fr>Histoire</fr>
+		<de>Geschichte</de>
+	</elem>
+
+	<elem>
+		<als>Ìm Novamber 2006 wìrd a nèia Brucka bàuia, nur fer Füeßganger un Velo.</als>
+		<fr>En novembre 2006 un nouveau pont est construit, qui sera réservé aux piétons et aux cyclistes.</fr>
+		<de>Im November 2006 wird eine neue Brücke gebaut, nur für Fußgänger und Fahrräder.</de>
+	</elem>
+
+	<elem>
+		<als>D Strukturelemanta wara uffem Hàfa vu Hiniga zammagmàcht, un derno àm Ort vu dr Bàuistella gfiahrt un gmuntiart.</als>
+		<fr>Les éléments de la structure sont assemblés sur le port de Huningue, et ensuite amenés sur le chantier pour y être montés.</fr>
+		<de>Die Strukturelemente werden auf dem Hafen von Hüningen zusammengebracht, und danach am Ort von der Baustelle geführt und montiert.</de>
+	</elem>
+
+	<elem>
+		<als>Àm 30. März 2007 wìrd d Brucka fer d Litt ufgmàcht.</als>
+		<fr>Le 30 mars 2007 la passerelle est ouverte au public.</fr>
+		<de>Am 30. März 2007 wird die Brücke für die Leute aufgemacht.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn dr Nàcht vum 30. Juni zum 1. Juli 2007 wìrd d Drèilànderbrucka igwèiht.</als>
+		<fr>Dans la nuit du 30 juin au 1 juillet 2007 a lieu l'inauguration de la Passerelle des Trois Pays.</fr>
+		<de>In der Nacht vom 30. Juni zum 1. Juli 2007 wird die Dreiländerbrücke eingeweiht.</de>
+	</elem>
+
+	<elem>
+		<als>Vìel Litt nutza jetzt dia Brucka.</als>
+		<fr>Beaucoup de gens utilisent maintenant cette passerelle.</fr>
+		<de>Viele Leute benutzen jetzt diese Brücke.</de>
+	</elem>
+
+	<elem>
+		<als>Uf dr ditscha Sitta, ìn Wiil àm Rhii, ìsch dr "Rhein Center", a Kommerzialzentrum.</als>
+		<fr>Du côté allemand, à Weil am Rhein, il y a le "Rhein Center", un centre commercial.</fr>
+		<de>Auf der deutschen Seite, in Weil an Rhein, ist der "Rhein Center", ein Kommerzialzentrum.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn dr Gegend gìbt's touristischa Wànderwàga fer Velo.</als>
+		<fr>Dans les alentours il y a des circuits touristiques pour les vélos.</fr>
+		<de>In der Gegend gibt es touristische Wanderwegen für Fahrräder.</de>
+	</elem>
+
+	<elem>
+		<als>D Brucka hàt dr "Deutschen Brückebaupreis 2008" bikumma.</als>
+		<fr>La passerelle a reçu le prix "Deutschen Brückebaupreis 2008".</fr>
+		<de>Die Brücke hat der "Deutschen Brückebaupreis 2008" bekommen.</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Koscht</als>
+		<fr>Financement</fr>
+		<de>Kost</de>
+	</elem>
+
+	<elem>
+		<als>Dr Bàui vu dr Drèilanderbrucka hàt 9 Milliona Euro kosta.</als>
+		<fr>La construction de la Passerelle des Trois Pays a coûté 9 millions d'euros.</fr>
+		<de>Der Bau von der Dreiländerbrücke hat 9 Millionen Euro gekostet.</de>
+	</elem>
+
+	<elem>
+		<als>Ar ìsch bezàhlt wora vu:</als>
+		<fr>Elle a été financée par :</fr>
+		<de>Er ist bezahlt geworden von:</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Europäische Gmeinschàft: 1 689 000 Euro</als>
+		<fr>Communauté Européenne : 1 689 000 Euro</fr>
+		<de>Europäische Gemeinschaft:  1 689 000 Euro</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Lànd Bàda-Wìrttabarg: 2 592 000 Euro</als>
+		<fr>Land Bade-Württemberg : 2 592 000 Euro</fr>
+		<de>Land Baden-Württemberg: 2 592 000 Euro</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Stàdt Wiil am Rhii : 998 000 Euro</als>
+		<fr>Ville de Weil am Rhein : 998 000 Euro</fr>
+		<de>Stadt Weil am Rhein : 998 000 Euro</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Frànkrìch: 3 725 000 Euro</als>
+		<fr>France : 3 725 000 Euro</fr>
+		<de>Frankreich: 3 725 000 Euro</de>
+	</elem>
+
+	<elem titre="h2">
+		<als>Links</als>
+		<fr>Liens</fr>
+		<de>Links</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.ville-huningue.fr/dn_passerelle_trois_pays_huningue/</link>
+		<als>Stàdt Hiniga (fr)</als>
+		<fr>Ville de Huningue</fr>
+		<de>Stadt Hüningen</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.feichtingerarchitectes.com/display_project.php/3/155</link>
+		<als>Dreilanderbrucka - Feichtinger Architectes (fr)</als>
+		<fr>Passerelle des Trois Pays - Feichtinger Architectes (fr)</fr>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.ville-huningue.fr/dn_histoire_ponts_huningue_weil_am_rhein/</link>
+		<als>Sitta vu dr Stàdt Hiniga: Gschìcht vu da Brucka (fr)</als>
+		<fr>Site de la ville de Huningue : histoire des ponts</fr>
+		<de>Seite von der Stadt Hüningen: Geschichte der Brücken</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.2rives3 ponts.eu</link>
+		<als>www.2rives3 ponts.eu</als>
+	</elem>
+
+	<elem fin="br">
+		<link>http://www.brueckenbaupreis.de/5333.htm</link>
+		<als>www.brueckenbaupreis.de</als>
+	</elem>
+
+
+
+		<elem>
+			<img_fic>http://upload.wikimedia.org/wikipedia/commons/d/d8/Dreilaenderbruecke_001.jpg</img_fic>
+			<als>d Drèilanderbrucka z Nàcht</als>
+			<fr>la Passerelles des trois pays la nuit</fr>
+			<de>die Dreiländerbrücke nachts</de>
+			<img_h>120</img_h>
+		</elem>
+
+		<elem>
+			<img_fic>http://upload.wikimedia.org/wikipedia/commons/3/36/Dreilanderbrucke_view_from_bridge.JPG</img_fic>
+			<als>Ussìcht vu dr Brucka uf Basel</als>
+			<fr>vue sur Bâle depuis la Passerelle des Trois Pays</fr>
+			<de>Aussicht von der Brücke auf Basel</de>
+			<img_h>120</img_h>
+		</elem>
+
+		<elem>
+			<img_fic>http://upload.wikimedia.org/wikipedia/commons/2/2d/Dreilanderbrucke_RheinCenter.JPG</img_fic>
+			<als>d Drèilànderbrucka un dr Rhein Center</als>
+			<fr>la Passerelle des Trois Pays, vue sur le "Rhein Center" et Weil am Rhein (Allemagne)</fr>
+			<de>die Dreiländerbrücke und das Rhein Center</de>
+			<img_h>120</img_h>
+		</elem>
+
+
+
+
+
+
+</article>

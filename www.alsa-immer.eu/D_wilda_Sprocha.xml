@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>D_wilda_Sprocha</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>28/01/2012</date>
+        </creation>
+	<head><meta name="robots" content="NOINDEX"/></head>
+
+	<elem titre="h1">
+		<als>D wìlda Sprocha</als>
+		<fr>Les langues sauvages</fr>
+		<de>Die wilden Sprachen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Vu je har han d Sprocha garn bi da Menscha glabt.</als>
+		<fr>Depuis toujours, les langues ont aimé habiter avec les humains.</fr>
+		<de>Von je her haben die Sprachen gern bei den Menschen gelebt.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Sa sìn ìhna noh wenn sa greist sìn,</als>
+		<fr>Elles les ont suivis quand ils ont voyagé,</fr>
+		<de>Sie gingen ihnen nach als sie reisten</de>
+	</elem>
+
+	<elem fin="br">
+		<als>ìm Kriag, ìm Eland, ìn dr Hoffnung.</als>
+		<fr>à la guerre, dans la misère, dans l'espoir.</fr>
+		<de>im Krieg, im Elend, in der Hoffnung.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>D Wärter fliaga ìm Wìnd,</als>
+		<fr>Les mots volent dans le vent,</fr>
+		<de>Die Wörter fliegen im Wind,</de>
+	</elem>
+
+
+	<elem fin="br">
+		<als>sa brìnga d Neikheita vu'ma Mül bis àn Ohra.</als>
+		<fr>ils apportent les nouvelles depuis une bouche vers des oreilles.</fr>
+		<de>sie bringen die Neuheiten von einem Mund bis an Ohren.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wenn sa sìch aneimens wohl fühla, bliiwa sa,</als>
+		<fr>Quand ils se sentent bien quelque part, ils y restent,</fr>
+		<de>Wenn sie sich irgendwo wohl fühlen, bleiben sie,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>sa wara vu àlla ààgnumma.</als>
+		<fr>ils sont adoptés par tous.</fr>
+		<de>sie werden von allen angenommen.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Àwer a Sproch ìsch wia-n-a Harda wìlda Rässer,</als>
+		<fr>Mais une langue est comme un troupeau de chevaux sauvages,</fr>
+		<de>Aber eine Sprache ist wie eine Harde von wilden Pferden,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>sa blibt nìt steh, sa rennt witterscht,</als>
+		<fr>elle ne reste pas en place, elle court plus loin,</fr>
+		<de>sie bleibt nicht stehen, sie rennt weiter</de>
+	</elem>
+
+	<elem fin="br">
+		<als>ìmmer wìld un unbeherrscht!</als>
+		<fr>toujours sauvage et sans maître !</fr>
+		<de>immer wild und unbeherrscht!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn'ra àndra Gegend brìngt sa àndra Wärter,</als>
+		<fr>Dans une autre région, elle apporte d'autres mots,</fr>
+		<de>In eine andere Gegend bringt sie andere Wörter,</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>- Noh hàt jeder Volk, sogàr jedes Dorf, sina eigena Sproch?</als>
+		<fr>- Alors chaque peuple, et même chaque village, a sa propre langue ?</fr>
+		<de>- Dann hat jeder Volk, sogar jedes Dorf, seine eigene Sprache?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>- Ja, normàlerwiisgeht's a so mìt da Sproch,</als>
+		<fr>- Oui, normalement, il e va ainsi avec les langues,</fr>
+		<de>- Ja, normalerweise geht es so mit den Sprachen,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>so làng àss sa wìld bliiwa.</als>
+		<fr>aussi longtemps qu'elle restent sauvages.</fr>
+		<de>so lang dass sie wild bleiben.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>- As blibt àwer nìt a so...</als>
+		<fr>- Mais ça ne reste pas comme ça...</fr>
+		<de>- Es bleibt aber nicht so...</de>
+	</elem>
+
+	<elem fin="br">
+		<als>- Nei. Wia mìt da Rässer, verstehn amol d Menscha</als>
+		<fr>- Non. Comme avec les chevaux, les humains comprennent un jour</fr>
+		<de>- Neon. Wie mit den Pferden, verstehen einmal die Menschen</de>
+	</elem>
+
+	<elem fin="br">
+		<als>àss d Sprocha nutzbàr känna sìì.</als>
+		<fr>que les langues peuvent être utiles.</fr>
+		<de>dass die Sprachen nutzbar sein können.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wia d Rässer, wara d Sprocha zwunga un beherrscht.</als>
+		<fr>Comme les chevaux, les langues se font contraindre et dresser.</fr>
+		<de>Wie die Pferde, werden die Sprachen gezwungen und beherrscht.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>D wìlda Wärter wara scheen üssputzt.</als>
+		<fr>Les mots sauvages sont joliment nettoyés.</fr>
+		<de>Die wilden Wörter werden schön ausgeputzt.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Numma d Beschta wara bhàlta.</als>
+		<fr>Seulement les meilleurs sont gardés.</fr>
+		<de>Nur die Besten werden behalten.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Àm And bliiwa nìmm so vìel ìwrig,</als>
+		<fr>A la fin, il n'en reste plus tellement,</fr>
+		<de>Am Ende bleiben nicht mehr so viel übrig,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dia wo gnüe fiin un rein üssahn,</als>
+		<fr>ceux qui paraissent suffisamment fins et purs,</fr>
+		<de>diese die genug fein und rein aussehen,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>dia därfa zu dr gmeinsàma Sproch gheera.</als>
+		<fr>ceux-là ont le droit d'appartenir à la langue commune.</fr>
+		<de>diese dürfen zu der gemeinsamen Sprache gehören.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dia Stàndàrdsproch ìsch dernoh beherrscht,</als>
+		<fr>Cette langue standard est alors dressée,</fr>
+		<de>Diese Standardsprache ist dann beherrscht,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>ma düet sa ìn dr Schüel lehre un schriiwa.</als>
+		<fr>on l'apprend et on l'écrit à l'école.</fr>
+		<de>man lernt sie und schreibt sie in der Schule.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Nìt wia d wìlda Wärter wo frèi ìm Wìnd fliaga,</als>
+		<fr>Pas comme les mots sauvages qui volent librement dans le vent,</fr>
+		<de>Nicht wie die wilden Wörter die frei im Wind fliegen,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>un wo nìt ìn Biacher schlofa.</als>
+		<fr>et qui ne dorment pas dans les livres.</fr>
+		<de>und die nicht in Bücher schlafen.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>- Jo Papapa, dàs stìmmt nìt a so...</als>
+		<fr>- Oui bon, papi, ce n'est pas tout à fait ça...</fr>
+		<de>Naja, Opa, das stimmt nicht so...</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>S Elsassischa gheert zu da wìlda Sprocha, dernoh...</als>
+		<fr>L'alsacien appartient aux langues sauvages, alors...</fr>
+		<de>Das Elsässische gehört zu den wilden Sprachen, dann...</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>- Wurum hàsch a so vìel elsassischa Biacher?</als>
+		<fr>- Pourquoi as-tu tellement de livres en alsacien ?</fr>
+		<de>- Warum hast du so viel elsässischen Bücher?</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>- Wurum leesch a so garn elsassisch Gedìchtla?</als>
+		<fr>- Pourquoi aimes-tu tellement lire des poésies en alsacien ?</fr>
+		<de>- Warum liest du so gern elsässische Gedichte?</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>- Wurum schribsch mankmol typischa elsassischa Üsdrìck uf?</als>
+		<fr>- Pourquoi inscris-tu parfois des expressions alsaciennes typiques ?</fr>
+		<de>- Warum schreibst du manchmal typische elsässisch Aus drücke auf?</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>- Wurum düesch mìch ìmmer nohnamma,</als>
+		<fr>- Pourquoi me corriges-tu toujours,</fr>
+		<de>- Warum nimmst du mich immer nach,</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>wenn i Gràmmàtik-Fahler uf Elsassisch màch?</als>
+		<fr>quand je fais des fautes de grammaire en alsacien ?</fr>
+		<de>wenn ich Grammatik-Fehler auf Elsässisch mache?</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>Düet dàs àlles unsera wìlda Sproch nìt schàda?</als>
+		<fr>Tout cela ne nuit-il pas à notre langue sauvage ?</fr>
+		<de>Schadet das alles unsere wilde Sprache nicht?</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>Unsera frèia Sproch wo dü a so düesch zwìnga?</als>
+		<fr>Notre langue libre que tu contrains ainsi ?</fr>
+		<de>Unsere freie Sprache die du so zwingst?</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>- Mi liab Maidala, hàsch jo racht,</als>
+		<fr>- Ma chère enfant, tu as certes raison,</fr>
+		<de>- Mein liebes Mädchen, du hast zwar recht,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>àwer müesch leider ebbis erfàhra:</als>
+		<fr>mais tu dois malheureusement savoir quelque chose :</fr>
+		<de>aber du misst leider etwas erfahren:</de>
+	</elem>
+
+	<elem fin="br">
+		<als>d Sprocha starwa aui, wenn d Menscha vu'na scheida,</als>
+		<fr>les langues meurent aussi, quand les humains divorcent d'elles,</fr>
+		<de>die Sprachen sterben auch, wenn die Menschen von ihnen scheiden,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>wenn sa vu da fiina Stàndàrdsprocha ersetzt wara.</als>
+		<fr>quand elles sont remplacées par les langues standard raffinées.</fr>
+		<de>wenn sie von den feinen Standardsprachen ersetzt werden.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Unsera wìlda elsassischa Sproch stìrbt leider üss.</als>
+		<fr>Notre langue alsacienne sauvage dépérit, malheureusement.</fr>
+		<de>Unsere wilde elsässische Sprache stirbt leider aus.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wia d làtiinischa Sproch, wia dr Dodo-Vogel, wia d Dinosauria...</als>
+		<fr>Comme la langue latine, comme l'oiseau Dodo, comme les dinosaures...</fr>
+		<de>Wie die lateinische Sprache, wie der Dodo-Vogel, wie die Dinosaurien...</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn da Biacher lìega d Wärter wia ìm Formol.</als>
+		<fr>Dans les livres, les mots reposent comme dans le formol.</fr>
+		<de>In den Büchern legen die Wörter wie im Formalin.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Sa sìn zwàr nìmm sehr làwandig, àwer sa sìn mìndschens noch do.</als>
+		<fr>Ils ne sont certes plus très vivants, mais ils sont au moins encore là.</fr>
+		<de>Sie sind zwar nicht mehr seht lebendig, aber sie sind mindestens noch da.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dàs àlles wo-n-i ufschrib wìrd nìt gànz verlora.</als>
+		<fr>Tout ce que j'écris ne sera au moins pas perdu.</fr>
+		<de>Das alles das ich aufschreibe wird mindestens nicht verloren.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dur d Biacher un d Heftla blibt doch ebbis vu unsera wìlda Sproch.</als>
+		<fr>Par le biais des livres et des petits cahiers, il restera quand même quelque chose de notre langue.</fr>
+		<de>Durch die Bücher in die Heftchen bleibt doch etwas von unser wilden Sprache.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Unsera starwenda Sproch wo a so doch wìrd ìwerlawa.</als>
+		<fr>Notre langue mourante qui va ainsi quand même survivre.</fr>
+		<de>Unsere sterbende Sprache die so doch noch überleben wird.</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>Weisch Papapa, 's kààt klàppa!</als>
+		<fr>Tu sais Papi, ça peut marcher !</fr>
+		<de>Weißt du Opa, es kann klappen!</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>Lüeg: s Làtiinischa hebt si noch güet,</als>
+		<fr>Regarde : le latin se porte encore bien,</fr>
+		<de>Schau: das Lateinische hält sich noch gut,</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>fer a Sproch wo scho so làng üsgstorwa ìsch!</als>
+		<fr>pour une langue éteinte depuis si longtemps !</fr>
+		<de>für eine Sprache die schon so lang ausgestorben ist!</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>Weisch wàs: dia àlla Wärter, dia Üssdrìck un dia Gràmmàtik-Regel,</als>
+		<fr>Tu sais quoi : tous ces mots, ces expressions et ces règles de grammaire,</fr>
+		<de>Weißt du was: diese alle Wörter, diese Ausdrücke und diese Grammatik-Regeln,</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>dia wìll i jetzt uf em Ìnternet ge schriiwa</als>
+		<fr>je veux maintenant les écrire sur Internet.</fr>
+		<de>diese will ich jetzt auf dem Internet schreiben</de>
+	</elem>
+
+	<elem italiq="1" color="palevioletred" fin="br">
+		<als>Dàs ìsch noch besser às Formol, do wara sa nia verlora!</als>
+		<fr>Ca, c'est encore mieux que du formol, là ils ne seront pas perdus !</fr>
+		<de>Das ist noch besser als Formaldehyd, da werden sie nicht verloren!</de>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem fin="br">
+		<als>Güet Maidala! Prima...</als>
+		<fr>Bien ma fille ! Parfait...</fr>
+		<de>Gut mein Kind! Prima...</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Moderner às s Ìnternet gìtt's jo nìt.</als>
+		<fr>Plus moderne qu'Internet, il n'y a pas.</fr>
+		<de>Moderner als das Internet gibt es ja nicht.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wìld, modern un làwandig!</als>
+		<fr>Sauvage, moderne et vivant !</fr>
+		<de>Wild, modern und lebendig!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>...Ja do, wenn mi Großvàter dàs gsah hat!</als>
+		<fr>Alors là, si mon grand-père avait vu ça!</fr>
+		<de>...Naja, wenn mein Großvater das gesehen hätte!</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ar wo-n-a Gschìchtla nia zwei Mol gliich verzeehlt hàt...</als>
+		<fr>Lui qui n'a jamais raconté une histoire deux fois de la même façon...</fr>
+		<de>Er der eine Geschichte nie zwei Mal gleich erzählt hat...</de>
+	</elem>
+
+
+
+</article>

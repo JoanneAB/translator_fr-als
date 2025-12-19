@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>Was_isch_los</nom_fic>
+<theme>Wàs ìsch los?</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>28/11/2014</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+
+
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Joseph, los amol: dr Hund bìllt!| Gàng ge lüega wàs los ìsch!</als>
+<fr> - Joseph, écoute (une fois) : le chien aboie !| Va voir ce qu'il se passe !</fr>
+<de> - Joseph, hör mal zu: der Hund bellt!| Geh schauen, was los ist!</de>
+<en> - Joseph, listen: the dog is barking!| Go and see what's happening!</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Jo... ìch gàng ge lüega.</als>
+<fr> - Oui bon... je vais voir.</fr>
+<de> - Na ja... ich gehe schauen.</de>
+<en> - Well... I go see.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Wo gehsch jetz àna?| 's ìsch duss ebbis los, wurum gehsch dü ìns Zìmmer?</als>
+<fr> - Où vas-tu maintenant ?| C'est dehors qu'il se passe quelque chose, pourquoi vas-tu dans la chambre ?</fr>
+<de> - Wo gehst du jetzt?| Draußen ist etwas los, warum gehst du ins Zimmer?</de>
+<en> - Where are you going now?| It's out there that something is happening, why are you going into the room?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Ìch gàng a Kìttel ge ààlega.| 's ìsch kàlt duss!</als>
+<fr> - Je vais mettre une veste.| Il fait froid dehors.</fr>
+<de> - Ich gehe eine Jacke anziehen.| Es ist kalt draußen.</de>
+<en> - I go wear a jacket.| It's cold outside.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als>Duss ìsch dr Hund Rex, ar bìllt gega a Mànn.</als>
+<fr>Dehors il y a le chien Rex, il aboie vers un homme.</fr>
+<de>Draußen ist der Hund Rex, er bellt zu einem Mann.</de>
+<en>Outside there is the dog Rex, he barks towards a man.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Stìlla Rex!| Da Mànn ìsch unser Noochber.| Hàsch güet ghiata, därfsch jetz wìder ge lìega.</als>
+<fr> - Silence Rex!| Cet homme est notre voisin.| Tu as bien gardé, tu as le droit d'aller de nouveau te coucher.</fr>
+<de> - Stille Rex!| Dieser Mann ist unser Nachbar.| Du hast gut gehütet, du darfst jetzt wieder liegen gehen.</de>
+<en> - Shut up, Rex!| This man is our neighbour.| You have guarded, you may now go lay again.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als>Noochber: - Kumm ku lüega, Joseph!| Kumm mìr ku halfa!</als>
+<fr>Voisin : - Viens voir, Joseph!| Viens m'aider!</fr>
+<de>Nachbar: - Komm schauen, Joseph!| Komm mir helfen!</de>
+<en>Neighbour: - Come and see, Joseph!| Come help me!</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Oh je, wàs ìsch los?</als>
+<fr> - Oh yé, que se passe-t-il?</fr>
+<de> - Oh je, was ist los?</de>
+<en> - Oh my god, what's happening?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als>Noochber: - Ìch süech mi Gückel!| Ìch hà mi Züün a Rung ufgloh, ìch bì noch ebbis ge hola, un dernoh ìsch mi Gückel nìmm do gsìì.</als>
+<fr>Voisin : - Je cherche mon coq !| J'ai laissé mon enclos ouvert, je suis encore allé chercher quelque chose, et ensuite mon coq n'était plus là.</fr>
+<de>Nachbar: - Ich suche mein Hahn!| Ich habe mein Zaun offen gelassen, ich bin noch etwas holen gegangen, und danach war mein Hahn nicht mehr da.</de>
+<en>Neighbour: - I am looking for my cock!| I left my fence open, I still went to get something, and then my cock was no longer here.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Da ìsch gànga ge spàziara!</als>
+<fr> - Celui-là est allé se promener !</fr>
+<de> - Dieser ist spazieren gegangen!</de>
+<en> - This one went for a walk!</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als>Noochber: - Wo hàt'r àna känna geh?</als>
+<fr>Voisin : - Où a-t-il pu aller ?</fr>
+<de>Nachbar: - Wo hat er hingehen können?</de>
+<en>Neighbour: - Where could it have gone?</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Kààsch bi mìr ku süecha, wenn dü wìtt...</als>
+<fr> - Tu peux venir chercher chez moi, si tu veux...</fr>
+<de> - Du kannst bei mir suchen kommen, wenn du willst...</de>
+<en> - You can search by me, if you want...</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als>Noochber: - Merci Joseph. Ìch gàng ìn di Hoff ge Lüega.</als>
+<fr>Voisin : - Merci Joseph. Je vais voir dans ta cour.</fr>
+<de>Nachbar: - Danke Joseph. Ich gehe in deinen Hoff sehen.</de>
+<en>Neighbour: - Thank you Joseph. I go see in your yard.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als> - Weisch wàs?...| Àn dim Plàtz giang ìch ìn dr Hiahnerstàll ge lüega.</als>
+<fr> - Tu sais quoi ?...| A ta place j'irais regarder dans le poulailler.</fr>
+<de> - Weißt du was?...| An deinem Platz würde ich in den Hühnerstall schauen.</de>
+<en> - You know what?| If I were you, I would go and look in the henhouse.</en>
+<img></img>
+<audio/>
+</elem>
+
+<elem>
+<id>Was_isch_los_</id>
+<als>Noochber: - Eh ammel! Do ìsch'r jo!| Da ìsch do dr Don Juan kumma ku spìela, bi dina scheena Bibbala!</als>
+<fr>Voisin : - Eh bien sûr ! Il est là !| Celui-là est venu jouer le Don Juan ici, chez tes jolies poulettes !</fr>
+<de>Nachbar: - Eh natürlich! Da ist er ja!| Dieser kam hier Don Juan zu spielen, bei deinen schönen Hühnchen!</de>
+<en>Neighbour: - Of course! Here it is!| This one came here to play Don Juan, by your lovely hens!</en>
+<img></img>
+<audio/>
+</elem>
+
+
+
+<elem>
+<txt>Ce cours présente les redondances : ar geht ge...., ar kummt ku ....
+</txt>
+</elem>
+ 
+ 
+ 
+</kurs>

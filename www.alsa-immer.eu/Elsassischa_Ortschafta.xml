@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Elsassischa_Ortschafta</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>19/07/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Elsassischa Ortschàfta</als>
+		<fr>Noms de lieux alsaciens</fr>
+		<de>Elsässische Ortschaften</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Niederhergheim, Niederhausbergen, Souffelweyersheim</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Wàs fer komischa Nama... Wo sìn mìr denn?</als>
+		<fr>Quels drôles de noms... Où sommes-nous donc ?</fr>
+		<de>Was für komische Namen... Wo sind wir denn?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìm Elsàss! Ìn unserem scheena Elsàss.</als>
+		<fr>En Alsace ! Dans notre belle Alsace.</fr>
+		<de>Im Elsass! In unserem schönen Elsass.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>'s ìsch a mol a Zitt gsìì - bsìnnscht di noch?</als>
+		<fr>Il fut un temps - t'en souviens-tu ?</fr>
+		<de>Es war einmal eine Zeit - erinnerst du dich noch davon?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Wo ma àllawil Litt hàt heera Elsassisch reeda...</als>
+		<fr>Où on entendait tout le temps des gens parler alsacien...</fr>
+		<de>Als man alldieweil Leute Elsässisch reden gehört hat...</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Dàs ìsch jetz boll uma,</als>
+		<fr>C'en est bientôt fini de ça,</fr>
+		<de>Das ist jetzt bald vorbei,</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìr sìn "de bons Français" wora.</als>
+		<fr>Nous sommes maintenant devenus "de bons Français"</fr>
+		<de>Wir sind jetzt "gute Franzosen" geworden.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>'s ìsch hàlt a so, ma wìll kei Labdig do drüs màcha.</als>
+		<fr>C'est ainsi, on ne va pas en faire un plat.</fr>
+		<de>So ist es, es ist nicht so schlimm.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Un ìn dr Zukunft, wàs Elsassisches blibt a Mol ìwrig?</als>
+		<fr>Et dans l'avenir, qu'est qui va subsister de l'alsacien ?</fr>
+		<de>Und in der Zukunft, was Elsässisches bleibt einmal übrig?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Unsra lustiga Ortschàftsnama, bstìmmt!</als>
+		<fr>Nos drôles de noms de lieux, pour sûr !</fr>
+		<de>Unsere lustige Ortschaftsnahmen, bestimmt!</de>
+	</elem>
+
+	<elem>
+		<link>http://www.blup.fr/generateur-de-noms-de-villages-alsaciens/</link>
+		<als>Màschìna fer elsassischa Ortsnamma fìnda : http://www.blup.fr/generateur-de-noms-de-villages-alsaciens/</als>
+		<fr>Générateur de noms de villages alsaciens</fr>
+		<de>Maschine um elsässische Ortsnahmen zu finden</de>
+	</elem>
+
+
+</article>

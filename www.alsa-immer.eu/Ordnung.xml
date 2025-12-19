@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+
+<kurs>
+	<nom_fic>Ordnung</nom_fic>
+	<theme>Ordnung</theme>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>03/06/2014</date>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+
+
+	<elem>
+		<id>Ordnung_1</id>
+		<als>Dr Joseph un s Lisala han a wìchtiga Noochrìchta erfàhra: dr Thomas kummt ìns Elsàss fer d Feria.</als>
+		<fr>Joseph et Lisala ont appris une nouvelle importante: Thomas vient en Alsace pour les vacances.</fr>
+		<de>Joseph und Lisala haben eine wichtige Nachrichte erfahren: Thomas kommt ins Elsass für die Ferien.</de>
+		<en>Joseph and Lisala got some important news: Thomas comes in Alsace for the holidays.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_2</id>
+		<als>Dr Thomas ìsch ìhrer neveu.</als>
+		<fr>Thomas est leur neveu.</fr>
+		<de>Thomas ist ihr Neffe.</de>
+		<en>Thomas is their nephew.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_3</id>
+		<als>Ar wìrd ìn ìhrem Hüss wohna.</als>
+		<fr>Il habitera dans leur maison.</fr>
+		<de>Er wird in ihrem Haus wohnen.</de>
+		<en>He will live in their house.</en>
+		<img>https://upload.wikimedia.org/wikipedia/commons/6/6a/Ungersheim_%C3%89comus%C3%A9e_St%C3%B6rche.JPG</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_4</id>
+		<als>- Mìr han a laar Zimmer, do kààt dr Thomas schlofa.</als>
+		<fr>- Nous avons une chambre vide, là Thomas peut dormir.</fr>
+		<de>- Wir haben ein leeres Zimmer, da kann Thomas schlafen.</de>
+		<en>- We have an empty room, here can Thomas sleep.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/0/0a/Slaapkamer.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_5</id>
+		<als>- Ja, nàtiirlig! Àwer dàs Zìmmer ìsch nìt laar.</als>
+		<fr>Oui, naturellement ! Mais cette chambre n'est pas vide.</fr>
+		<de>- Ja, natürlich! Aber dieses Zimmer ist nicht leer.</de>
+		<en>- Yes, of course! But this room is not empty.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_6</id>
+		<als>- Nìt?</als>
+		<fr>- Non ?</fr>
+		<de>- Nicht?</de>
+		<en>- Isn't it?</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_7</id>
+		<als>- Eh nei: 's ìsch voll Krempel. Unsera Wàr ìsch dìnna ufbìega.</als>
+		<fr>- Eh non : c'est plein de bazar. Nos affaires sont accumulées dedans.</fr>
+		<de>- Eh nein: es ist voll Chaos. Unsere Ware ist darin aufgebogen.</de>
+		<en>- Eh no: it's full of chaos. Our goods are accumulated in it.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/9/95/Messi_Wohnraum.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_8</id>
+		<als>- Dàs stìmmt, mìr mian üsrüüma!</als>
+		<fr>- C'est juste, nous devons ranger !</fr>
+		<de>- Das stimmt, wir müssen ausräumen!</de>
+		<en>- That's right, we need to clean up!</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_9</id>
+		<als>- Dàs ìsch mi Màntel, ìch màch na ìn dr Kàschta.</als>
+		<fr>- Ceci est mon manteau, je le mets dans l'armoire.</fr>
+		<de>- Das ist mein Mantel, ich mache ihn in den Schrank.</de>
+		<en>- This is my coat, I put it in the cupboard.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/5/5d/Flausch_2.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ileitung_10</id>
+		<als>- Dàs ìsch dina Hosa, ìch hank sa uf.</als>
+		<fr>- C'est ton pantalon, je le suspends.</fr>
+		<de>- Das ist deine Hose, ich hänge sie auf.</de>
+		<en>- That's your pants, I hang them on.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/f/fb/Trousers.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_11</id>
+		<als>- Dàs ìsch mi Hemm. As ìsch drackig. Mìr mian's wascha.</als>
+		<fr>- C'est ma chemise. Elle est sale... Nous devons la laver.</fr>
+		<de>- Das ist mein Hemd. Es ist schmutzig. Wir müssen es waschen.</de>
+		<en>- This is my shirt. It's dirty. We have to wash it.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/4/47/Shirt.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_12</id>
+		<als>- Dàs sìn mina Strìmpf. Ìch leg sa jetz àà.</als>
+		<fr>- Ce sont mes chaussettes. Je les mets maintenant.</fr>
+		<de>- Das sind meine Strümpfe. Ich lege sie jetzt an.</de>
+		<en>- These are my socks. I put them on now.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/2/28/Endurance_chaussettes.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_13</id>
+		<als>- Dàs gheert ìn mim Pàppa: 's ìsch si Hüet. Mìr gann na ìhm zruck.</als>
+		<fr>- Ca appartient à mon père : c'est son chapeau. Nous allons le lui rendre.</fr>
+		<de>- Das gehört meinem Vater: es ist sein Hut. Wir geben ihn ihm zurück.</de>
+		<en>- This belongs to my father: it's his hat. We give it back to him.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/6/64/Hatt.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_14</id>
+		<als>- Dàs sìn sina Schlàppa. Ìch màch sa ìn dr Kaller.</als>
+		<fr>- Il y a là ses pantoufles. Je les mets à la cave.</fr>
+		<de>- Das sind seine Pantoffeln.Ich mache sie in den Keller.</de>
+		<en>- Here are his slippers. I put them into the cellar.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/e/e8/Pantoffels.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_15</id>
+		<als>- Do ìsch a großa Kìschta voll Biacher. Ìch tràg sa uf d Bìhna.</als>
+		<fr>- Là il y a une grande caisse pleine de livres. Je la porte au grenier.</fr>
+		<de>- Da ist eine große Kiste voll Bücher. Ich trage sie auf den Dachboden.</de>
+		<en>- Here there is a big box full of books. I bring it to the attic.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/4/48/Dom_kultury_litewskiej_w_punsku_82.JPG</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_16</id>
+		<als>- Dàs Tìschla ìsch kàpütt! Mìr ghèia's awag.</als>
+		<fr>- Cette petite table est cassée! Nous la jetons.</fr>
+		<de>- Dieses Tischlein ist kaputt! Wir werfen es weg.</de>
+		<en>- This small table is broken. We throw it away.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_20</id>
+		<als>So! S Zìmmer ìsch jetz ìn Ordnung. Àwer 's ìsch drackig.</als>
+		<fr>Voilà ! La chambre est maintenant en ordre. Mais elle est sale.</fr>
+		<de>So! Das Zimmer ist jetzt in Ordnung. Aber es ist schmutzig.</de>
+		<en>So! The room is okay now. But it is dirty.</en>
+		<img></img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_21</id>
+		<als>D Kàtz lìgt ìmmer uf em Bett. Un sa verliart ìhra Hoor.</als>
+		<fr>Le chat est toujours couché sur le lit. Et il perd ses poils.</fr>
+		<de>Die Katze liegt immer auf dem Bett. Und sie verliert ihre Haare.</de>
+		<en>The cat lies always on the bed. And it loses its hair.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/2/20/Penny_snuggles.JPG</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_22</id>
+		<als>Ìhra Deebla sìn aui drackig. Do sìn Flacka, uf dr Decka.</als>
+		<fr>Ses pattes sont aussi sales. Il y a là des taches sur la couverture.</fr>
+		<de>Ihre Pfoten sind auch schmutzig. Hier sind Flecken auf der Decke. </de>
+		<en>Its paws are also dirty. Here are stains on the blanket.</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/5/5e/Cat_track.svg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_23</id>
+		<als>Àwer 's ìsch unsera Kàtz un mìr han sa garn!</als>
+		<fr>Mais c'est notre chat et nous l'aimons !</fr>
+		<de>Aber es ist unsere Katze und wir haben sie gern!</de>
+		<en>But it is our cat and we love it!</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/e/e1/A_cat.jpg</img>
+		<audio/>
+	</elem>
+
+	<elem>
+		<id>Ordnung_24</id>
+		<als>D Litt han ìhra Kàtza un ìhra Hunda garn, aui wenn sa mankmol Drack ìn s Hüss brìnga!</als>
+		<fr>Les gens aiment leurs chats et leurs chiens, même s'ils amènent parfois de la saleté dans la maison !</fr>
+		<de>Die Leute haben ihre Katzen und ihren Hunden gern, auch wenn sie manchmal Dreck ins Haus bringen!</de>
+		<en>People love their cats and their dogs, even if they sometimes bring dirt into the house!</en>
+		<img>http://upload.wikimedia.org/wikipedia/commons/7/79/Trillium_Poncho_cat_dog.jpg</img>
+		<audio/>
+	</elem>
+
+
+
+
+
+<elem>
+<txt>Ce cours présente divers adjectifs possessifs : mon, ton, son, notre, nos...
+</txt>
+</elem>
+
+
+
+</kurs>
+

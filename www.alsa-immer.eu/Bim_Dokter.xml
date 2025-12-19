@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ 
+<?xml-stylesheet href="Kurs_html.xsl" type="text/xsl"?>
+ 
+<kurs>
+<nom_fic>Bim_Dokter</nom_fic>
+<theme>Bim Dokter</theme>
+        <creation>
+   <auteur>MiLib</auteur>
+   <date>12/08/2014</date>
+        </creation>
+<meta name="robots" content="NOINDEX"/>
+ 
+ 
+ 
+<elem>
+<id>Dokter_</id>
+<als>Wàs hàsch, Joseph? Ìsch's dìr nìt güet?</als>
+<fr>Qu’as-tu, Joseph ? Tu ne te sens pas bien ?</fr>
+<de>Was hast du, Joseph? Ist es dir nicht gut?</de>
+<en>What’s the matter with you, Joseph? Don’t you feel good?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Wurum frogsch dü mìr jetz dàs?</als>
+<fr>Pourquoi me demandes-tu ça (maintenant) ?</fr>
+<de>Warum fragst du mir jetzt das?</de>
+<en>Why are you asking me this (now)?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Eh, dü sìesch schlacht üs! Fìndsch nìt àss dü bleiech bìsch? Geht ebbis nìt?</als>
+<fr>Eh bien, tu as mauvaise mine! Ne trouves-tu pas que tu es pâle ? Quelque chose ne va pas ?</fr>
+<de>Eh, du siehst schlecht aus! Findest du nicht dass du bleich bist? Geht etwas nicht?</de>
+<en>Well, you look bad!  Do not you think you're pale? Is anything going wrong?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Jo, ìch bì a bìtsi miad... Bìn i wìrklig so bleiech?</als>
+<fr>Oui, bon, je suis un peu fatigué... Suis-je vraiment si pâle ?</fr>
+<de>Ja, ich bin a bisschen müde... Bin ich wirklich so bleich?</de>
+<en>Yes, I am a bit tired... Am I really so pale?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Ja. Wìtt nìt zum Dokter geh?</als>
+<fr>Oui. Ne veux-tu pas aller chez le docteur ?</fr>
+<de>Ja. Willst du nicht zum Arzt gehen?</de>
+<en>Yes, you are. Don’t you want to go to the doctor’s?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Àlso geht dr Joseph zum Dokter...</als>
+<fr>Ainsi Joseph va chez le docteur...</fr>
+<de>Also geht Joseph zum Arzt...</de>
+<en>So, Joseph goes to the doctor’s...</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Wia àlt sìn ìhr?</als>
+<fr>Docteur : - Quel âge avez-vous ?</fr>
+<de>Arzt: - Wie alt sind Sie?</de>
+<en>Doctor: - How old are you?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Ìch bì 40 Johr àlt.</als>
+<fr>J’ai 40 ans.</fr>
+<de>Ich bin 40 Jahre alt.</de>
+<en>I am 40 years old.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: -Wurum sìn ìhr zu mìr kumma?</als>
+<fr>Docteur : - Pourquoi êtes-vous venu me voir ?</fr>
+<de>Arzt: - Warum sin Sie zu mir gekommen?</de>
+<en>Doctor: - Why did you come to me?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Mina Fràui hàt mìch zum Dokter gschìckt!</als>
+<fr>Ma femme m’a envoyé chez le docteur !</fr>
+<de>Meine Frau hat mich zum Arzt geschickt!</de>
+<en>My wife sent me to the doctor’s!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Han ìhr aneima Weh?</als>
+<fr>Docteur : - Avez-vous mal quelque part ?</fr>
+<de>Arzt: - Haben Sie irgendwo Weh?</de>
+<en>Doctor: - Do you have pain anywhere?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Nei.</als>
+<fr>Non.</fr>
+<de>Nein.</de>
+<en> No, I don’t.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Han ìhr nia Kopfweh, oder Büüchweh?</als>
+<fr> Docteur : - N’avez-vous jamais mal à la tête, ou mal au ventre ?</fr>
+<de> Arzt: - Haben Sie nie Kopfschmerzen, oder Bauchweh?</de>
+<en> Doctor: - Do you never have headache, or stomach ache?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Doch, mankmol, wenn i z'vìel ìss, noh hà-n-i Büüchweh.</als>
+<fr>Si, parfois, quand je mange trop, j’ai mal au ventre.</fr>
+<de>Doch, manchmal, wenn ich zu viel esse, dann habe ich Bauchweh.</de>
+<en> Yes, sometimes, if I rat too much, I have stomach ache.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Assa-n-ìhr vìel?</als>
+<fr> Docteur : - Mangez-vous beaucoup ?</fr>
+<de> Arzt: - Essen Sie viel?</de>
+<en> Doctor: - Do you eat much?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Ja: ìch ìss Sürkrütt, Wìrscht, Schiifala, Flàmmaküecha, Kugelhupf, Bratzala, Schwitzerkaassàlàt mìt Dìckwurscht...</als>
+<fr>Oui : je mange de la choucroute, des saucisses, de la palette, des tartes flambées, du kougelhopf, de la salade vigneronne avec de la saucisse de viande...</fr>
+<de>Ja: ich esse Sauerkraut, Würste, Schäufelchen, Flammenküchen, Gugelhupf, Wurstsalat mit Dickwurst...</de>
+<en> Yes, I do: I eat sauerkraut, sausage, palette, pies outbreaks of kougelhopf, sausage salad...</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Ja ja, ìch glàuib, ìch hà's verstànda.</als>
+<fr>Docteur : - Oui oui, je crois que j’ai compris.</fr>
+<de>Arzt: - Ja ja, ich glaube, ich habe es verstanden.</de>
+<en>Doctor: - Yes yes, I think I have understood.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Un Kopfweh hà-n-i aui, wenn i z'vìel trìnk.</als>
+<fr>Et j’ai aussi mal à la tête, quand le bois trop.</fr>
+<de>Und Kopfweh habe ich auch, wenn ich zu viel trinke.</de>
+<en>And I also have headache, when I drink too much.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Trìnka-n-ìhr vìel?</als>
+<fr>Docteur : - Buvez-vous beaucoup ?</fr>
+<de>Arzt: - Trinken Sie viel?</de>
+<en> Doctor: - Do you drink much?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Ja, ìch trìnk Biar, roter Wii, wisser Wii: Riasling, Gwìrtztràminer, Sylvàner, Edelzwìcker, àwer aui Schnàps...</als>
+<fr>Oui, je bois de la bière, du vin rouge, du vin blanc : du Riesling, du Gewurtztraminer, de l’Edelzwicker, mais aussi du schnaps...</fr>
+<de>Ja, ich trinke Bier, Rotwein, Weißwein: Riesling, Gewürztraminer, Edelzwicker, aber auch Schnaps...</de>
+<en> Yes, I drink beer, red wine, white wine: Riesling, Gewurztraminer, Edelzwicker but also schnapps...</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Ja ja, ìch glàuib, ìch hà's verstànda.</als>
+<fr>Docteur : - Oui oui, je crois que j’ai compris.</fr>
+<de>Arzt: - Ja ja, ich glaube, ich habe es verstanden.</de>
+<en> Doctor: - Yes yes, I think I have understood.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dàs màcht mìr àwer güet, nìt?</als>
+<fr> Mais ça, ça me fait du bien, non ?</fr>
+<de> Aber das tut mir gut, nicht?</de>
+<en> But that makes me feel good, doesn’t it?</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Àchtung! Z'vìel Fatt un Àlkohol ìsch nìt gsund.</als>
+<fr> Docteur : - Attention ! Trop de graisse et d’alcool n’est pas sain.</fr>
+<de> Arzt: - Achtung! Zu viel Fett und Alkohol ist nicht gesund.</de>
+<en> Doctor: - Be careful! Too much fat and alcohol is not healthy.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Mi Unkel hàt amol schrecklig Büüchweh bikumma un hàt ìns Spitàl müeßa geh... waga Kìrschastei</als>
+<fr> Mon oncle a une fois eu terriblement mal au ventre et il a dû aller à l'hôpital... à cause de noyaux de cerises.</fr>
+<de> Mein Onkel hat einmal schrecklich Bauchweh bekommen und hat in das Krankenhaus gehen müssen... wegen Kirschenkerne.</de>
+<en> My uncle once had terrible stomach ache and had to go to the hospital... because of cherry pits.</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Waga Kìrschastei?! Vìllìcht ehnder waga Gàllastei, denn dàs màcht Weh!</als>
+<fr>Docteur : - A cause de noyaux de cerises ?! Peut-être plutôt à cause de calculs biliaires, parce que ça, ça fait mal !</fr>
+<de>Arzt: - Wegen Kirschkerne?! Vielleicht eher wegen Gallensteine, weil das weh tut!</de>
+<en>Doctor: - Because of cherry pits? Perhaps rather because of gallstones, because that hurts!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Jo... ìch weiß jetz nìmm. Ìch hà àwer kè Àngscht vu'ma Stei.</als>
+<fr>Ah... je ne sais maintenant plus. Mais je n’ai pas peur d’un caillou.</fr>
+<de>Na ja... ich weiß jetzt nicht mehr. Aber ich habe keine Angst vor einem Stein!</de>
+<en>Well... now I do not know any longer. But I'm not afraid of a stone!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Dokter: - Wàs sàga-n-ìhr? Han ìhr wìrklig kè Àngscht? Ìch gìbb jetz èiech a güeter Rot: fer gsund bliiwa, trìnka ehnder Wàsser!</als>
+<fr>Docteur : - Qu’est-ce que vous dites ? N’avez-vous vraiment pas peur ? Je vous donne maintenant un bon conseil : pour rester en bonne santé, buvez plutôt de l’eau !</fr>
+<de>Arzt: - Was sagen Sie? Haben Sie wirklich keine Angst? Ich gebe jetzt euch ein guten Rat: um gesund zu bleiben, trinken Sie eher Wasser!</de>
+<en>Doctor: - What do you say? Are you really not afraid? I give you some good advice: to keep healthy, drink rather water!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+<elem>
+<id>Dokter_</id>
+<als>Nei. Ìch hà's nìt so garn. Un ìch wìll kè Wàsserstei ìm Büüch bikumma!</als>
+<fr>Non. Je ne l'apprécie pas tellement. Et je ne veux pas attraper un évier dans le ventre !</fr>
+<de>Nein. Ich mag das nicht so. Und ich will keinen Wasserstein (Waschbecken) im Bauch bekommen!</de>
+<en>No. I don’t like it so much. And I do not want to catch a sink in my belly!</en>
+<img></img>
+<audio/>
+</elem>
+ 
+ 
+ 
+ 
+ 
+<elem>
+<txt>Ce cours présente les questions. Les phrases interrogatives.
+</txt>
+</elem>
+ 
+ 
+ 
+</kurs>

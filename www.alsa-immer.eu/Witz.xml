@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Witz</nom_fic>
+        <creation>
+	    <auteur>MiLib</auteur>
+	    <date>18/09/2008</date>
+            <status>ok</status>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Wìtz</als>
+		<fr>Blagues</fr>
+	</elem>
+
+	<elem titre="h2">
+		<als>Wiistei</als>
+		<fr>Caillou de vin</fr>
+	</elem>
+
+	<elem>
+		<als>Dr Jules hàt Büüchweh un geht zum Dokter.</als>
+		<fr>Jules a mal au ventre et va chez le docteur.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Dokter untersüecht ìhn un frogt andlig:</als>
+		<fr>Le docteur l'ausculte et lui demande enfin :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Trìnken ìhr vìel Wii?</als>
+		<fr>- Est-ce que vous buvez beaucoup de vin ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Ja ja, zìmlig. Ìch sàg nia nei zu-n-era güeta Flascha!</als>
+		<fr>- Oui oui, pas mal. Je ne dis jamais non à une bonne bouteille !</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Ja do... Ìhr han jetzt a Wiistei ìm Büüch.</als>
+		<fr>- Ah ça alors... Vous avez maintenant un caillou de vin dans le ventre.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Wàs, a Wiistei? Oh jee ! Güet àss i ke Wàsser trunka hàn! ...sunscht hat i jetzt a Wàsserstei ìm Büüch!</als>
+		<fr>- Quoi, un caillou de vin ? Oh yé...! Heureusement que je n'ai pas bu d'eau ! ...sinon j'aurais maintenant un évier dans le ventre !</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Wo ìsch er?</als>
+		<fr>Où est-il ?</fr>
+	</elem>
+
+	<elem>
+		<als>'s gìtt mankmol Glagaheita wo ma a flotter Büe kàt àgaa ìn'ma a Maidla wo noch allei ìsch (fer sa verkuppla).</als>
+		<fr>Il y a parfois des occasions où on peut indiquer un charmant garçon à une fille qui est encore seule (pour les mettre en relation).</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wie reagiart dernoh s Maidla?</als>
+		<fr>Comment réagit alors la fille ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dàs kummt gànz druf à wia àlt s Maidla ìsch.</als>
+		<fr>Cela dépend complètement de l'âge de la fille.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìt Zwànzig frogt s Maidla:</als>
+		<fr>A vingt ans, la fille demande :</fr>
+	</elem>
+
+	<elem gras="1">
+		<als>Wia</als>
+	</elem>
+
+	<elem fin="br">
+		<als> ìsch er?</als>
+		<fr>Comment est-il ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìt Drissig frogt s Maidla:</als>
+		<fr>A trente ans, la fille demande :</fr>
+	</elem>
+
+	<elem gras="1">
+		<als>Wàs</als>
+	</elem>
+
+	<elem fin="br">
+		<als> ìsch er?</als>
+		<fr>Qu'est-il ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìt Viarzig frogt s Maidla nur noch:</als>
+		<fr>A quarante ans, la fille demande juste encore :</fr>
+	</elem>
+
+	<elem gras="1">
+		<als>Wo</als>
+	</elem>
+
+	<elem fin="br">
+		<als> ìsch er?!</als>
+		<fr>Où est-il ?!</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Àhà... Aha... Oho...</als>
+	</elem>
+
+	<elem>
+		<als>- Mina liewa Herra, ìch müeß n i ebis sàga.</als>
+		<fr>- Mes chers messieurs, j'ai quelque chose à vous dire.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Mìr han noch a Fàss...</als>
+		<fr>Nous avons encore un tonneau...</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Àhà</als>
+		<fr>(intérêt)</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>voll Wii...</als>
+		<fr>plein de vin...</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Aha</als>
+		<fr>(joie)</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>zum zàhla.</als>
+		<fr>à payer</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Oho</als>
+		<fr>(réticence)</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>A Wunder</als>
+		<fr>Un miracle</fr>
+	</elem>
+
+	<elem>
+		<als>'s ìsch a Mass ìn Thiarabàch.</als>
+		<fr>Il y a une messe à Thierenbach.</fr>
+	</elem>
+
+	<elem>
+		<als>Ma batet fer d krànka Litt, àss sa wìder gsund wara...</als>
+		<fr>On prie pour les personnes malades, pour qu'elles retrouvent la santé...</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Plätzlig heert ma a Mànn schrèia:</als>
+		<fr>Soudain on entend un homme s'écrier :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Jesess Màrià ! Jetzt kànn i làuifa!!!</als>
+		<fr>- Jésus Marie ! Maintenant je vais pouvoir marcher !!!</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Gànz verschrocka, kummt dr Pfàrer un frogt:</als>
+		<fr>Tout effrayé, le prêtre s'approche et demande :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Gott sei dànk ! Ìsch a Wunder pàssiert?</als>
+		<fr>- Dieu soit loué ! Est-ce qu'un miracle s'est produit ?</fr>
+	</elem>
+
+	<elem>
+		<als>- Eh nei,</als>
+		<fr>- Eh non,</fr>
+	</elem>
+
+	<elem>
+		<als>àntwortet dr Mànn,</als>
+		<fr>répond l'homme,</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>ìch hà gràd erfàhra àss mi Velo gstohla wora ìsch!</als>
+		<fr>je viens d'apprendre qu'on a volé mon vélo !</fr>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Angel han Flìgel</als>
+		<fr>Les anges ont des ailes</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Seppala frogt sina Màma:</als>
+		<fr>Le petit Joseph demande à sa mère :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Màma, han d Angel Flìgel?</als>
+		<fr>- Maman, est-ce que les anges ont des ailes ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Eh... ja, normàlerwiis han d Angel ìmmer Flìgel.</als>
+		<fr>Euh... oui, normalement les anges ont toujours des ailes.</fr>
+	</elem>
+
+	<elem>
+		<als>- 's ìsch doch komisch, Màma...</als>
+		<fr>- C'est quand même bizarre, Maman...</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Gìtt's ke Angel ohna Flìgel?</als>
+		<fr>Il n'existe pas d'anges sans ailes ?</fr>
+	</elem>
+
+	<elem>
+		<als>- Los, Seppala, ìch glàub nìt.</als>
+		<fr>- Ecoute, Joseph, je ne crois pas.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wurum frogsch dü mìch dàs?</als>
+		<fr>Pourquoi tu me demandes ça ?</fr>
+	</elem>
+
+	<elem>
+		<als>- Waga dr Màgt.</als>
+		<fr>- A cause de la bonne.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Pàpa sajt'ra ìmmer "Mi liawer Angel", un doch hàt sa ke Flìgel!</als>
+		<fr>Papa lui dit toujours "Mon cher ange", et pourtant elle n'a pas d'ailes !</fr>
+	</elem>
+
+	<elem>
+		<als>- Wàs!!! Ja, wìrrsch sah:</als>
+		<fr>- Quoi !!! Ah, tu vas voir :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dia fliägt boll!</als>
+		<fr>Celle-là elle va bientôt voler ! (être virée)</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Lèche</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn dr Schüel, d Lehrera Frogt:</als>
+		<fr>A l'école, la maîtresse demande :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- On va étudier le verbe "lécher". Pouvez-vous me dire une phrase avec un exemple de ce verbe ?</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Cynthia :</als>
+	</elem>
+
+	<elem color="purple" fin="br">
+		<als>- Je lèche un timbre pour le coller.</als>
+	</elem>
+
+	<elem fin="br">
+		<als>- Bien, bon exemple.</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Kevin :</als>
+	</elem>
+
+	<elem color="navy" fin="br">
+		<als>- Il lèche une glace à la vanille.</als>
+	</elem>
+
+	<elem fin="br">
+		<als>- Oui, c'est bien.</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Seppala (wo-n-a bìtsi büürisch ìsch):</als>
+		<fr>(qui est un peu péquenot)</fr>
+	</elem>
+
+	<elem color="maroon">
+		<als>- Gescht z'Owa, mina Eltra sìn ìm Bett gsìì,</als>
+		<fr>- Hier soir, mes parents étaient au lit,</fr>
+	</elem>
+
+	<elem color="maroon">
+		<als>no hàn i sa heera reeda.</als>
+		<fr>alors je les ai entendu parler.</fr>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>D Màma hàt ìm Pàpa gsajt...</als>
+		<fr>La mère a dit au père...</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Do bikummt d Lehrera Àngscht (sa dankt scho a bìtsi àn Sex):</als>
+		<fr>Là la maîtresse panique (elle pense déjà un peu à des choses sexulles) :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Non non, Seppala, C'est un mauvais exemple, on ne veut pas en entendre plus !</als>
+	</elem>
+
+	<elem>
+		<als>Dr àrm Seppala ìsch derno gànz trürig.</als>
+		<fr>Le pauvre Seppala est alors tout triste.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ar dankt:</als>
+		<fr>Il pense :</fr>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>- Wàs ìsch jetzt do derbi, d Màma sajt mankmol "André, läsch s Liächt".</als>
+		<fr>- Qu'est-ce que ça peut faire, la mère dit souvent "André, éteins la lumière".</fr>
+	</elem>
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Geliebter ìm Tiafkiahler</als>
+		<fr>Amant dans le congélateur</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Paul un dr Henri kumma àm gliich Momant ìn dr Hìmmel.</als>
+		<fr>Paul et Henri arrivent au même moment au ciel.</fr>
+	</elem>
+
+	<elem>
+		<als>- Sàlü Henri, sajt dr Paul, jetzt sìn mìr àlla zwei gstorwa.</als>
+		<fr>- Salut Henri, dit Paul, maintenant nous sommes tous les deux morts.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Wàs ìsch dìr pàssiert?</als>
+		<fr>Qu'est-ce qui t'est arrivé ?</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Ich bì ìm Tiafkiahler gfrohra. Un dü?</als>
+		<fr>- J'ai gelé dans le congélateur. Et toi ?</fr>
+	</elem>
+
+	<elem>
+		<als>- Ich bìn heim ku un hà mina Frau blutt gfunda.</als>
+		<fr>- Je suis rentré à la maison et j'ai trouvé ma femme nue.</fr>
+	</elem>
+
+	<elem>
+		<als>No hàn i mi ibelda àß sa mìtm a ànderer Mànn ìm Bett gse ìsch, un hà da Mànn fànga à süecha.</als>
+		<fr>Alors je me suis imaginé qu'elle était au lit avec un autre homme, et j'ai commencé à chercher cet homme.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ich hà scho eweràll glüegt kà, no bìn i noch uf s Dàch uffagrabst, un bìn tod kèit.</als>
+		<fr>J'avais déjà regardé partout, alors j'ai encore grimpé sur le toit, et suis mort en tombant.</fr>
+	</elem>
+
+	<elem>
+		<als>- Oh je! Wenn da nur glich ìm Tiafkiahler glüegt hattsch!</als>
+		<fr>- Oh yé ! Si seulement tu avais tout de suite regardé dans le congélateur !</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>No tata mìr àlla zwei noch lawa...</als>
+		<fr>Alors on vivrait encore tous les deux...</fr>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>1 2 3 4 5 pfui!</als>
+		<fr>1 2 3 4 5 pouah !</fr>
+	</elem>
+
+	<elem>
+		<als>Do sìn mìr ìn dr Schüel, ìn a zweisprochiger Kurs.</als>
+		<fr>Là on est à l'école, dans un cours bilingue.</fr>
+	</elem>
+
+	<elem>
+		<als>D Lehrera ìsch a Schweschter.</als>
+		<fr>L'enseignante est une religieuse.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Sa lehrt aui ìn da Kìnder Elsassisch z reeda.</als>
+		<fr>Elle apprend aussi aux enfants à parler alsacien.</fr>
+	</elem>
+
+	<elem>
+		<als>Het kummt a Inspecteur.</als>
+		<fr>Aujourd'hui, un inspecteur vient.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Ar verlàngt ìm a Maidla bis uf Zehna z zähla.</als>
+		<fr>Il demande à une petite fille de compter jusqu'à dix.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Eins zwei drei viär fìmf pfui sewa àcht nina zehna</als>
+		<fr>- Un deux trois quatre cinq pouah sept huit neuf dix</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Aha, komisch... dankt dr Inspecteur. Ar frogt aui a Biäwla.</als>
+		<fr>- Ah, c'est bizarre, pense l'inspecteur. Il demande aussi à un petit garçon.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Eins zwei drei viär fìmf pfui sewa àcht nina zehna</als>
+		<fr>- Un deux trois quatre cinq pouah sept huit neuf dix</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Jetzt müeß dr Inspecteur doch froga wàs los ìsch mìt dam "Pfui".</als>
+		<fr>Maintenant l'inspecteur doit quand même demander ce qui se passe avec ce "pouah".</fr>
+	</elem>
+
+	<elem>
+		<als>- Jo, wìsse-n-ìhr, expliziärt d Schweschter, dàs sìn doch noch kleina Kìnder.</als>
+		<fr>- Oh, vous savez, explique la soeur religieuse, ce sont donc encore de petits enfants.</fr>
+	</elem>
+
+	<elem>
+		<als>Ma kàt ìhna noh nìt vu </als>
+	</elem>
+
+	<elem gras="1">
+		<als>Sex</als>
+	</elem>
+
+	<elem fin="br">
+		<als> reda!</als>
+		<fr>On ne peut pas encore leur parler de sexe !</fr>
+	</elem>
+
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Isabelle Muller</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Ìn dr Kàsarna wara d Militär ààgrüefa.</als>
+		<fr>A la caserne, on fait l'appel des militaires.</fr>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>- Michel Dupont</als>
+	</elem>
+
+	<elem fin="br">
+		<als>- Présent</als>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>- Alain Legrand</als>
+	</elem>
+
+	<elem fin="br">
+		<als>- Présent</als>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>- ... Isabelle Muller ?</als>
+	</elem>
+
+	<elem color="maroon">
+		<als>- Présent</als>
+	</elem>
+
+	<elem fin="br">
+		<als> (mìt'm a stàrka mannliga Stìmm)</als>
+		<fr>(avec une forte voix virile)</fr>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>- Isabelle Muller, avancez de deux pas !</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Do kummt a Làpi mìt'm a Biarrànza...</als>
+		<fr>Alors vient un colosse avec un bide de buveur de bière...</fr>
+	</elem>
+
+	<elem gras="1" fin="br">
+		<als>- Comment ça se fait que vous portez le prénom "Isabelle" ?</als>
+	</elem>
+
+	<elem fin="br">
+		<als>No àntwortet dr Làpi:</als>
+		<fr>Alors le colosse répond :</fr>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>- Yoo, fous safez : ça c'est la faute à mon père. Quand che suis né, il m'a déclaré à la mairie. Le maire a demande "Comment il s'abbelle ?" et mon père a répondu "I s'abbelle Muller".</als>
+	</elem>
+
+
+
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Macon</als>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Ìm Zug sìtza drèi Manner nooch ànànder, a Elsasser un zwei walcha Sprìchala.</als>
+		<fr>Dans le train, trois hommes sont assis à proximité l'un de l'autre, un Alsacien et deux Français de l'intérieur prétentieux.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Elsasser wott a betsi mìt'na reeda, àwer ar hàt dr Gfühl àss se'na üsslàcha.</als>
+		<fr>L'Alsacien voudrait un peu parler avec eux, mais il a l'impression qu'ils se moquent de lui.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>'s ìsch Egàl, dr Elsasser hàt lànga Zitt un wìll doch reeda:</als>
+		<fr>C'est égal, l'Alsacien s'ennuie et veut quand même parler :</fr>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>- Excüsiara mi, puiche fous demanter où fouss allez ?</als>
+	</elem>
+
+	<elem>
+		<als>- À Parris, avec deux "r". </als>
+	</elem>
+
+<elem fin="br">
+		<als>àntwortet dr erscht Sprìchala, ìm Làcha.</als>
+		<fr>répond le premier frimeur, en rigolant.</fr>
+	</elem>
+
+	<elem>
+		<als>- À Toulousse, avec deux "s". </als>
+	</elem>
+
+<elem>
+		<als>àntwortet dr zweit Sprìchala.</als>
+		<fr>répond le deuxième frimeur.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Et vous-même, où allez-vous Monsieur ?</als>
+	</elem>
+
+	<elem color="maroon" fin="br">
+		<als>- À Macon, avec deux cons !</als>
+	</elem>
+
+
+
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Ìm Hell</als>
+		<fr>En enfer</fr>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Dr Schangi ìsch gschtorwa un kummt leider ìn d Hell.</als>
+		<fr>Jean est mort et arrive malheureusement en enfer.</fr>
+	</elem>
+
+	<elem>
+		<als>Fer d Itrìtt müeß er sìch bim Sànkt Petrus ààmalda.</als>
+		<fr>Pour l'entrée, il doit voir ça avec Saint-Pierre.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Da expliziert ìhm:</als>
+		<fr>Celui-ci lui explique :</fr>
+	</elem>
+
+	<elem>
+		<als>- Wial dü a Elsasser bìsch, hàsch dü dr Wàhl zwìscha d frànzeescha Hell un d ditscha Hell.</als>
+		<fr>- Comme tu es un Alsacien, tu as le choix entre l'enfer français et l'enfer allemand.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Müesch mìr nur sàga wo da liawer gehsch.</als>
+		<fr>Tu dois juste me dire où tu préfères aller.</fr>
+	</elem>
+
+	<elem>
+		<als>Dr Schàngi geht àn d frànzeescha Hell un frogt wia s làuft.</als>
+		<fr>Jean va à l'enfer français et demande comment ça marche.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>A jung Dèifel expliziart ìhm:</als>
+		<fr>Un jeune diable lui explique :</fr>
+	</elem>
+
+	<elem>
+		<als>- Le matin il faut boire de l'huile bouillante, à midi il faut manger des braises, et le soir il faut se baigner dans de l'eau bouillante.</als>
+	</elem>
+
+	<elem fin="br">
+		<als>Voilà le programme, dans l'enfer français.</als>
+	</elem>
+
+	<elem>
+		<als>Dr àrm Schàngi bikummt Àngscht...</als>
+		<fr>Le pauvre Jean prend peur...</fr>
+	</elem>
+
+	<elem>
+		<als>Derno geht er geh lüega ìn dr ditscha Hell.</als>
+		<fr>Puis il va voir dans l'enfer allemand.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Do sajt ìhm a Tèifel:</als>
+		<fr>Là un diable lui dit :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Am Morgen muss man kochendes Öl trinken, an Mittag muss man Gluten essen, un am Abend muss man in kochendem Wasser baden.</als>
+		<fr>- Le matin il faut boire de l'huile bouillante, à midi il faut manger des braises, et le soir il faut se baigner dans de l'eau bouillante.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Schàngi geht zruck zum Sànt Petrus un sajt ìhm:</als>
+		<fr>Jean retourne auprès de Saint Pierre et lui dit :</fr>
+	</elem>
+
+	<elem>
+		<als>- Dàs ìsch àwer bleed, 's kummt uf s gliicha üssa:</als>
+		<fr>- Mais alors ça c'est bête, ça revient au même</fr>
+	</elem>
+
+	<elem fin="br">
+		<als> ìch seh kei Unterschìed zwìscha d frànzeescha un d ditscha Hell!</als>
+		<fr> je ne vois aucune différence entre l'enfer français et allemand !</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Dr Sànt Paulus àntwortet:</als>
+		<fr>Saint Pierre répond :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Los, màchscht wia da wìtt, àwer d Elsasser gehn meischens liawer ìn d frànzeescha Hell...</als>
+		<fr>- Ecoute, tu fais comme tu veux, mais les Alsaciens préfèrent généralement aller dans l'enfer français...</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Àh... Wurum? Waga Patriotismus?</als>
+		<fr>- Ah... Pourquoi ? A cause du patriotisme ?</fr>
+	</elem>
+
+	<elem>
+		<als>- Eh nei!... </als>
+		<fr>- Mais non !...</fr>
+	</elem>
+
+	<elem>
+		<als>Ewerlìg doch a bìtsi!</als>
+		<fr>Réfléchis donc un peu !</fr>
+	</elem>
+
+	<elem>
+		<als>D ditscha Hell làuift prima, àwer ìn d frànzeescha Hell, weisch...</als>
+		<fr>L'enfer allemand fonctionne très bien, mais dans l'enfer français, tu sais...</fr>
+	</elem>
+
+	<elem>
+		<als>a Tàg han sa ke Eel meh, oder ke Wàsser meh, a ànder Tàg màcha sa Grève un ìsch gàr nit los,</als>
+		<fr>un jour ils n'ont plus d'huile, ou plus d'eau, un autre jour ils font grève et il ne se passe rien,</fr>
+	</elem>
+
+	<elem>
+		<als> un vìelmol vergassa sa no z'lüega eb àlla rìchtig tüen z'Owa bàda.</als>
+		<fr> et souvent ils oublient de vérifier si tous se baignent bien le soir.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Hàsch's jetzt andlig verstànda?</als>
+		<fr>As-tu maintenant enfin compris ?</fr>
+	</elem>
+
+
+
+
+
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Trìnka nìt vu dam Wàsser!</als>
+		<fr>Ne bois pas de cette eau !</fr>
+	</elem>
+
+	<elem>
+		<als>A Grup Junga spàziara, uf's Lànd.</als>
+		<fr>Un groupe de jeunes se promènent, dans la campagne.</fr>
+	</elem>
+
+	<elem>
+		<als>'s ìsch wàrm, s han durscht...</als>
+		<fr>il fait chaud, ils ont soif...</fr>
+	</elem>
+
+	<elem>
+		<als>Andlig fìnda sa-n-a Bachla, sa wann trìnka.</als>
+		<fr>Enfin ils trouvent un ruisseau, ils veulent boire.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Àwer do kummt a Büür, wo schrèit:</als>
+		<fr>Mais un paysan vient, qui crie :</fr>
+	</elem>
+
+	<elem>
+		<als>- Trìnka nìt vu dam Wàsser!</als>
+		<fr>- Ne buvez pas de cette eau !</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>D Kiah schissa drii!</als>
+		<fr>Les vaches chient dedans !</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>A Junger lüegt so dumm un sajt:</als>
+		<fr>Un des jeunes regarde bêtement et dit :</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Oh monsieur, parlez français, quoi ! Vous croyez qu'on va comprendre votre dialecte d'arriéré ?</als>
+		<de>- He Mann, sprechen Sie Französisch! Meinen Sie dass wir ihren altmodischen Dialekt verstehen werden?</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Noh sajt dr Büür:</als>
+		<fr>Alors le paysan dit:</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>- Bois doucement ! Elle est froide...</als>
+		<de>- Trink langsam! Es ist kalt...</de>
+	</elem>
+
+
+	<elem fin="br"/>
+
+	<elem titre="h2">
+		<als>Känna zehla...</als>
+		<fr>Savoir compter...</fr>
+	</elem>
+	
+	<elem fin="br">
+		<als>As gìtt drèierlei Sorta Litt:</als>
+		<fr>Il existe trois sortes de gens :</fr>
+		<de></de>
+	</elem>
+	
+	<elem puce="disc">
+		<als>Dia wo känna zehla.</als>
+		<fr>Ceux qui savent compter.</fr>
+		<de></de>
+	</elem>
+	
+	<elem puce="disc">
+		<als>Dia wo nìt känna zehla.</als>
+		<fr>Ceux qui ne savent pas compter.</fr>
+		<de></de>
+	</elem>
+	
+
+
+
+
+
+
+</article>

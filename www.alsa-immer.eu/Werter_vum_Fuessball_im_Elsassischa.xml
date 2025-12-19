@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V1_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Werter_vum_Fuessball_im_Elsassischa</nom_fic>
+        <creation>
+		<auteur>Marcala</auteur>
+		<date>30/08/2008</date>
+        </creation>
+	<meta name="robots" content="NOINDEX, NOFOLLOW"/>
+
+	<elem titre="h1">
+		<als>Wärter vum Füeßbàll ìm Elsassischa</als>
+		<fr>Les mots du football en alsacien</fr>
+	</elem>
+
+	<elem>
+		<img_fic>album/ballon_foot.jpg</img_fic>
+	</elem>
+
+	<elem titre="h2">
+		<als>Gschìcht vum Füeßbàll</als>
+		<fr>Histoire du Football</fr>
+	</elem>
+
+	<elem>
+		<als>Dr Füeßbàll nìmmt a Àfàng ìm Elsàss àm And vum 19. Jorhundert.</als>
+		<fr>Le football démarre en Alsace à la fin du 19ème siècle.</fr>
+	</elem>
+
+	<elem>
+		<als>Àm Àfàng ìsch da Sport städlig und burgerlig.</als>
+		<fr>Au début c'est un sport urbain et bourgeois.</fr>
+	</elem>
+
+	<elem>
+		<als>Dàs kàt ma güet versteh denn as sìn Anglischa Studanta wo da Sport vum Anglànd mìtbrocht han.</als>
+		<fr>C'est bien compréhensible, car ce sont des étudiants anglais qui ont ramené ce sport d'Angleterre.</fr>
+	</elem>
+
+	<elem fin="br">
+		<als>Àwer mìt dr Zit tüet sìch Füeßball verbreita ìm Volk.</als>
+		<fr>Mais avec le temps, le football devient plus populaire.</fr>
+	</elem>
+
+	<elem titre="h2">
+		<als>D Wärter vum Füeßbàll</als>
+		<fr>Les mots du Football</fr>
+	</elem>
+
+	<elem>
+		<als>Ìm elsassisch kumma d meista Wärter vu dr ditscha Sproch.</als>
+		<fr>En alsacien, la plupart des mots viennent de la langue allemande.</fr>
+	</elem>
+
+	<elem>
+		<als>Dernoh gìbt s frànzeescha Werter wo aui derzüe ghera.</als>
+		<fr>Puis il y a des mots français qui en font aussi partie.</fr>
+	</elem>
+
+	<elem>
+		<als>Füeßbàll ìsch ìn dam a Üsnàhm : d Wärter vo ma nutzt ìm Füeßbàall han oj verschìdena Ursprung, awer bsunders vìel kumma vum anglisch.</als>
+		<fr>En cela le football est une exception : les mots employés dans le football ont aussi des origines diverses, mais ils sont particulièreent nombreux à provenir de l'anglais.</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Corner</als>
+		<de>Eckball</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Flìgel</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>Fowl</als>
+		<fr>faute</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Goal (Kummt vum Anglischa. Uf Ditsch war's "Tor".)</als>
+		<fr>But</fr>
+		<de>Tor</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Goalmànn</als>
+		<fr>Gardien de but</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>Händs</als>
+		<fr>main</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>holza</als>
+		<fr>faire du petit bois (un jeu dur)</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>käpfla</als>
+		<fr>jouer / marquer avec la tête</fr>
+	</elem>
+
+	<elem puce="disc">
+		<als>müüra</als>
+		<fr>bétonner</fr>
+		<de>mauern</de>
+	</elem>
+
+	<elem puce="disc">
+		<als>Süpporter</als>
+	</elem>
+
+	<elem puce="disc">
+		<als>uf Sits (Vum Anglisha : offsides)</als>
+	</elem>
+
+
+	<elem fin="br">
+		<als>Vu dr OLCA</als>
+		<link>http://www.olcalsace.org/fr/was-gibts-nejes/id-246/was-gibt-s-nejes-actualites.html</link>
+	</elem>
+
+
+	<elem>
+		<als>http://www.olcalsace.org/UserFiles/File/lexiques/lexique_foot_2009.pdf</als>
+		<link>http://www.olcalsace.org/UserFiles/File/lexiques/lexique_foot_2009.pdf</link>
+	</elem>
+
+
+
+</article>

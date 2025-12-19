@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet href="siteAlsa_html_V2_0.xsl" type="text/xsl"?>
+
+<article>
+	<nom_fic>Albert_Schweitzer</nom_fic>
+        <creation>
+	    <auteur>RLedermann</auteur>
+	    <date>04/05/2012</date>
+       <status>OK</status>
+        </creation>
+	<meta name="robots" content="NOINDEX"/>
+
+	<elem titre="h1">
+		<als>Albert Schweitzer</als>
+	</elem>
+
+
+
+	<elem fin="br">
+		<img_fic>http://upload.wikimedia.org/wikipedia/commons/5/58/Bundesarchiv_Bild_183-D0116-0041-019%2C_Albert_Schweitzer.jpg</img_fic>
+		<als>Albert Schweitzer (Bìld üs Wikipedia)</als>
+		<img_h>200</img_h>
+	</elem>
+
+	<elem fin="br">
+		<als>Pfàrrer, Philosoph, Àrzt, Müsikforscher un Orgànìscht, Schrìftsteller, Frìedensnobelpris 1952.</als>
+		<fr>Prêtre, philosophe, médecin, musicologue et organiste, écrivain, prix Nobel de la paix en 1952.</fr>
+		<de>Pfarrer, Philosoph, Arzt, Musikforscher und Organist, Schriftsteller, Frìedensnobelpreis 1952.</de>
+	</elem>
+
+
+
+
+	<elem titre="h2">
+		<als>Jugend</als>
+		<fr>Jeunesse</fr>
+		<de>Jugend</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Albert Schweitzer ìsch àm 14. Janner 1875 z'Kaysersbarg gebora, ìn dara Zit wo 's Elsàss zum Ditscha Reich gheert hàt.</als>
+		<fr>Albert Schweitzer est né le 14 janvier 1875 à Kaysersberg, à l'époque où l'Alsace faisait partie de l'empire allemand.</fr>
+		<de>Albert Schweitzer ist am 14. Januar 1875 in Kaysersberg geboren, in dieser Zeit wo das Elsass zum Deutschen Reich gehörte.</de>
+	</elem>
+
+	<elem>
+		<als>Ar ìsch sechs Monet àlt wun sina Pàpa uf Gunsbàch versetzt wurd fer 's Paschtoraàmt z'ewernamma.</als>
+		<fr>Il a six mois quand son père est nommé à Gunsbach pour y reprendre la fonction de pasteur.</fr>
+		<de>Er ist sechs Monaten alt, als sein Vater auf Günsbach verstezt wird um das Pastorenamt zu übernehmen.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ar verbrìngt sini Kìndheit z'Gunsbach un erwähnt sie in'ma Büach „Aus meiner Kindheit und Jugendzeit“; às a Kìnd leert ar Orgel spìela.</als>
+		<fr>Il passe son enfance à Gunsbach et la relate dans un livre "Aus meiner Kindheit und Jugendzeit" ; étant enfant, il apprend à jouer de l'orgue.</fr>
+		<de>Er verbringt seine Kindheit in Günsbach und erwähnt sie in einem Buch „Aus meiner Kindheit und Jugendzeit“; als Kind lernt er Orgel zu spielen.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ar bsüacht s Gymnasium (lycée) z'Mìlhüsa un geht ìm Oktower 1893 noh Stroßburg un studiart Theologie un Philosophie.</als>
+		<fr>Il fréquente le lycée à Mulhouse et va en octobre 1893 à Strasbourg et étudie la théologie et la philosophie.</fr>
+		<de>Er besucht das Gymnasium in Mülhausen und geht im Oktober 1893 nach Straßburg und studiert Theologie und Philosophie.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Ànna 1905 unternìmmt'r noch a Medizinstudium.</als>
+		<fr>En 1905, il entreprend encore des études de médecine.</fr>
+		<de>1905 unternimmt er noch ein Medizinstudium.</de>
+	</elem>
+
+
+	<elem titre="h2">
+		<als>Dokter Schweitzer</als>
+		<fr>Docteur Schweitzer</fr>
+		<de>Doktor Schweitzer</de>
+	</elem>
+
+
+	<elem>
+		<als>1913 màcht ar si Àrzt-Stààtsexàma un geht ìm namliga Johr àls Missionsàrzt ìn's hìtiga Gabun noh Lambaréné ìm Ürwàld un grìndet a Leprastàtion.</als>
+		<fr>En 1913, il passe son examen d'état de médecine et part la même année vers l'actuel Gabon, à Lambaréné dans la forêt vierge, et fonde un dispensaire pour les lépreux.</fr>
+		<de>1913 macht er seinen Arzt-Staatsexamen un geht im nämlichen Jahr als Missionsarzt in das heutige Gabon nach Lambaréné im Urwald und gründet eine Leprastation.</de>
+	</elem>
+
+	<elem>
+		<als>Ar verlosst d' Heimet mìt sinra Fràui, Helene Breslau.</als>
+		<fr>Il quitte son pays natal avec sa femme, Hélène Breslau.</fr>
+		<de>Er verlässt die Heimat mit seiner Frau, Helene Breslau.</de>
+	</elem>
+
+	<elem>
+		<als>A pààr Monet später brìcht d'r Erscht Waltkriag üs.</als>
+		<fr>Quelques mois plus tard éclate la première guerre mondiale.</fr>
+		<de>Ein paar Monaten später bricht der Erst Weltkrieg aus.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>1917, erschäpft dur da erscht Ufenthàlt ìn da Tropa, kummt ss Ehpààr Schweitzer zruck noh Frankrich, d'r Kriag wiatet scho siter drèi Johr, àls ditscha Stààtsbìrger wurd ar in Frànkrich ìnterniart.</als>
+		<fr>En 1917, épuisé par son premier séjour sous les Tropiques, le couple Schweitzer retourne en France, la guerre fait rage depuis trois ans, en tant que citoyen allemand, il est interné en France.</fr>
+		<de>1917, erschöpft durch diesen ert Aufenthalt in den Tropen, kommt das Ehepaar Schweitzer nach Frankreich, dr Krieg wütet schon seit drei Jahren, als deutsche Staatsbürger wird er in Frankreich interniert.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>1924 àls franzeescha Stààtsbìrger kehrt ar noh Lambaréné zruck un bàuit ànna 1927 a nèia und greeßera Missionspìtàl.</als>
+		<fr>En 1924, en tant que citoyen français, il retourne à Lambaréné et construit en 1927 un nouvel hôpital missionnaire plus grand.</fr>
+		<de>1924 als Französischen Staatsbürger kehrt er nach Lambaréné zurück und baut 1927 ein neues und größeres Krankenhaus.</de>
+	</elem>
+
+	<elem fin="br">
+		<als>Do wìrkt ar bis zu sim Tod àm 4. September 1965 un fìndet àm Ogowoflussufer sini letscht Rüaih.</als>
+		<fr>Il oeuvre là jusqu'à sa mort le 4 septembre 1965 et trouve son ultime repos sur les rives du fleuve Ogooué.</fr>
+		<de>Da wirkt er bis zu seinem Tod am 4. September 1965 und findet am Ogowoflussufer seine letste Ruhe.</de>
+	</elem>
+
+
+
+
+
+
+	<elem titre="h2">
+		<als>Ìntressànta Lìnks</als>
+		<fr>Liens intéressants</fr>
+		<de>Interessante Links</de>
+	</elem>
+
+	<elem fin="br">
+		<link>http://video.google.de/videoplay?docid=933526863039676302&amp;ei=jD1bS6KGIZPQ-AbBpsiGCw&amp;q=albert+schweitzer+&amp;hl=de#</link>
+		<als>Google videos - Albert Schweitzer (christlicher Spielfilm) Bibel TV</als>
+		<fr>Google videos - Albert Schweitzer (film chrétien) Bibel TV</fr>
+		<de>Google videos - Albert Schweitzer (christlicher Spielfilm) Bibel TV</de>
+	</elem>
+
+
+	<elem fin="br">
+		<link>http://einestages.spiegel.de/static/authoralbumbackground/5621/orgeln_im_urwald.html</link>
+		<als>einestages - Orgeln im Urwald</als>
+		<fr>einestages - Orgue dans la forêt vierge</fr>
+		<de>einestages - Orgeln im Urwald</de>
+	</elem>
+
+
+
+</article>
