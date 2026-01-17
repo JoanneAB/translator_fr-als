@@ -1,13 +1,11 @@
+## What is it ? 
 
-
-## What is it ?
-
-This study used a dataset of personal and medical data of more than $5 000$ patients in order to 
-predict the event of stroke. After data analysis and feature selection, three machine learning models 
-have been trained and tested. Results show that a linear approach is sufficient in order to accuratly 
-predict a stroke event for a patient. The model do however predicts a high rate of false positives 
-wich will lead to further clinical testing to patients that actually are not at risk of stroke. In 
-medical studies, such prediction is best. 
+This repository proposes a model for a translation task from French to Alsatian (dialiect in Alsace, North-East France)
+languages. Because Alsatian is a spoken and non-standard language with significant regional variation across Alsace, the
+development of a robust and accurate models is not expected. The objective of this project is to explore and
+apply the concepts learned during the deep-learning course on a challenging application. 
+Words and sentences in French and their translation in Alsatian have been downloaded from the Internet from 
+several sources.
 
 A full report is availaible [report.pdf](https://github.com/JoanneAB/translator_fr-als/blob/main/report/report.pdf).
 
